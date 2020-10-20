@@ -1,0 +1,27 @@
+contact_residues	paper	notes
+K417	Lan2020Nature
+G446	Lan2020Nature
+Y449	Lan2020Nature
+Y453	Lan2020Nature
+L455	Lan2020Nature
+F456	Lan2020Nature
+A475	Lan2020Nature
+F486	Lan2020Nature
+N487	Lan2020Nature
+Y489	Lan2020Nature
+Q493	Lan2020Nature
+G496	Lan2020Nature
+Q498	Lan2020Nature
+T500	Lan2020Nature
+N501	Lan2020Nature
+G502	Lan2020Nature
+Y505	Lan2020Nature
+L455	Shang2020Nature	critical_residues_only
+G482	Shang2020Nature	critical_residues_only
+V483	Shang2020Nature	critical_residues_only
+E484	Shang2020Nature	critical_residues_only
+G485	Shang2020Nature	critical_residues_only
+F486	Shang2020Nature	critical_residues_only
+Q493	Shang2020Nature	critical_residues_only
+S494	Shang2020Nature	critical_residues_only
+N501	Shang2020Nature	critical_residues_only

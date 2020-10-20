@@ -1,0 +1,2002 @@
+	subject	query	description	score	peptide
+0	RKSGLVLPKPFERDI	RKSNLKPFERDI	HIRAN domain-containing protein [Urinicoccus sp. Marseille-P3926]	32.5	0
+1	FRKSNLKPGEQAIS	FRKSNLKPFERDIS	FecR family protein [Pedobacter sp. RP-3-15]	32.0	0
+2	FRKSNLKPGEQAIS	FRKSNLKPFERDIS	FecR family protein [Pedobacter nutrimenti]	32.0	0
+3	NLPFERDIST	NLKPFERDIST	DEAD/DEAH box helicase family protein, partial [Puniceicoccaceae bacterium]	31.6	0
+4	SNLSPFERDI	SNLKPFERDI	DNA/RNA helicase [Oscillatoria acuminata]	31.2	0
+5	RKCNLDPFEREI	RKSNLKPFERDI	ParB/RepB/Spo0J family partition protein [Tolypothrix bouteillei]	31.2	0
+6	RKNNLKPFSKDI	RKSNLKPFERDI	hypothetical protein [Flammeovirga kamogawensis]	31.2	0
+7	RKCNLDPFEREI	RKSNLKPFERDI	hypothetical protein [Scytonema hofmannii]	31.2	0
+8	RKNNLKAFERGI	RKSNLKPFERDI	radical SAM protein [Gemmataceae bacterium]	30.8	0
+9	RKSNLKVRKQIENFEREINT	RKSNLKPFERDIST	hypothetical protein BBBOND_0313910 [Babesia bigemina]	30.3	0
+10	NLKAFARDIST	NLKPFERDIST	hypotheticalsprotein [Cercospora beticola]	30.3	0
+11	RKSNLKVRKQIENFEREINT	RKSNLKPFERDIST	hypothetical protein, conserved [Babesia bigemina]	30.3	0
+12	RRSILKPFEKNIS	RKSNLKPFERDIS	hypothetical protein [Candidatus Marinamargulisbacteria bacterium SCGC AG-343-D04]	30.3	0
+13	FRKSAVIYAGSWQNGELKPFERD	FRKSNLKPFERD	nickel-dependent hydrogenase large subunit [Archaeoglobus profundus]	30.3	0
+14	FRKNLKPFESSDI	FRKSNLKPFERDI	NAD-dependent epimerase/dehydratase family protein [Hyphobacterium sp. CCMP332]	30.3	0
+15	NLKNFQRDIST	NLKPFERDIST	uncharacterized protein TRUGW13939_09067 [Talaromyces rugulosus]	29.9	0
+16	FRKAIDGAPNANLKPFER	FRKSNLKPFER	hypothetical protein M441DRAFT_72048 [Trichoderma asperellum CBS 433.97]	29.9	0
+17	FRSNLHAKPFERLDVS	FRKSNLKPFERDIS	SusC/RagA family TonB-linked outer membrane protein [Sphingobacterium hotanense]	29.9	0
+18	SNLKNFERDI	SNLKPFERDI	ATP-dependent DNA helicase Q5-like [Halyomorpha halys]	29.9	0
+19	LKPYERNIST	LKPFERDIST	Kinase, NEK [Giardia lamblia ATCC 50803]	29.9	0
+20	FRKLNLKPFE	FRKSNLKPFE	M20/M25/M40 family metallo-hydrolase [Flavobacteriaceae bacterium JJC]	29.9	0
+21	FRKPNLKKFER	FRKSNLKPFER	glycosyltransferase family 4 protein [Leptospira wolffii]	29.9	0
+22	LKPFERDI	LKPFERDI	protein arginine kinase [Bacillus kwashiorkori]	29.9	0
+23	NLKRFERDLST	NLKPFERDIST	zinc ABC transporter substrate-binding protein [Marinobacter sp. PJ-16]	29.9	0
+24	NLKPFERD	NLKPFERD	ATP-dependent zinc protease [Arenicella xantha]	29.9	0
+25	FRKDLKPFER	FRKSNLKPFER	thioesterase family protein [Solimicrobium silvestre]	29.9	0
+26	RKSSLKPMERD	RKSNLKPFERD	C-GCAxxG-C-C family protein [Clostridia bacterium]	29.9	0
+27	NLKPFERD	NLKPFERD	hypothetical protein [Clostridiaceae bacterium]	29.9	0
+28	NLKPFERD	NLKPFERD	hypothetical protein [Candidatus Dorea massiliensis]	29.9	0
+29	NLKAFSRDIST	NLKPFERDIST	probable acyl CoA ligase-like protein [Ramularia collo-cygni]	29.5	0
+30	RTSNLKPFEQQI	RKSNLKPFERDI	DUF87 domain-containing protein [Weissella jogaejeotgali]	29.5	0
+31	RKANLKPFE	RKSNLKPFE	dihydroxy-acid dehydratase [Candidatus Gastranaerophilales bacterium]	29.5	0
+32	FRKLCKPFERQIS	FRKSNLKPFERDIS	uncharacterized protein LOC110451672 [Mizuhopecten yessoensis]	29.5	0
+33	KPFERDIS	KPFERDIS	hypothetical protein VCUG_00589 [Vavraia culicis subsp. floridensis]	29.5	0
+34	FRKNDLKPSTFER	FRKSNLKPFER	site-specific integrase [Clostridium thermobutyricum]	29.5	0
+35	FRKSNLKPLVGDDVEIDI	FRKSNLKPFERDI	ribosome small subunit-dependent GTPase A [Butyrivibrio sp. VCB2006]	29.5	0
+36	RKANLDPFVRDIVT	RKSNLKPFERDIST	desiccation-related protein PCC13-62 [Dendrobium catenatum]	29.5	0
+37	RKANLDPFVRDIVT	RKSNLKPFERDIST	desiccation-related protein PCC13-62, partial [Phalaenopsis equestris]	29.5	0
+38	KSNLKPILDERNIS	KSNLKPFERDIS	helix-turn-helix transcriptional regulator [Bacillus velezensis]	29.5	0
+39	KSNLKPILDERNIS	KSNLKPFERDIS	helix-turn-helix transcriptional regulator [Bacillus amyloliquefaciens]	29.5	0
+40	KSNLKPILDERNIS	KSNLKPFERDIS	helix-turn-helix transcriptional regulator [Bacillus velezensis]	29.5	0
+41	KSNLKPILDERNIS	KSNLKPFERDIS	helix-turn-helix transcriptional regulator [Bacillus amyloliquefaciens]	29.5	0
+42	KSNLKPILDERNIS	KSNLKPFERDIS	MULTISPECIES: helix-turn-helix transcriptional regulator [Bacillus]	29.5	0
+43	KSNLKPIIDERNIS	KSNLKPFERDIS	helix-turn-helix transcriptional regulator [Bacillus velezensis]	29.5	0
+44	KSNLKPILDERNIS	KSNLKPFERDIS	helix-turn-helix transcriptional regulator [Bacillus velezensis]	29.5	0
+45	KSNLKPILDERNIS	KSNLKPFERDIS	helix-turn-helix domain-containing protein [Bacillus velezensis]	29.5	0
+46	KSNLKPILDERNIS	KSNLKPFERDIS	MULTISPECIES: helix-turn-helix domain-containing protein [Bacillus amyloliquefaciens group]	29.5	0
+0	LKPYERNISTE	LKPFERDISTE	Kinase, NEK [Giardia lamblia ATCC 50803]	33.3	1
+1	RKSGLVLPKPFERDI	RKSNLKPFERDI	HIRAN domain-containing protein [Urinicoccus sp. Marseille-P3926]	32.5	1
+2	RKNNLKPFSKDIKNE	RKSNLKPFERDISTE	hypothetical protein [Flammeovirga kamogawensis]	32.0	1
+3	NLPFERDIST	NLKPFERDIST	DEAD/DEAH box helicase family protein, partial [Puniceicoccaceae bacterium]	31.6	1
+4	LKPFEKDISIE	LKPFERDISTE	hypothetical protein [Chryseobacterium shigense]	31.6	1
+5	RKSNLKPGEQAISSE	RKSNLKPFERDISTE	FecR family protein [Pedobacter sp. RP-3-15]	31.6	1
+6	RKSNLKPGEQAISSE	RKSNLKPFERDISTE	FecR family protein [Pedobacter nutrimenti]	31.6	1
+7	SNLSPFERDI	SNLKPFERDI	DNA/RNA helicase [Oscillatoria acuminata]	31.2	1
+8	RKCNLDPFEREI	RKSNLKPFERDI	ParB/RepB/Spo0J family partition protein [Tolypothrix bouteillei]	31.2	1
+9	RKCNLDPFEREI	RKSNLKPFERDI	hypothetical protein [Scytonema hofmannii]	31.2	1
+10	NLKPLERSGFVEDISTE	NLKPFERDISTE	MarR family transcriptional regulator [Clostridium kluyveri]	31.2	1
+11	NLKAFARDISTQ	NLKPFERDISTE	hypotheticalsprotein [Cercospora beticola]	30.8	1
+12	RKNNLKAFERGI	RKSNLKPFERDI	radical SAM protein [Gemmataceae bacterium]	30.8	1
+13	LRPFEEATRDISTE	LKPFERDISTE	zinc finger BED domain-containing protein 1-like [Monopterus albus]	30.8	1
+14	RKSNLKVRKQIENFEREINT	RKSNLKPFERDIST	hypothetical protein BBBOND_0313910 [Babesia bigemina]	30.3	1
+15	NLKNFQRDISTQ	NLKPFERDISTE	uncharacterized protein TRUGW13939_09067 [Talaromyces rugulosus]	30.3	1
+16	RKSNLKVRKQIENFEREINT	RKSNLKPFERDIST	hypothetical protein, conserved [Babesia bigemina]	30.3	1
+17	RRSILKPFEKNIS	RKSNLKPFERDIS	hypothetical protein [Candidatus Marinamargulisbacteria bacterium SCGC AG-343-D04]	30.3	1
+18	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 [Rattus norvegicus]	30.3	1
+19	SNLKATFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1-like [Elephantulus edwardii]	30.3	1
+20	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X1 [Myotis brandtii]	30.3	1
+21	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X1 [Mus pahari]	30.3	1
+22	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X1 [Rattus rattus]	30.3	1
+23	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X1 [Myotis lucifugus]	30.3	1
+24	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X1 [Rattus norvegicus]	30.3	1
+25	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X1 [Eptesicus fuscus]	30.3	1
+26	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X2 [Myotis lucifugus]	30.3	1
+27	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X2 [Rattus norvegicus]	30.3	1
+28	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X2 [Mus pahari]	30.3	1
+29	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X2 [Rattus rattus]	30.3	1
+30	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X2 [Myotis brandtii]	30.3	1
+31	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X2 [Eptesicus fuscus]	30.3	1
+32	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X3 [Eptesicus fuscus]	30.3	1
+33	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X3 [Rattus rattus]	30.3	1
+34	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X3 [Rattus norvegicus]	30.3	1
+35	NLKAFSRDISTQ	NLKPFERDISTE	probable acyl CoA ligase-like protein [Ramularia collo-cygni]	29.9	1
+36	KPFEPPEIDRDISTE	KPFERDISTE	uncharacterized protein GIQ15_04667 [Arthroderma uncinatum]	29.9	1
+37	SNLKNFERDI	SNLKPFERDI	ATP-dependent DNA helicase Q5-like [Halyomorpha halys]	29.9	1
+38	KSNLKRHQAKRKKERDISTE	KSNLKPFERDISTE	ATP-dependent RNA helicase DDX51 [Trachemys scripta elegans]	29.9	1
+39	RKSELFERDVGTE	RKSNLKPFERDISTE	efflux RND transporter periplasmic adaptor subunit [Rhodobacteraceae bacterium Alg238-R152]	29.9	1
+40	LKPFERDI	LKPFERDI	protein arginine kinase [Bacillus kwashiorkori]	29.9	1
+41	NLKRFERDLST	NLKPFERDIST	zinc ABC transporter substrate-binding protein [Marinobacter sp. PJ-16]	29.9	1
+42	RKANLDPFVRDIVTQ	RKSNLKPFERDISTE	desiccation-related protein PCC13-62 [Dendrobium catenatum]	29.9	1
+43	RKANLDPFVRDIVTQ	RKSNLKPFERDISTE	desiccation-related protein PCC13-62, partial [Phalaenopsis equestris]	29.9	1
+44	NLKPFERD	NLKPFERD	ATP-dependent zinc protease [Arenicella xantha]	29.9	1
+45	SNLKTFKEVTQERDISIE	SNLKPFERDISTE	Ribosomal protein S5 [Helminthora furcellata]	29.9	1
+46	RKSSLKPMERD	RKSNLKPFERD	C-GCAxxG-C-C family protein [Clostridia bacterium]	29.9	1
+47	NLKPFIRQINTE	NLKPFERDISTE	FMN-binding protein MioC [Basfia succiniciproducens]	29.9	1
+0	LKPYERNISTE	LKPFERDISTE	Kinase, NEK [Giardia lamblia ATCC 50803]	33.3	2
+1	SNLKAFEREIEVLTEI	SNLKPFERDISTEI	MDIS1-interacting receptor like kinase 2-like [Manihot esculenta]	32.5	2
+2	LKPFDERDITTQI	LKPFERDISTEI	response regulator [Nitrospira japonica]	32.5	2
+3	NLPFERDIST	NLKPFERDIST	DEAD/DEAH box helicase family protein, partial [Puniceicoccaceae bacterium]	31.6	2
+4	SNLKPFESREITLTLNVNSPTEI	SNLKPFERDISTEI	T9SS type A sorting domain-containing protein [Flavobacterium sp. LC2016-13]	31.6	2
+5	NLKPFEARDINIILNLNSPTEI	NLKPFERDISTEI	MULTISPECIES: T9SS type A sorting domain-containing protein [unclassified Flavobacterium]	31.6	2
+6	LKPFEKDISIE	LKPFERDISTE	hypothetical protein [Chryseobacterium shigense]	31.6	2
+7	KPFEKEDISTEI	KPFERDISTEI	hypothetical protein [Butyrivibrio sp. XB500-5]	31.6	2
+8	SNLSPFERDI	SNLKPFERDI	DNA/RNA helicase [Oscillatoria acuminata]	31.2	2
+9	SNLKPFETREIEI	SNLKPFERDISTEI	T9SS type A sorting domain-containing protein [Flavobacteriaceae bacterium CRH]	31.2	2
+10	PFEGFLRDISTEI	PFERDISTEI	efflux RND transporter periplasmic adaptor subunit [Rhodospirillaceae bacterium Spongia-Bin9]	31.2	2
+11	SNLRGFERDIAREI	SNLKPFERDISTEI	sensor domain-containing diguanylate cyclase [Halieaceae bacterium GH4-78]	31.2	2
+12	SNLRGFERDIAREI	SNLKPFERDISTEI	GGDEF domain-containing protein [Halioglobus sediminis]	31.2	2
+13	SNLRGFERDIAREI	SNLKPFERDISTEI	GGDEF domain-containing protein [marine gamma proteobacterium HTCC2148]	31.2	2
+14	NLKPLERSGFVEDISTE	NLKPFERDISTE	MarR family transcriptional regulator [Clostridium kluyveri]	31.2	2
+15	NLKAFARDISTQ	NLKPFERDISTE	hypotheticalsprotein [Cercospora beticola]	30.8	2
+16	SNLKPFESREIQLVFNVNSPTEI	SNLKPFERDISTEI	T9SS type A sorting domain-containing protein [Flavobacterium johnsoniae]	30.8	2
+17	KSNLKRHQAKRKKERDISTEV	KSNLKPFERDISTEI	ATP-dependent RNA helicase DDX51 [Trachemys scripta elegans]	30.8	2
+18	LKPFEILTRELSTEI	LKPFERDISTEI	zinc finger BED domain-containing protein 4-like [Melanaphis sacchari]	30.8	2
+19	LRPFEEATRDISTE	LKPFERDISTE	zinc finger BED domain-containing protein 1-like [Monopterus albus]	30.8	2
+20	NLKNFQRDISTQ	NLKPFERDISTE	uncharacterized protein TRUGW13939_09067 [Talaromyces rugulosus]	30.3	2
+21	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 [Rattus norvegicus]	30.3	2
+22	SNLKATFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1-like [Elephantulus edwardii]	30.3	2
+23	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X1 [Myotis brandtii]	30.3	2
+24	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X1 [Mus pahari]	30.3	2
+25	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X1 [Rattus rattus]	30.3	2
+26	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X1 [Myotis lucifugus]	30.3	2
+27	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X1 [Rattus norvegicus]	30.3	2
+28	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X1 [Eptesicus fuscus]	30.3	2
+29	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X2 [Myotis lucifugus]	30.3	2
+30	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X2 [Rattus norvegicus]	30.3	2
+31	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X2 [Mus pahari]	30.3	2
+32	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X2 [Rattus rattus]	30.3	2
+33	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X2 [Myotis brandtii]	30.3	2
+34	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X2 [Eptesicus fuscus]	30.3	2
+35	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X3 [Eptesicus fuscus]	30.3	2
+36	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X3 [Rattus rattus]	30.3	2
+37	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X3 [Rattus norvegicus]	30.3	2
+38	KRNLASSAGKFPFERDITEI	KSNLKPFERDISTEI	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Ruminococcus sp. AF41-9]	30.3	2
+39	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas massiliensis]	30.3	2
+40	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas massiliensis]	30.3	2
+41	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas alkaliantarctica]	30.3	2
+42	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas daqingensis]	30.3	2
+43	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas sp. KM-1]	30.3	2
+44	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas desiderata]	30.3	2
+45	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas sp. PYC7W]	30.3	2
+46	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas sp. BC04]	30.3	2
+47	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas chromatireducens]	30.3	2
+0	PFERDITEIY	PFERDISTEIY	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Ruminococcus sp. AF21-42]	33.7	3
+1	PFERDITEIY	PFERDISTEIY	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Blautia luti]	33.7	3
+2	LKPYERNISTE	LKPFERDISTE	Kinase, NEK [Giardia lamblia ATCC 50803]	33.3	3
+3	NLKPFERDGKDWIRFTLSTKKDAEIY	NLKPFERDISTEIY	ATP-dependent zinc protease [Arenicella xantha]	33.3	3
+4	SNKPFRRDISQEIY	SNLKPFERDISTEIY	hypothetical protein [Arcobacter butzleri]	32.9	3
+5	SNLKAFEREIEVLTEI	SNLKPFERDISTEI	MDIS1-interacting receptor like kinase 2-like [Manihot esculenta]	32.5	3
+6	LKPFDERDITTQI	LKPFERDISTEI	response regulator [Nitrospira japonica]	32.5	3
+7	NLPFERDIST	NLKPFERDIST	DEAD/DEAH box helicase family protein, partial [Puniceicoccaceae bacterium]	31.6	3
+8	SNLKPFESREITLTLNVNSPTEI	SNLKPFERDISTEI	T9SS type A sorting domain-containing protein [Flavobacterium sp. LC2016-13]	31.6	3
+9	NLKPFEARDINIILNLNSPTEI	NLKPFERDISTEI	MULTISPECIES: T9SS type A sorting domain-containing protein [unclassified Flavobacterium]	31.6	3
+10	LKPFEKDISIE	LKPFERDISTE	hypothetical protein [Chryseobacterium shigense]	31.6	3
+11	KPFEKEDISTEI	KPFERDISTEI	hypothetical protein [Butyrivibrio sp. XB500-5]	31.6	3
+12	FERDISYEIY	FERDISTEIY	DUF2358 domain-containing protein [filamentous cyanobacterium CCP2]	31.6	3
+13	SNLSPFERDI	SNLKPFERDI	DNA/RNA helicase [Oscillatoria acuminata]	31.2	3
+14	SNLKPFETREIEI	SNLKPFERDISTEI	T9SS type A sorting domain-containing protein [Flavobacteriaceae bacterium CRH]	31.2	3
+15	PFEGFLRDISTEI	PFERDISTEI	efflux RND transporter periplasmic adaptor subunit [Rhodospirillaceae bacterium Spongia-Bin9]	31.2	3
+16	SNLRGFERDIAREI	SNLKPFERDISTEI	sensor domain-containing diguanylate cyclase [Halieaceae bacterium GH4-78]	31.2	3
+17	SNLRGFERDIAREI	SNLKPFERDISTEI	GGDEF domain-containing protein [Halioglobus sediminis]	31.2	3
+18	SNLRGFERDIAREI	SNLKPFERDISTEI	GGDEF domain-containing protein [marine gamma proteobacterium HTCC2148]	31.2	3
+19	NLKPLERSGFVEDISTE	NLKPFERDISTE	MarR family transcriptional regulator [Clostridium kluyveri]	31.2	3
+20	FEKDITTEIY	FERDISTEIY	hypothetical protein [Fluviispira multicolorata]	31.2	3
+21	NLKAFARDISTQ	NLKPFERDISTE	hypotheticalsprotein [Cercospora beticola]	30.8	3
+22	SNLKPFESREIQLVFNVNSPTEI	SNLKPFERDISTEI	T9SS type A sorting domain-containing protein [Flavobacterium johnsoniae]	30.8	3
+23	SELQPSERNIKTEIY	SNLKPFERDISTEIY	MULTISPECIES: ATP-binding protein [Bacillus subtilis group]	30.8	3
+24	SELQPSERNIKTEIY	SNLKPFERDISTEIY	ATP-binding protein [Bacillus sp. WN066]	30.8	3
+25	SNLKPFEPDENTKIF	SNLKPFERDISTEIY	hypothetical protein VICG_00359 [Vittaforma corneae ATCC 50505]	30.8	3
+26	LKPFEILTRELSTEI	LKPFERDISTEI	zinc finger BED domain-containing protein 4-like [Melanaphis sacchari]	30.8	3
+27	LRPFEEATRDISTE	LKPFERDISTE	zinc finger BED domain-containing protein 1-like [Monopterus albus]	30.8	3
+28	NLKNFQRDISTQ	NLKPFERDISTE	uncharacterized protein TRUGW13939_09067 [Talaromyces rugulosus]	30.3	3
+29	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 [Rattus norvegicus]	30.3	3
+30	SNLKATFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1-like [Elephantulus edwardii]	30.3	3
+31	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X1 [Myotis brandtii]	30.3	3
+32	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X1 [Mus pahari]	30.3	3
+33	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X1 [Rattus rattus]	30.3	3
+34	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X1 [Myotis lucifugus]	30.3	3
+35	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X1 [Rattus norvegicus]	30.3	3
+36	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X1 [Eptesicus fuscus]	30.3	3
+37	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X2 [Myotis lucifugus]	30.3	3
+38	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X2 [Rattus norvegicus]	30.3	3
+39	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X2 [Mus pahari]	30.3	3
+40	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X2 [Rattus rattus]	30.3	3
+41	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X2 [Myotis brandtii]	30.3	3
+42	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X2 [Eptesicus fuscus]	30.3	3
+43	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X3 [Eptesicus fuscus]	30.3	3
+44	SNLKAAFEKNISTE	SNLKPFERDISTE	rho-associated protein kinase 1 isoform X3 [Rattus rattus]	30.3	3
+45	SNLKAAFEKNISTE	SNLKPFERDISTE	PREDICTED: rho-associated protein kinase 1 isoform X3 [Rattus norvegicus]	30.3	3
+46	NLMPFDISKEIY	NLKPFERDISTEIY	hypothetical protein [Clostridium chromiireducens]	30.3	3
+47	QRDISTEIY	ERDISTEIY	hypothetical protein MBM_08820 [Marssonina brunnea f. sp. 'multigermtubi' MB_m1]	30.3	3
+0	PFERDITEIY	PFERDISTEIY	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Ruminococcus sp. AF21-42]	33.7	4
+1	PFERDITEIY	PFERDISTEIY	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Blautia luti]	33.7	4
+2	NLKPFERDGKDWIRFTLSTKKDAEIYE	NLKPFERDISTEIYQ	ATP-dependent zinc protease [Arenicella xantha]	33.7	4
+3	LKPYERNISTE	LKPFERDISTE	Kinase, NEK [Giardia lamblia ATCC 50803]	33.3	4
+4	RDISTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora marina]	33.3	4
+5	RDISTEIYQ	RDISTEIYQ	hypothetical protein [Pseudomonas fluorescens]	33.3	4
+6	FERDIADEIYQ	FERDISTEIYQ	hypothetical protein [Marivirga tractuosa]	32.9	4
+7	LQPSERNIKTEIYQ	LKPFERDISTEIYQ	MULTISPECIES: ATP-binding protein [Bacillus subtilis group]	32.5	4
+8	LKPFDERDITTQI	LKPFERDISTEI	response regulator [Nitrospira japonica]	32.5	4
+9	LQPSERNIKTEIYQ	LKPFERDISTEIYQ	ATP-binding protein [Bacillus sp. WN066]	32.5	4
+10	NLPFERDIST	NLKPFERDIST	DEAD/DEAH box helicase family protein, partial [Puniceicoccaceae bacterium]	31.6	4
+11	NLKPFEARDINIILNLNSPTEI	NLKPFERDISTEI	MULTISPECIES: T9SS type A sorting domain-containing protein [unclassified Flavobacterium]	31.6	4
+12	LKPFEKDISIE	LKPFERDISTE	hypothetical protein [Chryseobacterium shigense]	31.6	4
+13	KPFEKEDISTEI	KPFERDISTEI	hypothetical protein [Butyrivibrio sp. XB500-5]	31.6	4
+14	FERDISYEIY	FERDISTEIY	DUF2358 domain-containing protein [filamentous cyanobacterium CCP2]	31.6	4
+15	FEKDITTEIYE	FERDISTEIYQ	hypothetical protein [Fluviispira multicolorata]	31.6	4
+16	KSFEISTEIYQ	KPFERDISTEIYQ	hypothetical protein [Entamoeba dispar SAW760]	31.2	4
+17	KPFEISKEIYQ	KPFERDISTEIYQ	transketolase [Fastidiosibacteraceae bacterium SYSU SYW-5]	31.2	4
+18	KPFRRDISQEIY	KPFERDISTEIY	hypothetical protein [Arcobacter butzleri]	31.2	4
+19	PFEGFLRDISTEI	PFERDISTEI	efflux RND transporter periplasmic adaptor subunit [Rhodospirillaceae bacterium Spongia-Bin9]	31.2	4
+20	NLKPLERSGFVEDISTE	NLKPFERDISTE	MarR family transcriptional regulator [Clostridium kluyveri]	31.2	4
+21	NLKAFARDISTQ	NLKPFERDISTE	hypotheticalsprotein [Cercospora beticola]	30.8	4
+22	FESDIKSPSTEIYQ	FERDISTEIYQ	pyruvate carboxylase [Staphylococcus aureus]	30.8	4
+23	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	4
+24	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc citreum]	30.8	4
+25	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	4
+26	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc citreum]	30.8	4
+27	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc pseudomesenteroides]	30.8	4
+28	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	4
+29	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	4
+30	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc inhae]	30.8	4
+31	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc suionicum]	30.8	4
+32	LKTFERDIELYQ	LKPFERDISTEIYQ	MULTISPECIES: ATP-binding protein [Leuconostoc]	30.8	4
+33	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc gelidum]	30.8	4
+34	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	4
+35	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc suionicum]	30.8	4
+36	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc gelidum]	30.8	4
+37	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostocaceae bacterium]	30.8	4
+38	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	4
+39	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc citreum]	30.8	4
+40	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc citreum]	30.8	4
+41	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	4
+42	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc inhae]	30.8	4
+43	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	4
+44	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	4
+45	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostocaceae bacterium]	30.8	4
+46	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostocaceae bacterium]	30.8	4
+47	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	4
+48	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc pseudomesenteroides]	30.8	4
+0	LQPSERNIKTEIYQA	LKPFERDISTEIYQA	MULTISPECIES: ATP-binding protein [Bacillus subtilis group]	35.0	5
+1	LQPSERNIKTEIYQA	LKPFERDISTEIYQA	ATP-binding protein [Bacillus sp. WN066]	35.0	5
+2	KPFEISKEIYQA	KPFERDISTEIYQA	transketolase [Fastidiosibacteraceae bacterium SYSU SYW-5]	33.7	5
+3	PFERDITEIY	PFERDISTEIY	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Ruminococcus sp. AF21-42]	33.7	5
+4	PFERDITEIY	PFERDISTEIY	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Blautia luti]	33.7	5
+5	LKPYERNISTE	LKPFERDISTE	Kinase, NEK [Giardia lamblia ATCC 50803]	33.3	5
+6	RDISTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora marina]	33.3	5
+7	RDISTEIYQ	RDISTEIYQ	hypothetical protein [Pseudomonas fluorescens]	33.3	5
+8	FERDIADEIYQ	FERDISTEIYQ	hypothetical protein [Marivirga tractuosa]	32.9	5
+9	LKPFDERDITTQI	LKPFERDISTEI	response regulator [Nitrospira japonica]	32.5	5
+10	FERDFATAIYQA	FERDISTEIYQA	hypothetical protein [Bradyrhizobium lablabi]	32.0	5
+11	LMAFERDDLAAVKPYISDEIYQA	LKPFERDISTEIYQA	Tim44 domain-containing protein [Wenxinia saemankumensis]	32.0	5
+12	LKPFEKDISIE	LKPFERDISTE	hypothetical protein [Chryseobacterium shigense]	31.6	5
+13	KPFEKEDISTEI	KPFERDISTEI	hypothetical protein [Butyrivibrio sp. XB500-5]	31.6	5
+14	FERDISYEIY	FERDISTEIY	DUF2358 domain-containing protein [filamentous cyanobacterium CCP2]	31.6	5
+15	FEKDITTEIYE	FERDISTEIYQ	hypothetical protein [Fluviispira multicolorata]	31.6	5
+16	KSFEISTEIYQ	KPFERDISTEIYQ	hypothetical protein [Entamoeba dispar SAW760]	31.2	5
+17	KPFRRDISQEIY	KPFERDISTEIY	hypothetical protein [Arcobacter butzleri]	31.2	5
+18	PFEGFLRDISTEI	PFERDISTEI	efflux RND transporter periplasmic adaptor subunit [Rhodospirillaceae bacterium Spongia-Bin9]	31.2	5
+19	FESDIKSPSTEIYQ	FERDISTEIYQ	pyruvate carboxylase [Staphylococcus aureus]	30.8	5
+20	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+21	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc citreum]	30.8	5
+22	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+23	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc citreum]	30.8	5
+24	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc pseudomesenteroides]	30.8	5
+25	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc pseudomesenteroides]	30.8	5
+26	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+27	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+28	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc inhae]	30.8	5
+29	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc suionicum]	30.8	5
+30	LKTFERDIELYQ	LKPFERDISTEIYQ	MULTISPECIES: ATP-binding protein [Leuconostoc]	30.8	5
+31	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc gelidum]	30.8	5
+32	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+33	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+34	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc suionicum]	30.8	5
+35	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc gelidum]	30.8	5
+36	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostocaceae bacterium]	30.8	5
+37	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+38	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc citreum]	30.8	5
+39	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc citreum]	30.8	5
+40	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+41	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc inhae]	30.8	5
+42	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+43	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+44	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+45	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostocaceae bacterium]	30.8	5
+46	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostocaceae bacterium]	30.8	5
+47	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+48	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc mesenteroides]	30.8	5
+49	LKTFERDIELYQ	LKPFERDISTEIYQ	ATP-binding protein [Leuconostoc pseudomesenteroides]	30.8	5
+0	KPFEISKEIYQA	KPFERDISTEIYQA	transketolase [Fastidiosibacteraceae bacterium SYSU SYW-5]	33.7	6
+1	PFERDITEIY	PFERDISTEIY	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Ruminococcus sp. AF21-42]	33.7	6
+2	PFERDITEIY	PFERDISTEIY	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Blautia luti]	33.7	6
+3	PSERNIKTEIYQA	PFERDISTEIYQA	MULTISPECIES: ATP-binding protein [Bacillus subtilis group]	33.3	6
+4	PSERNIKTEIYQA	PFERDISTEIYQA	ATP-binding protein [Bacillus sp. WN066]	33.3	6
+5	RDISTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora marina]	33.3	6
+6	RDISTEIYQ	RDISTEIYQ	hypothetical protein [Pseudomonas fluorescens]	33.3	6
+7	FERDIADEIYQ	FERDISTEIYQ	hypothetical protein [Marivirga tractuosa]	32.9	6
+8	FERDFATAIYQA	FERDISTEIYQA	hypothetical protein [Bradyrhizobium lablabi]	32.0	6
+9	KSFEISTEIYQIG	KPFERDISTEIYQAG	hypothetical protein [Entamoeba dispar SAW760]	31.6	6
+10	KPFEHDMSGLEIYQSG	KPFERDISTEIYQAG	aspartyl protease family protein [Pedobacter duraquae]	31.6	6
+11	KPFEKEDISTEI	KPFERDISTEI	hypothetical protein [Butyrivibrio sp. XB500-5]	31.6	6
+12	FERDISYEIY	FERDISTEIY	DUF2358 domain-containing protein [filamentous cyanobacterium CCP2]	31.6	6
+13	FEKDITTEIYE	FERDISTEIYQ	hypothetical protein [Fluviispira multicolorata]	31.6	6
+14	KPFRRDISQEIY	KPFERDISTEIY	hypothetical protein [Arcobacter butzleri]	31.2	6
+15	PFEGFLRDISTEI	PFERDISTEI	efflux RND transporter periplasmic adaptor subunit [Rhodospirillaceae bacterium Spongia-Bin9]	31.2	6
+16	FESDIKSPSTEIYQ	FERDISTEIYQ	pyruvate carboxylase [Staphylococcus aureus]	30.8	6
+17	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora chalcea]	30.8	6
+18	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. II]	30.8	6
+19	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. NBRC 110037]	30.8	6
+20	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. TSRI0369]	30.8	6
+21	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora chalcea]	30.8	6
+22	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora chalcea]	30.8	6
+23	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. LHW51205]	30.8	6
+24	RDVSTEIYQ	RDISTEIYQ	MULTISPECIES: beta-propeller domain-containing protein [unclassified Micromonospora]	30.8	6
+25	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. CMU55-4]	30.8	6
+26	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora chalcea]	30.8	6
+27	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora purpureochromogenes]	30.8	6
+28	RDITTEIYQ	RDISTEIYQ	amino acid ABC transporter ATP-binding protein [Spirulina major]	30.8	6
+29	FERDDLAAVKPYISDEIYQA	FERDISTEIYQA	Tim44 domain-containing protein [Wenxinia saemankumensis]	30.8	6
+30	RNISTEIYQ	RDISTEIYQ	hypothetical protein [Rodentibacter ratti]	30.8	6
+31	QRDISTEIY	ERDISTEIY	hypothetical protein MBM_08820 [Marssonina brunnea f. sp. 'multigermtubi' MB_m1]	30.3	6
+32	KPYERNISTE	KPFERDISTE	Kinase, NEK [Giardia lamblia ATCC 50803]	30.3	6
+33	RDISSEIYQ	RDISTEIYQ	hypothetical protein [Pseudomonas umsongensis]	30.3	6
+34	REISTEIYEA	RDISTEIYQA	MFS transporter [Rubritalea marina]	30.3	6
+35	EREISIEIYQ	ERDISTEIYQ	Hsp70 family protein [Clostridium kluyveri]	30.3	6
+36	EREISIEIYQ	ERDISTEIYQ	Hsp70 family protein [Clostridium kluyveri]	30.3	6
+37	FERVSTEIYQ	FERDISTEIYQ	adenylate/guanylate cyclase domain-containing protein [Hydrocoleum sp. CS-953]	30.3	6
+38	PFCNEISTEIYQA	PFERDISTEIYQA	S-methyl-5'-thioadenosine phosphorylase [Ornatilinea apprima]	30.3	6
+39	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas massiliensis]	30.3	6
+40	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas massiliensis]	30.3	6
+41	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas alkaliantarctica]	30.3	6
+42	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas daqingensis]	30.3	6
+43	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas sp. KM-1]	30.3	6
+44	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas desiderata]	30.3	6
+45	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas sp. PYC7W]	30.3	6
+46	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas sp. BC04]	30.3	6
+47	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas chromatireducens]	30.3	6
+48	FERDIATEI	FERDISTEI	hypothetical protein [Streptomyces scopuliridis]	30.3	6
+49	KPFEPPEIDRDISTE	KPFERDISTE	uncharacterized protein GIQ15_04667 [Arthroderma uncinatum]	29.9	6
+0	PFERDITEIY	PFERDISTEIY	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Ruminococcus sp. AF21-42]	33.7	7
+1	PFERDITEIY	PFERDISTEIY	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Blautia luti]	33.7	7
+2	PSERNIKTEIYQA	PFERDISTEIYQA	MULTISPECIES: ATP-binding protein [Bacillus subtilis group]	33.3	7
+3	PSERNIKTEIYQA	PFERDISTEIYQA	ATP-binding protein [Bacillus sp. WN066]	33.3	7
+4	RDISTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora marina]	33.3	7
+5	RDISTEIYQ	RDISTEIYQ	hypothetical protein [Pseudomonas fluorescens]	33.3	7
+6	FERDIADEIYQ	FERDISTEIYQ	hypothetical protein [Marivirga tractuosa]	32.9	7
+7	FERDFATAIYQA	FERDISTEIYQA	hypothetical protein [Bradyrhizobium lablabi]	32.0	7
+8	FERDISYEIY	FERDISTEIY	DUF2358 domain-containing protein [filamentous cyanobacterium CCP2]	31.6	7
+9	FEKDITTEIYE	FERDISTEIYQ	hypothetical protein [Fluviispira multicolorata]	31.6	7
+10	PFEGFLRDISTEI	PFERDISTEI	efflux RND transporter periplasmic adaptor subunit [Rhodospirillaceae bacterium Spongia-Bin9]	31.2	7
+11	FESDIKSPSTEIYQ	FERDISTEIYQ	pyruvate carboxylase [Staphylococcus aureus]	30.8	7
+12	PFEISKEIYQA	PFERDISTEIYQA	transketolase [Fastidiosibacteraceae bacterium SYSU SYW-5]	30.8	7
+13	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora chalcea]	30.8	7
+14	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. II]	30.8	7
+15	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. NBRC 110037]	30.8	7
+16	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. TSRI0369]	30.8	7
+17	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora chalcea]	30.8	7
+18	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora chalcea]	30.8	7
+19	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. LHW51205]	30.8	7
+20	RDVSTEIYQ	RDISTEIYQ	MULTISPECIES: beta-propeller domain-containing protein [unclassified Micromonospora]	30.8	7
+21	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. CMU55-4]	30.8	7
+22	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora chalcea]	30.8	7
+23	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora purpureochromogenes]	30.8	7
+24	RDITTEIYQ	RDISTEIYQ	amino acid ABC transporter ATP-binding protein [Spirulina major]	30.8	7
+25	FERDDLAAVKPYISDEIYQA	FERDISTEIYQA	Tim44 domain-containing protein [Wenxinia saemankumensis]	30.8	7
+26	RNISTEIYQ	RDISTEIYQ	hypothetical protein [Rodentibacter ratti]	30.8	7
+27	QRDISTEIY	ERDISTEIY	hypothetical protein MBM_08820 [Marssonina brunnea f. sp. 'multigermtubi' MB_m1]	30.3	7
+28	RDISSEIYQ	RDISTEIYQ	hypothetical protein [Pseudomonas umsongensis]	30.3	7
+29	REISTEIYEA	RDISTEIYQA	MFS transporter [Rubritalea marina]	30.3	7
+30	EREISIEIYQ	ERDISTEIYQ	Hsp70 family protein [Clostridium kluyveri]	30.3	7
+31	EREISIEIYQ	ERDISTEIYQ	Hsp70 family protein [Clostridium kluyveri]	30.3	7
+32	FERVSTEIYQ	FERDISTEIYQ	adenylate/guanylate cyclase domain-containing protein [Hydrocoleum sp. CS-953]	30.3	7
+33	DRDETARRISTDIYHAGS	ERDISTEIYQAGS	FAD-binding oxidoreductase [Pleomorphomonas diazotrophica]	30.3	7
+34	PFCNEISTEIYQA	PFERDISTEIYQA	S-methyl-5'-thioadenosine phosphorylase [Ornatilinea apprima]	30.3	7
+35	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas massiliensis]	30.3	7
+36	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas massiliensis]	30.3	7
+37	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas alkaliantarctica]	30.3	7
+38	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas daqingensis]	30.3	7
+39	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas sp. KM-1]	30.3	7
+40	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas desiderata]	30.3	7
+41	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas sp. PYC7W]	30.3	7
+42	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas sp. BC04]	30.3	7
+43	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas chromatireducens]	30.3	7
+44	FERDIATEI	FERDISTEI	hypothetical protein [Streptomyces scopuliridis]	30.3	7
+45	RDISTEIY	RDISTEIY	uncharacterized protein LHYA1_G007769 [Lachnellula hyalina]	29.9	7
+46	DISTEIYQ	DISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. CNB394]	29.9	7
+47	RDISTEIY	RDISTEIY	gamma-tubulin complex component 4 [Sipha flava]	29.9	7
+48	RDISTEIFAAG	RDISTEIYQAG	glycosyltransferase [Klugiella xanthotipulae]	29.9	7
+49	FEREISFYTEIY	FERDISTEIY	uncharacterized protein LOC5564404 isoform X1 [Aedes aegypti]	29.9	7
+0	RDISTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora marina]	33.3	8
+1	RDISTEIYQ	RDISTEIYQ	hypothetical protein [Pseudomonas fluorescens]	33.3	8
+2	FERDIADEIYQ	FERDISTEIYQ	hypothetical protein [Marivirga tractuosa]	32.9	8
+3	ERNIKTEIYQA	ERDISTEIYQA	MULTISPECIES: ATP-binding protein [Bacillus subtilis group]	32.5	8
+4	ERNIKTEIYQA	ERDISTEIYQA	ATP-binding protein [Bacillus sp. WN066]	32.5	8
+5	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	8
+6	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	8
+7	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	8
+8	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	8
+9	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	8
+10	REISYELYQAGST	RDISTEIYQAGST	helix-turn-helix domain-containing protein [Roseivirga pacifica]	32.0	8
+11	FERDFATAIYQA	FERDISTEIYQA	hypothetical protein [Bradyrhizobium lablabi]	32.0	8
+12	FERDISYEIY	FERDISTEIY	DUF2358 domain-containing protein [filamentous cyanobacterium CCP2]	31.6	8
+13	FEKDITTEIYE	FERDISTEIYQ	hypothetical protein [Fluviispira multicolorata]	31.6	8
+14	ERDATEVYQVGST	ERDISTEIYQAGST	S-methyl-5-thioribose-1-phosphate isomerase [Planktothrix tepida]	31.2	8
+15	FESDIKSPSTEIYQ	FERDISTEIYQ	pyruvate carboxylase [Staphylococcus aureus]	30.8	8
+16	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora chalcea]	30.8	8
+17	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. II]	30.8	8
+18	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. NBRC 110037]	30.8	8
+19	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. TSRI0369]	30.8	8
+20	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora chalcea]	30.8	8
+21	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora chalcea]	30.8	8
+22	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. LHW51205]	30.8	8
+23	RDVSTEIYQ	RDISTEIYQ	MULTISPECIES: beta-propeller domain-containing protein [unclassified Micromonospora]	30.8	8
+24	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora sp. CMU55-4]	30.8	8
+25	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora chalcea]	30.8	8
+26	RDVSTEIYQ	RDISTEIYQ	beta-propeller domain-containing protein [Micromonospora purpureochromogenes]	30.8	8
+27	FDRTISDDIYQAGMT	FERDISTEIYQAGST	serine/threonine protein kinase [Salsuginibacillus kocurii]	30.8	8
+28	RDITTEIYQ	RDISTEIYQ	amino acid ABC transporter ATP-binding protein [Spirulina major]	30.8	8
+29	FERDDLAAVKPYISDEIYQA	FERDISTEIYQA	Tim44 domain-containing protein [Wenxinia saemankumensis]	30.8	8
+30	RNISTEIYQ	RDISTEIYQ	hypothetical protein [Rodentibacter ratti]	30.8	8
+31	QRDISTEIY	ERDISTEIY	hypothetical protein MBM_08820 [Marssonina brunnea f. sp. 'multigermtubi' MB_m1]	30.3	8
+32	RDISSEIYQ	RDISTEIYQ	hypothetical protein [Pseudomonas umsongensis]	30.3	8
+33	REISTEIYEA	RDISTEIYQA	MFS transporter [Rubritalea marina]	30.3	8
+34	EREISIEIYQ	ERDISTEIYQ	Hsp70 family protein [Clostridium kluyveri]	30.3	8
+35	EREISIEIYQ	ERDISTEIYQ	Hsp70 family protein [Clostridium kluyveri]	30.3	8
+36	FERDITEIY	FERDISTEIY	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Ruminococcus sp. AF21-42]	30.3	8
+37	FERDITEIY	FERDISTEIY	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Blautia luti]	30.3	8
+38	ISAEIYQAAST	ISTEIYQAGST	MULTISPECIES: TIR domain-containing protein [unclassified Pseudomonas]	30.3	8
+39	FERVSTEIYQ	FERDISTEIYQ	adenylate/guanylate cyclase domain-containing protein [Hydrocoleum sp. CS-953]	30.3	8
+40	DRDETARRISTDIYHAGS	ERDISTEIYQAGS	FAD-binding oxidoreductase [Pleomorphomonas diazotrophica]	30.3	8
+41	ERDPTEIYQVGNT	ERDISTEIYQAGST	S-methyl-5-thioribose-1-phosphate isomerase [Calothrix sp. NIES-2098]	30.3	8
+42	ERDPTEIYQVGTT	ERDISTEIYQAGST	S-methyl-5-thioribose-1-phosphate isomerase [Calothrix sp. NIES-3974]	30.3	8
+43	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas massiliensis]	30.3	8
+44	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas massiliensis]	30.3	8
+45	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas alkaliantarctica]	30.3	8
+46	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas daqingensis]	30.3	8
+47	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas sp. KM-1]	30.3	8
+48	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas desiderata]	30.3	8
+49	FERDIATEI	FERDISTEI	peptide-methionine (S)-S-oxide reductase MsrA [Halomonas sp. PYC7W]	30.3	8
+0	RDISTEIYQFDTVAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora marina]	35.0	9
+1	RDISTEIYQ	RDISTEIYQ	hypothetical protein [Pseudomonas fluorescens]	33.3	9
+2	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	32.9	9
+3	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. II]	32.9	9
+4	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. NBRC 110037]	32.9	9
+5	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. TSRI0369]	32.9	9
+6	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	32.9	9
+7	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	32.9	9
+8	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. LHW51205]	32.9	9
+9	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	MULTISPECIES: beta-propeller domain-containing protein [unclassified Micromonospora]	32.9	9
+10	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. CMU55-4]	32.9	9
+11	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	32.9	9
+12	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora purpureochromogenes]	32.9	9
+13	ERNIKTEIYQA	ERDISTEIYQA	MULTISPECIES: ATP-binding protein [Bacillus subtilis group]	32.5	9
+14	ERNIKTEIYQA	ERDISTEIYQA	ATP-binding protein [Bacillus sp. WN066]	32.5	9
+15	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	9
+16	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	9
+17	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	9
+18	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	9
+19	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	9
+20	RDISTELYEAMAMDGATP	RDISTEIYQAGSTP	ABC transporter permease subunit [Streptomyces albaduncus]	32.5	9
+21	RDISTELYEAMAMDGATP	RDISTEIYQAGSTP	MULTISPECIES: carbohydrate ABC transporter permease [Actinobacteria]	32.5	9
+22	REISYELYQAGST	RDISTEIYQAGST	helix-turn-helix domain-containing protein [Roseivirga pacifica]	32.0	9
+23	DISTEIYQFDTVAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. CNB394]	31.6	9
+24	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	31.2	9
+25	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	MULTISPECIES: beta-propeller domain-containing protein [Micromonospora]	31.2	9
+26	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. L5]	31.2	9
+27	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora aurantiaca]	31.2	9
+28	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. WMMB235]	31.2	9
+29	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. CNZ296]	31.2	9
+30	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora aurantiaca]	31.2	9
+31	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora aurantiaca]	31.2	9
+32	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora globosa]	31.2	9
+33	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. RV43]	31.2	9
+34	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. CNZ297]	31.2	9
+35	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora aurantiaca]	31.2	9
+36	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora aurantiaca]	31.2	9
+37	ERDATEVYQVGST	ERDISTEIYQAGST	S-methyl-5-thioribose-1-phosphate isomerase [Planktothrix tepida]	31.2	9
+38	RDITTEIYQ	RDISTEIYQ	amino acid ABC transporter ATP-binding protein [Spirulina major]	30.8	9
+39	RNISTEIYQ	RDISTEIYQ	hypothetical protein [Rodentibacter ratti]	30.8	9
+40	QRDISTEIY	ERDISTEIY	hypothetical protein MBM_08820 [Marssonina brunnea f. sp. 'multigermtubi' MB_m1]	30.3	9
+41	RDISSEIYQ	RDISTEIYQ	hypothetical protein [Pseudomonas umsongensis]	30.3	9
+42	REISTEIYEA	RDISTEIYQA	MFS transporter [Rubritalea marina]	30.3	9
+43	EREISIEIYQ	ERDISTEIYQ	Hsp70 family protein [Clostridium kluyveri]	30.3	9
+44	EREISIEIYQ	ERDISTEIYQ	Hsp70 family protein [Clostridium kluyveri]	30.3	9
+45	ISAEIYQAAST	ISTEIYQAGST	MULTISPECIES: TIR domain-containing protein [unclassified Pseudomonas]	30.3	9
+46	DRDETARRISTDIYHAGS	ERDISTEIYQAGS	FAD-binding oxidoreductase [Pleomorphomonas diazotrophica]	30.3	9
+47	ERDPTEIYQVGNT	ERDISTEIYQAGST	S-methyl-5-thioribose-1-phosphate isomerase [Calothrix sp. NIES-2098]	30.3	9
+48	ERDPTEIYQVGTT	ERDISTEIYQAGST	S-methyl-5-thioribose-1-phosphate isomerase [Calothrix sp. NIES-3974]	30.3	9
+49	DISTELYGAGPTP	DISTEIYQAGSTP	ZIP family metal transporter [Idiomarina atlantica]	30.3	9
+0	RDISTEIYQFDTVAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora marina]	35.0	10
+1	RDISTEIYQ	RDISTEIYQ	hypothetical protein [Pseudomonas fluorescens]	33.3	10
+2	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	32.9	10
+3	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. II]	32.9	10
+4	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. NBRC 110037]	32.9	10
+5	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. TSRI0369]	32.9	10
+6	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	32.9	10
+7	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	32.9	10
+8	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. LHW51205]	32.9	10
+9	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	MULTISPECIES: beta-propeller domain-containing protein [unclassified Micromonospora]	32.9	10
+10	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. CMU55-4]	32.9	10
+11	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	32.9	10
+12	RDVSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora purpureochromogenes]	32.9	10
+13	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	10
+14	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	10
+15	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	10
+16	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	10
+17	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	10
+18	RDISTELYEAMAMDGATP	RDISTEIYQAGSTP	ABC transporter permease subunit [Streptomyces albaduncus]	32.5	10
+19	RDISTELYEAMAMDGATP	RDISTEIYQAGSTP	MULTISPECIES: carbohydrate ABC transporter permease [Actinobacteria]	32.5	10
+20	REISYELYQAGST	RDISTEIYQAGST	helix-turn-helix domain-containing protein [Roseivirga pacifica]	32.0	10
+21	DISTEIYQFDTVAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. CNB394]	31.6	10
+22	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	31.2	10
+23	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	MULTISPECIES: beta-propeller domain-containing protein [Micromonospora]	31.2	10
+24	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. L5]	31.2	10
+25	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora aurantiaca]	31.2	10
+26	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. WMMB235]	31.2	10
+27	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. CNZ296]	31.2	10
+28	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora aurantiaca]	31.2	10
+29	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora aurantiaca]	31.2	10
+30	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora globosa]	31.2	10
+31	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. RV43]	31.2	10
+32	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. CNZ297]	31.2	10
+33	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora aurantiaca]	31.2	10
+34	RDTSTEIYQFDTAAGTP	RDISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora aurantiaca]	31.2	10
+35	RDITTEIYQ	RDISTEIYQ	amino acid ABC transporter ATP-binding protein [Spirulina major]	30.8	10
+36	RNISTEIYQ	RDISTEIYQ	hypothetical protein [Rodentibacter ratti]	30.8	10
+37	RDISSEIYQ	RDISTEIYQ	hypothetical protein [Pseudomonas umsongensis]	30.3	10
+38	REISTEIYEA	RDISTEIYQA	MFS transporter [Rubritalea marina]	30.3	10
+39	ISAEIYQAAST	ISTEIYQAGST	MULTISPECIES: TIR domain-containing protein [unclassified Pseudomonas]	30.3	10
+40	DISTELYGAGPTP	DISTEIYQAGSTP	ZIP family metal transporter [Idiomarina atlantica]	30.3	10
+41	RDISTEIY	RDISTEIY	hypothetical protein MBM_08820 [Marssonina brunnea f. sp. 'multigermtubi' MB_m1]	29.9	10
+42	RDISTEIY	RDISTEIY	uncharacterized protein LHYA1_G007769 [Lachnellula hyalina]	29.9	10
+43	RDISTEIY	RDISTEIY	gamma-tubulin complex component 4 [Sipha flava]	29.9	10
+44	RDISTEIFAAG	RDISTEIYQAG	glycosyltransferase [Klugiella xanthotipulae]	29.9	10
+45	DIPVEIYHAGST	DISTEIYQAGST	MBL fold metallo-hydrolase [Mesorhizobium sp. lm94]	29.9	10
+46	DIYQAGGTPC	EIYQAGSTPC	AbfB domain-containing protein [Streptomyces tateyamensis]	29.9	10
+47	DIYQAGGTPC	EIYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.9	10
+48	DIYQAGGTPC	EIYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.9	10
+49	DISTEIYQ	DISTEIYQ	hypothetical protein [Fusobacterium nucleatum]	29.9	10
+0	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	11
+1	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	11
+2	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	11
+3	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	11
+4	DISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	32.5	11
+5	DISTEIYQFDTVAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora marina]	31.6	11
+6	DISTEIYQFDTVAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. CNB394]	31.6	11
+7	ISAEIYQAAST	ISTEIYQAGST	MULTISPECIES: TIR domain-containing protein [unclassified Pseudomonas]	30.3	11
+8	DISTELYGAGPTP	DISTEIYQAGSTP	ZIP family metal transporter [Idiomarina atlantica]	30.3	11
+9	DISTEIYQ	DISTEIYQ	hypothetical protein [Pseudomonas fluorescens]	29.9	11
+10	DIPVEIYHAGST	DISTEIYQAGST	MBL fold metallo-hydrolase [Mesorhizobium sp. lm94]	29.9	11
+11	DIYQAGGTPC	EIYQAGSTPC	AbfB domain-containing protein [Streptomyces tateyamensis]	29.9	11
+12	DIYQAGGTPC	EIYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.9	11
+13	DIYQAGGTPC	EIYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.9	11
+14	DISTEIYQ	DISTEIYQ	hypothetical protein [Fusobacterium nucleatum]	29.9	11
+15	DISTEIYQ	DISTEIYQ	ABC transporter permease [Bacillus sp. MRMR6]	29.9	11
+16	EISTEIYQA	DISTEIYQA	S-methyl-5'-thioadenosine phosphorylase [Ornatilinea apprima]	29.9	11
+17	EISSEIYQATGRGST	DISTEIYQAGST	YitT family protein [Staphylococcus warneri]	29.9	11
+18	EISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	29.9	11
+19	EISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	29.9	11
+20	EISSEIYQATGRGST	DISTEIYQAGST	YitT family protein [Staphylococcus warneri]	29.9	11
+21	EISSEIYQATGRGST	DISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	29.9	11
+22	EISSEIYQATGRGST	DISTEIYQAGST	YitT family protein [Staphylococcus warneri]	29.9	11
+23	DINTEIYQA	DISTEIYQA	acetylglutamate kinase [Galbibacter sp. BG1]	29.9	11
+24	DINTEIYQA	DISTEIYQA	acetylglutamate kinase [Joostella marina]	29.9	11
+25	DISTEIYQ	DISTEIYQ	amino acid ABC transporter ATP-binding protein [Tolypothrix sp. NIES-4075]	29.9	11
+26	DISTEIYQ	DISTEIYQ	ATP-binding cassette domain-containing protein [Nostoc sp. B(2019)]	29.9	11
+27	DISTEIYQ	DISTEIYQ	amino acid ABC transporter ATP-binding protein [Hassallia byssoidea]	29.9	11
+28	DISTEIYQ	DISTEIYQ	amino acid ABC transporter ATP-binding protein [Tolypothrix bouteillei]	29.9	11
+29	DISTEIYQ	DISTEIYQ	amino acid ABC transporter ATP-binding protein [[Scytonema hofmanni] UTEX B 1581]	29.9	11
+30	DISTEIYQ	DISTEIYQ	amino acid ABC transporter ATP-binding protein [Nostoc calcicola]	29.9	11
+31	DISTEIYQ	DISTEIYQ	amino acid ABC transporter ATP-binding protein [Nostoc sp. NIES-4103]	29.9	11
+32	DISTEIYQ	DISTEIYQ	amino acid ABC transporter ATP-binding protein [Scytonema sp. HK-05]	29.9	11
+33	DISTEIYQ	DISTEIYQ	ATP-binding cassette domain-containing protein [Rivularia sp. PCC 7116]	29.9	11
+34	DVSTEIYQFDTAAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	29.5	11
+35	DVSTEIYQFDTAAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. II]	29.5	11
+36	DVSTEIYQFDTAAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. NBRC 110037]	29.5	11
+37	DVSTEIYQFDTAAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. TSRI0369]	29.5	11
+38	DVSTEIYQFDTAAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	29.5	11
+39	DVSTEIYQFDTAAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	29.5	11
+40	DVSTEIYQFDTAAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. LHW51205]	29.5	11
+41	DVSTEIYQFDTAAGTP	DISTEIYQAGSTP	MULTISPECIES: beta-propeller domain-containing protein [unclassified Micromonospora]	29.5	11
+42	DVSTEIYQFDTAAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora sp. CMU55-4]	29.5	11
+43	DVSTEIYQFDTAAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora chalcea]	29.5	11
+44	DVSTEIYQFDTAAGTP	DISTEIYQAGSTP	beta-propeller domain-containing protein [Micromonospora purpureochromogenes]	29.5	11
+45	ISTEIYQAVS	ISTEIYQAGS	hypothetical protein [Halomonas titanicae]	29.5	11
+46	ISTEIYQAVS	ISTEIYQAGS	hypothetical protein [Halomonas sp. MG34]	29.5	11
+47	ISTEIYQAVS	ISTEIYQAGS	MULTISPECIES: hypothetical protein [unclassified Halomonas]	29.5	11
+48	ISTEIYQAVS	ISTEIYQAGS	hypothetical protein [Halomonas sp. KHS3]	29.5	11
+49	ISTEIYQAVS	ISTEIYQAGS	hypothetical protein [Halomonas sp. ATBC28]	29.5	11
+0	ISSIYQSTPCNG	ISTEIYQAGSTPCNG	telomerase activating protein Est1 [Colletotrichum orchidophilum]	30.3	12
+1	ISAEIYQAAST	ISTEIYQAGST	MULTISPECIES: TIR domain-containing protein [unclassified Pseudomonas]	30.3	12
+2	DIYQAGGTPC	EIYQAGSTPC	AbfB domain-containing protein [Streptomyces tateyamensis]	29.9	12
+3	DIYQAGGTPC	EIYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.9	12
+4	DIYQAGGTPC	EIYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.9	12
+5	ISTEIYQAVS	ISTEIYQAGS	hypothetical protein [Halomonas titanicae]	29.5	12
+6	ISTEIYQAVS	ISTEIYQAGS	hypothetical protein [Halomonas sp. MG34]	29.5	12
+7	ISTEIYQAVS	ISTEIYQAGS	hypothetical protein [Halomonas titanicae]	29.5	12
+8	ISTEIYQAVS	ISTEIYQAGS	MULTISPECIES: hypothetical protein [unclassified Halomonas]	29.5	12
+9	ISTEIYQAVS	ISTEIYQAGS	hypothetical protein [Halomonas sp. KHS3]	29.5	12
+10	ISTEIYQAVS	ISTEIYQAGS	hypothetical protein [Halomonas sp. ATBC28]	29.5	12
+11	STEIYPTGSTP	STEIYQAGSTP	fused MFS/spermidine synthase, partial [Halococcus thailandensis]	29.5	12
+12	IYQAGSSPC	IYQAGSTPC	NtaA/DmoA family FMN-dependent monooxygenase [Mycolicibacterium smegmatis]	29.5	12
+13	ISTEIYQAVS	ISTEIYQAGS	hypothetical protein [Halomonas sp. PA16-9]	29.5	12
+14	ISTEIYEAAELDGTTP	ISTEIYQAGSTP	sugar ABC transporter permease [Lactobacillus perolens]	29.5	12
+15	ISSEIYQATGRGST	ISTEIYQAGST	YitT family protein [Staphylococcus warneri]	29.1	12
+16	ISSEIYQATGRGST	ISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	29.1	12
+17	ISSEIYQATGRGST	ISTEIYQAGST	YitT family protein [Staphylococcus warneri]	29.1	12
+18	ISSEIYQATGRGST	ISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	29.1	12
+19	ISSEIYQATGRGST	ISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	29.1	12
+20	ISSEIYQATGRGST	ISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	29.1	12
+21	ISSEIYQATGRGST	ISTEIYQAGST	YitT family protein [Staphylococcus warneri]	29.1	12
+22	ISSEIYQATGRGST	ISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	29.1	12
+23	ISSEIYQATGRGST	ISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	29.1	12
+24	ISSEIYQATGRGST	ISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	29.1	12
+25	ISSEIYQATGRGST	ISTEIYQAGST	MULTISPECIES: YitT family protein [Staphylococcus]	29.1	12
+26	ISTEIYQA	ISTEIYQA	S-methyl-5'-thioadenosine phosphorylase [Ornatilinea apprima]	29.1	12
+27	IPVDIYSAGSTPC	ISTEIYQAGSTPC	P-selectin-like [Branchiostoma floridae]	29.1	12
+28	IPVDIYSAGSTPC	ISTEIYQAGSTPC	sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1-like [Branchiostoma floridae]	29.1	12
+29	VATEIYQGSTTCQG	ISTEIYQAGSTPCNG	protein LYK5-like [Cucurbita maxima]	29.1	12
+30	ISTEIYQA	ISTEIYQA	predicted protein [Fibroporia radiculosa]	29.1	12
+31	IDTEIYQSGSATTP	ISTEIYQAGSTP	PKD domain-containing protein [Blastococcus sp. DSM 46790]	29.1	12
+32	IDTEIYQSATATTP	ISTEIYQAGSTP	PKD domain-containing protein [Blastococcus sp. DSM 46790]	23.1	12
+33	ISDDIYQEASTACHG	ISTEIYQAGSTPCNG	PREDICTED: serine carboxypeptidase 1 [Oryza brachyantha]	28.6	12
+34	ISTDIYHAGS	ISTEIYQAGS	FAD-binding oxidoreductase [Pleomorphomonas diazotrophica]	28.6	12
+35	IYQSTPCNG	IYQAGSTPCNG	telomerase activating protein Est1 [Colletotrichum higginsianum IMI 349063]	28.6	12
+36	IYQSTPCNG	IYQAGSTPCNG	telomerase activating protein Est1 [Colletotrichum scovillei]	28.6	12
+37	VYQAGSTPGVCDG	IYQAGSTPCNG	T9SS type B sorting domain-containing protein [Flavobacterium magnum]	28.6	12
+38	IYQCAGSTPC	IYQAGSTPC	hypothetical protein [Actinomadura oligospora]	28.2	12
+39	TEIYQAGS	TEIYQAGS	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Mesorhizobium sp. M2A.F.Ca.ET.043.05.1.1]	28.2	12
+40	DIYAAGSTPC	EIYQAGSTPC	alpha-N-arabinofuranosidase, partial [Streptomyces sp. NRRL S-350]	28.2	12
+41	EIYQEGSTP	EIYQAGSTP	circularly permuted type 2 ATP-grasp protein [Sulfolobus sp. E5-1-F]	28.2	12
+42	DIYAAGSTPC	EIYQAGSTPC	cellulose binding domain-containing protein [Micromonospora haikouensis]	28.2	12
+43	DIYAAGSTPC	EIYQAGSTPC	lectin [Streptomyces sp. 74]	28.2	12
+44	DIYAAGSTPC	EIYQAGSTPC	RICIN domain-containing protein [Uliginosibacterium gangwonense]	28.2	12
+45	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	12
+46	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	12
+47	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	12
+48	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	12
+49	IYQAASTSCDG	IYQAGSTPCNG	MULTISPECIES: DUF2142 domain-containing protein [Methanobrevibacter]	28.2	12
+50	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	12
+0	IYQAGSSPCGV	IYQAGSTPCNGV	NtaA/DmoA family FMN-dependent monooxygenase [Mycolicibacterium smegmatis]	30.8	13
+1	DIYQAGGTPC	EIYQAGSTPC	AbfB domain-containing protein [Streptomyces tateyamensis]	29.9	13
+2	DIYQAGGTPC	EIYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.9	13
+3	DIYQAGGTPC	EIYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.9	13
+4	IYQSTPCNGI	IYQAGSTPCNGV	telomerase activating protein Est1 [Colletotrichum scovillei]	29.5	13
+5	IYQSTPCNGI	IYQAGSTPCNGV	telomerase activating protein Est1 [Colletotrichum orchidophilum]	29.5	13
+6	IYQSTPCNGI	IYQAGSTPCNGV	telomerase activating protein Est1 [Colletotrichum higginsianum IMI 349063]	29.5	13
+7	STEIYPTGSTP	STEIYQAGSTP	fused MFS/spermidine synthase, partial [Halococcus thailandensis]	29.5	13
+8	EIYQPGSTPGV	EIYQAGSTPCNGV	diguanylate cyclase [Rhodoferax sp. BAB1]	29.1	13
+9	VYQAGSTPGVCDG	IYQAGSTPCNG	T9SS type B sorting domain-containing protein [Flavobacterium magnum]	28.6	13
+10	IYQCAGSTPC	IYQAGSTPC	hypothetical protein [Actinomadura oligospora]	28.2	13
+11	TEIYQAGS	TEIYQAGS	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Mesorhizobium sp. M2A.F.Ca.ET.043.05.1.1]	28.2	13
+12	TEIYQVGTTQLTPNGV	TEIYQAGSTPCNGV	S-methyl-5-thioribose-1-phosphate isomerase [Calothrix sp. NIES-3974]	28.2	13
+13	DIYAAGSTPC	EIYQAGSTPC	alpha-N-arabinofuranosidase, partial [Streptomyces sp. NRRL S-350]	28.2	13
+14	TEITQAYQAGNTNYPPANGV	TEIYQAGSTPCNGV	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Solirubrum puertoriconensis]	28.2	13
+15	EIYQEGSTP	EIYQAGSTP	circularly permuted type 2 ATP-grasp protein [Sulfolobus sp. E5-1-F]	28.2	13
+16	DIYAAGSTPC	EIYQAGSTPC	cellulose binding domain-containing protein [Micromonospora haikouensis]	28.2	13
+17	DIYAAGSTPC	EIYQAGSTPC	lectin [Streptomyces sp. 74]	28.2	13
+18	DIYAAGSTPC	EIYQAGSTPC	RICIN domain-containing protein [Uliginosibacterium gangwonense]	28.2	13
+19	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	13
+20	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	13
+21	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	13
+22	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	13
+23	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	13
+24	IYQAASTSCDG	IYQAGSTPCNG	MULTISPECIES: DUF2142 domain-containing protein [Methanobrevibacter]	28.2	13
+25	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	13
+26	DIYAAGSTPC	EIYQAGSTPC	AbfB domain-containing protein [Kribbella qitaiheensis]	28.2	13
+27	DIYAAGSTPC	EIYQAGSTPC	AbfB domain-containing protein [Amycolatopsis vancoresmycina]	28.2	13
+28	STEIYQAG	STEIYQAG	DUF4957 domain-containing protein [Pedobacter duraquae]	28.2	13
+29	TEIYQGSTTCQG	TEIYQAGSTPCNG	protein LYK5-like [Cucurbita maxima]	28.2	13
+30	DIYQAGFTPC	EIYQAGSTPC	GAF domain-containing protein [Myxacorys almedinensis]	28.2	13
+31	DIYQAGFSPC	EIYQAGSTPC	GAF domain-containing protein [Myxacorys almedinensis]	25.2	13
+32	TELYHAGSTP	TEIYQAGSTP	hypothetical protein POSPLADRAFT_1065893, partial [Postia placenta MAD-698-R-SB12]	27.8	13
+33	DIYSAGSTPC	EIYQAGSTPC	P-selectin-like [Branchiostoma floridae]	27.8	13
+34	EIYQVGSTVLTPNGV	EIYQAGSTPCNGV	S-methyl-5-thioribose-1-phosphate isomerase [Nostocales cyanobacterium HT-58-2]	27.8	13
+35	DIYSAGSTPC	EIYQAGSTPC	sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1-like [Branchiostoma floridae]	27.8	13
+36	TEAYQAGNTNYPPANGV	TEIYQAGSTPCNGV	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Hymenobacter sp. CRA2]	27.8	13
+37	STNISTPCNGV	STEIYQAGSTPCNGV	hypothetical protein COCVIDRAFT_24881 [Bipolaris victoriae FI3]	27.8	13
+38	EIYRADSTPC	EIYQAGSTPC	allantoate amidohydrolase [Agromyces albus]	27.8	13
+39	GSTPCNGV	GSTPCNGV	hypothetical protein [Tenacibaculum mesophilum]	27.8	13
+40	STAVEQAGSMPCNSV	STEIYQAGSTPCNGV	PREDICTED: zinc finger and BTB domain-containing protein 49 isoform X2 [Sturnus vulgaris]	27.8	13
+41	STAVEQAGSMPCNSV	STEIYQAGSTPCNGV	PREDICTED: zinc finger and BTB domain-containing protein 49 [Ficedula albicollis]	27.8	13
+42	STAVEQAGSMPCNSV	STEIYQAGSTPCNGV	PREDICTED: zinc finger and BTB domain-containing protein 49 isoform X1 [Sturnus vulgaris]	27.8	13
+43	QAGSTPCSG	QAGSTPCNG	hypothetical protein [Phytohabitans rumicis]	27.4	13
+44	DIYQSGGTPC	EIYQAGSTPC	alpha-L-arabinofuranosidase, partial [Streptomyces sp. PRB2-1]	27.4	13
+45	TEIYNAGTTP	TEIYQAGSTP	hypothetical protein [Flavobacterium sharifuzzamanii]	27.4	13
+46	TEISQATATPCN	TEIYQAGSTPCN	G-protein coupled receptor family C group 5 member C-like isoform X4 [Gouania willdenowi]	27.4	13
+47	TEISQATATPCN	TEIYQAGSTPCN	G-protein coupled receptor family C group 5 member C-like isoform X3 [Gouania willdenowi]	27.4	13
+48	TEISQATATPCN	TEIYQAGSTPCN	G-protein coupled receptor family C group 5 member C-like isoform X2 [Gouania willdenowi]	27.4	13
+49	TEISQATATPCN	TEIYQAGSTPCN	G-protein coupled receptor family C group 5 member C-like isoform X1 [Gouania willdenowi]	27.4	13
+50	ELYAAGETACNGV	EIYQAGSTPCNGV	MULTISPECIES: FAD-binding protein [unclassified Collinsella]	27.4	13
+0	EIYQVGSTVLTPNGVE	EIYQAGSTPCNGVE	S-methyl-5-thioribose-1-phosphate isomerase [Nostocales cyanobacterium HT-58-2]	31.2	14
+1	IYQAGSSPCGV	IYQAGSTPCNGV	NtaA/DmoA family FMN-dependent monooxygenase [Mycolicibacterium smegmatis]	30.8	14
+2	DIYQAGGTPC	EIYQAGSTPC	AbfB domain-containing protein [Streptomyces tateyamensis]	29.9	14
+3	YQAGKTQCDGVE	YQAGSTPCNGVE	DUF3612 domain-containing protein [Shewanella xiamenensis]	29.9	14
+4	DIYQAGGTPC	EIYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.9	14
+5	DIYQAGGTPC	EIYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.9	14
+6	IYQSTPCNGI	IYQAGSTPCNGV	telomerase activating protein Est1 [Colletotrichum scovillei]	29.5	14
+7	IYQSTPCNGI	IYQAGSTPCNGV	telomerase activating protein Est1 [Colletotrichum orchidophilum]	29.5	14
+8	IYQSTPCNGI	IYQAGSTPCNGV	telomerase activating protein Est1 [Colletotrichum higginsianum IMI 349063]	29.5	14
+9	TEIYQVGTTQLTPNGVD	TEIYQAGSTPCNGVE	S-methyl-5-thioribose-1-phosphate isomerase [Calothrix sp. NIES-3974]	29.1	14
+10	VYQAGSPYNGVE	IYQAGSTPCNGVE	hypothetical protein [Novosphingobium acidiphilum]	29.1	14
+11	VYQAGSPYNGVE	IYQAGSTPCNGVE	hypothetical protein [Novosphingobium sp. Fuku2-ISO-50]	29.1	14
+12	EIYQPGSTPGV	EIYQAGSTPCNGV	diguanylate cyclase [Rhodoferax sp. BAB1]	29.1	14
+13	VYQAGSTPGVCDG	IYQAGSTPCNG	T9SS type B sorting domain-containing protein [Flavobacterium magnum]	28.6	14
+14	IYQCAGSTPC	IYQAGSTPC	hypothetical protein [Actinomadura oligospora]	28.2	14
+15	TEIYQAGS	TEIYQAGS	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Mesorhizobium sp. M2A.F.Ca.ET.043.05.1.1]	28.2	14
+16	DIYAAGSTPC	EIYQAGSTPC	alpha-N-arabinofuranosidase, partial [Streptomyces sp. NRRL S-350]	28.2	14
+17	TEITQAYQAGNTNYPPANGV	TEIYQAGSTPCNGV	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Solirubrum puertoriconensis]	28.2	14
+18	YQAGSNPCDVPFINSVE	YQAGSTPCNGVE	outer membrane beta-barrel protein, partial [Helicobacter cetorum]	28.2	14
+19	EIYQEGSTP	EIYQAGSTP	circularly permuted type 2 ATP-grasp protein [Sulfolobus sp. E5-1-F]	28.2	14
+20	DIYAAGSTPC	EIYQAGSTPC	cellulose binding domain-containing protein [Micromonospora haikouensis]	28.2	14
+21	DIYAAGSTPC	EIYQAGSTPC	lectin [Streptomyces sp. 74]	28.2	14
+22	DIYAAGSTPC	EIYQAGSTPC	RICIN domain-containing protein [Uliginosibacterium gangwonense]	28.2	14
+23	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	14
+24	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	14
+25	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	14
+26	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	14
+27	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	14
+28	IYQAASTSCDG	IYQAGSTPCNG	MULTISPECIES: DUF2142 domain-containing protein [Methanobrevibacter]	28.2	14
+29	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	14
+30	DIYAAGSTPC	EIYQAGSTPC	AbfB domain-containing protein [Kribbella qitaiheensis]	28.2	14
+31	DIYAAGSTPC	EIYQAGSTPC	AbfB domain-containing protein [Amycolatopsis vancoresmycina]	28.2	14
+32	TEIYQGSTTCQG	TEIYQAGSTPCNG	protein LYK5-like [Cucurbita maxima]	28.2	14
+33	DIYQAGFTPC	EIYQAGSTPC	GAF domain-containing protein [Myxacorys almedinensis]	28.2	14
+34	DIYQAGFSPC	EIYQAGSTPC	GAF domain-containing protein [Myxacorys almedinensis]	25.2	14
+35	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	14
+36	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	14
+37	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	14
+38	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	14
+39	EADSTPCDGVE	QAGSTPCNGVE	MULTISPECIES: DUF1311 domain-containing protein [Pseudomonas]	27.8	14
+40	TELYHAGSTP	TEIYQAGSTP	hypothetical protein POSPLADRAFT_1065893, partial [Postia placenta MAD-698-R-SB12]	27.8	14
+41	DIYSAGSTPC	EIYQAGSTPC	P-selectin-like [Branchiostoma floridae]	27.8	14
+42	EIYEDGTPCDGTE	EIYQAGSTPCNGVE	lytic transglycosylase domain-containing protein [Prevotella multiformis]	27.8	14
+43	DIYSAGSTPC	EIYQAGSTPC	sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1-like [Branchiostoma floridae]	27.8	14
+44	TSIYEADSTPAQGVE	TEIYQAGSTPCNGVE	Membrane anchor Opy2 [Cordyceps militaris CM01]	27.8	14
+45	TEAYQAGNTNYPPANGV	TEIYQAGSTPCNGV	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Hymenobacter sp. CRA2]	27.8	14
+46	EIYRADSTPC	EIYQAGSTPC	allantoate amidohydrolase [Agromyces albus]	27.8	14
+47	GSTPCNGV	GSTPCNGV	hypothetical protein [Tenacibaculum mesophilum]	27.8	14
+48	QAGSTPSNGLE	QAGSTPCNGVE	hypothetical protein PFL1_02147 [Anthracocystis flocculosa PF-1]	27.8	14
+49	QAGSTPCSG	QAGSTPCNG	hypothetical protein [Phytohabitans rumicis]	27.4	14
+50	EIYQAQQSTSCDGTE	EIYQAGSTPCNGVE	PREDICTED: immunoglobulin J chain [Tinamus guttatus]	27.4	14
+0	EIYQVGSTVLTPNGVE	EIYQAGSTPCNGVE	S-methyl-5-thioribose-1-phosphate isomerase [Nostocales cyanobacterium HT-58-2]	31.2	15
+1	IYQAGSSPCGV	IYQAGSTPCNGV	NtaA/DmoA family FMN-dependent monooxygenase [Mycolicibacterium smegmatis]	30.8	15
+2	DIYQAGGTPC	EIYQAGSTPC	AbfB domain-containing protein [Streptomyces tateyamensis]	29.9	15
+3	YQAGKTQCDGVE	YQAGSTPCNGVE	DUF3612 domain-containing protein [Shewanella xiamenensis]	29.9	15
+4	DIYQAGGTPC	EIYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.9	15
+5	DIYQAGGTPC	EIYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.9	15
+6	IYQSTPCNGI	IYQAGSTPCNGV	telomerase activating protein Est1 [Colletotrichum scovillei]	29.5	15
+7	IYQSTPCNGI	IYQAGSTPCNGV	telomerase activating protein Est1 [Colletotrichum orchidophilum]	29.5	15
+8	IYQSTPCNGI	IYQAGSTPCNGV	telomerase activating protein Est1 [Colletotrichum higginsianum IMI 349063]	29.5	15
+9	VYQAGSPYNGVE	IYQAGSTPCNGVE	hypothetical protein [Novosphingobium acidiphilum]	29.1	15
+10	VYQAGSPYNGVE	IYQAGSTPCNGVE	hypothetical protein [Novosphingobium sp. Fuku2-ISO-50]	29.1	15
+11	EIYQPGSTPGV	EIYQAGSTPCNGV	diguanylate cyclase [Rhodoferax sp. BAB1]	29.1	15
+12	VYQAGSTPGVCDG	IYQAGSTPCNG	T9SS type B sorting domain-containing protein [Flavobacterium magnum]	28.6	15
+13	IYQCAGSTPC	IYQAGSTPC	hypothetical protein [Actinomadura oligospora]	28.2	15
+14	DIYAAGSTPC	EIYQAGSTPC	alpha-N-arabinofuranosidase, partial [Streptomyces sp. NRRL S-350]	28.2	15
+15	YQAGSNPCDVPFINSVE	YQAGSTPCNGVE	outer membrane beta-barrel protein, partial [Helicobacter cetorum]	28.2	15
+16	EIYQEGSTP	EIYQAGSTP	circularly permuted type 2 ATP-grasp protein [Sulfolobus sp. E5-1-F]	28.2	15
+17	DIYAAGSTPC	EIYQAGSTPC	cellulose binding domain-containing protein [Micromonospora haikouensis]	28.2	15
+18	DIYAAGSTPC	EIYQAGSTPC	lectin [Streptomyces sp. 74]	28.2	15
+19	DIYAAGSTPC	EIYQAGSTPC	RICIN domain-containing protein [Uliginosibacterium gangwonense]	28.2	15
+20	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	15
+21	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	15
+22	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	15
+23	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	15
+24	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	15
+25	IYQAASTSCDG	IYQAGSTPCNG	MULTISPECIES: DUF2142 domain-containing protein [Methanobrevibacter]	28.2	15
+26	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	15
+27	DIYAAGSTPC	EIYQAGSTPC	AbfB domain-containing protein [Kribbella qitaiheensis]	28.2	15
+28	DIYAAGSTPC	EIYQAGSTPC	AbfB domain-containing protein [Amycolatopsis vancoresmycina]	28.2	15
+29	EIYEGGTDLEINAATPANGVEG	EIYQAGSTPCNGVEG	uncharacterized protein LOC117124317 [Anneissia japonica]	28.2	15
+30	DIYQAGFTPC	EIYQAGSTPC	GAF domain-containing protein [Myxacorys almedinensis]	28.2	15
+31	DIYQAGFSPC	EIYQAGSTPC	GAF domain-containing protein [Myxacorys almedinensis]	25.2	15
+32	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	15
+33	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	15
+34	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	15
+35	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	15
+36	EADSTPCDGVE	QAGSTPCNGVE	MULTISPECIES: DUF1311 domain-containing protein [Pseudomonas]	27.8	15
+37	DIYSAGSTPC	EIYQAGSTPC	P-selectin-like [Branchiostoma floridae]	27.8	15
+38	EIYEDGTPCDGTE	EIYQAGSTPCNGVE	lytic transglycosylase domain-containing protein [Prevotella multiformis]	27.8	15
+39	DIYSAGSTPC	EIYQAGSTPC	sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1-like [Branchiostoma floridae]	27.8	15
+40	EIYRADSTPC	EIYQAGSTPC	allantoate amidohydrolase [Agromyces albus]	27.8	15
+41	ELYAAGETACNGVHG	EIYQAGSTPCNGVEG	FAD-binding protein [Collinsella aerofaciens]	27.8	15
+42	ELYAAGETACNGVHG	EIYQAGSTPCNGVEG	FAD-binding protein [Collinsella aerofaciens]	27.8	15
+43	ELYAAGETACNGVHG	EIYQAGSTPCNGVEG	FAD-binding protein [Collinsella aerofaciens]	27.8	15
+44	ELYAAGETACNGVHG	EIYQAGSTPCNGVEG	FAD-binding protein [Collinsella aerofaciens]	27.8	15
+45	ELYAAGETACNGVHG	EIYQAGSTPCNGVEG	FAD-binding protein [Collinsella aerofaciens]	27.8	15
+46	ELYAAGETACNGVHG	EIYQAGSTPCNGVEG	FAD-binding protein [Collinsella aerofaciens]	27.8	15
+47	ELYAAGETACNGVHG	EIYQAGSTPCNGVEG	FAD-binding protein [Coriobacteriaceae bacterium]	27.8	15
+48	ELYAAGETACNGVHG	EIYQAGSTPCNGVEG	FAD-binding protein [Collinsella aerofaciens]	27.8	15
+49	ELYAAGETACNGVHG	EIYQAGSTPCNGVEG	MULTISPECIES: FAD-binding protein [unclassified Collinsella]	27.8	15
+50	ELYAAGETACNGVHG	EIYQAGSTPCNGVEG	MULTISPECIES: FAD-binding protein [unclassified Collinsella]	27.8	15
+0	IYQAGSSPCGV	IYQAGSTPCNGV	NtaA/DmoA family FMN-dependent monooxygenase [Mycolicibacterium smegmatis]	30.8	16
+1	YQAGRAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Sulfitobacter sp. SK011]	30.3	16
+2	YQAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas hydrothermalis]	29.9	16
+3	YQAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas sp. C22]	29.9	16
+4	YQAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas hydrothermalis]	29.9	16
+5	YQAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas sp. BC2]	29.9	16
+6	YQAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas stevensii]	29.9	16
+7	YQAGDAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Chromatiaceae bacterium 2141T.STBD.0c.01a]	29.9	16
+8	YQAGKTQCDGVE	YQAGSTPCNGVE	DUF3612 domain-containing protein [Shewanella xiamenensis]	29.9	16
+9	YQAGDAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Sulfitobacter sp. 1151]	29.9	16
+10	VYQAGSTPGVCDGQDSF	IYQAGSTPCNGVEGF	T9SS type B sorting domain-containing protein [Flavobacterium magnum]	29.5	16
+11	IYQSTPCNGI	IYQAGSTPCNGV	telomerase activating protein Est1 [Colletotrichum scovillei]	29.5	16
+12	IYQSTPCNGI	IYQAGSTPCNGV	telomerase activating protein Est1 [Colletotrichum orchidophilum]	29.5	16
+13	IYQSTPCNGI	IYQAGSTPCNGV	telomerase activating protein Est1 [Colletotrichum higginsianum IMI 349063]	29.5	16
+14	IYQAGGTPC	IYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.1	16
+15	IYQAGGTPC	IYQAGSTPC	RICIN domain-containing protein [Streptomyces tateyamensis]	29.1	16
+16	IYQAGGTPC	IYQAGSTPC	AbfB domain-containing protein [Streptomyces tateyamensis]	29.1	16
+17	YQSGTAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Altererythrobacter sp. ZODW24]	29.1	16
+18	YQAGHAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Neptunomonas phycophila]	29.1	16
+19	YQAGHAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Neptunomonas phycophila]	29.1	16
+20	VYQAGSPYNGVE	IYQAGSTPCNGVE	hypothetical protein [Novosphingobium acidiphilum]	29.1	16
+21	VYQAGSPYNGVE	IYQAGSTPCNGVE	hypothetical protein [Novosphingobium sp. Fuku2-ISO-50]	29.1	16
+22	IYQCAGSTPC	IYQAGSTPC	hypothetical protein [Actinomadura oligospora]	28.2	16
+23	TPCEGVEGF	TPCNGVEGF	DUF1326 domain-containing protein [Halofilum ochraceum]	28.2	16
+24	YQAGSNPCDVPFINSVE	YQAGSTPCNGVE	outer membrane beta-barrel protein, partial [Helicobacter cetorum]	28.2	16
+25	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	16
+26	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	16
+27	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	16
+28	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	16
+29	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	16
+30	IYQAASTSCDG	IYQAGSTPCNG	MULTISPECIES: DUF2142 domain-containing protein [Methanobrevibacter]	28.2	16
+31	IYQAASTSCDG	IYQAGSTPCNG	DUF2142 domain-containing protein [Methanobrevibacter smithii]	28.2	16
+32	YQAGTAPIHSVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halorubraceae archaeon YAN]	28.2	16
+33	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	16
+34	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	16
+35	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	16
+36	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	16
+37	EADSTPCDGVE	QAGSTPCNGVE	MULTISPECIES: DUF1311 domain-containing protein [Pseudomonas]	27.8	16
+38	IYQVGSTVLTPNGVE	IYQAGSTPCNGVE	S-methyl-5-thioribose-1-phosphate isomerase [Nostocales cyanobacterium HT-58-2]	27.8	16
+39	YQAGAAPLNSVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Salinimonas chungwhensis]	27.8	16
+40	GSTPCNGV	GSTPCNGV	hypothetical protein [Tenacibaculum mesophilum]	27.8	16
+41	EAGSSNCNGVEG	QAGSTPCNGVEG	hypothetical protein [Aliiglaciecola sp. M165]	27.8	16
+42	GATPPPEDPYMMCNGVEGF	GSTPCNGVEGF	AGAP007368-PA [Anopheles gambiae str. PEST]	27.8	16
+43	QAGSTPSNGLE	QAGSTPCNGVE	hypothetical protein PFL1_02147 [Anthracocystis flocculosa PF-1]	27.8	16
+44	QAGSTPCSG	QAGSTPCNG	hypothetical protein [Phytohabitans rumicis]	27.4	16
+45	IYAAGSTPC	IYQAGSTPC	alpha-N-arabinofuranosidase, partial [Streptomyces sp. NRRL S-350]	27.4	16
+46	IYAAGSTPC	IYQAGSTPC	cellulose binding domain-containing protein [Micromonospora haikouensis]	27.4	16
+47	IYAAGSTPC	IYQAGSTPC	lectin [Streptomyces sp. 74]	27.4	16
+48	IYAAGSTPC	IYQAGSTPC	RICIN domain-containing protein [Uliginosibacterium gangwonense]	27.4	16
+49	IYAAGSTPC	IYQAGSTPC	AbfB domain-containing protein [Kribbella qitaiheensis]	27.4	16
+0	YQAGRAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Sulfitobacter sp. SK011]	30.3	17
+1	YQAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas hydrothermalis]	29.9	17
+2	YQAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas sp. C22]	29.9	17
+3	YQAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas hydrothermalis]	29.9	17
+4	YQAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas sp. BC2]	29.9	17
+5	YQAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas stevensii]	29.9	17
+6	YQAGDAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Chromatiaceae bacterium 2141T.STBD.0c.01a]	29.9	17
+7	YQAGKTQCDGVE	YQAGSTPCNGVE	DUF3612 domain-containing protein [Shewanella xiamenensis]	29.9	17
+8	YQAGDAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Sulfitobacter sp. 1151]	29.9	17
+9	YESGSTPCHTSVPGFN	YQAGSTPCNGVEGFN	C-X-C chemokine receptor type 1-like [Kryptolebias marmoratus]	29.1	17
+10	YQSGTAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Altererythrobacter sp. ZODW24]	29.1	17
+11	YQAGHAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Neptunomonas phycophila]	29.1	17
+12	YQAGHAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Neptunomonas phycophila]	29.1	17
+13	PCNGVNGFN	PCNGVEGFN	hypothetical protein CRE_24724 [Caenorhabditis remanei]	28.6	17
+14	STPCNAVALPTVLEGFN	STPCNGVEGFN	fibronectin type III domain-containing protein [Flavobacterium kingsejongi]	28.6	17
+15	YQAGSTPGVCDGQDSF	YQAGSTPCNGVEGF	T9SS type B sorting domain-containing protein [Flavobacterium magnum]	28.6	17
+16	TPCEGVEGF	TPCNGVEGF	DUF1326 domain-containing protein [Halofilum ochraceum]	28.2	17
+17	YQAGSNPCDVPFINSVE	YQAGSTPCNGVE	outer membrane beta-barrel protein, partial [Helicobacter cetorum]	28.2	17
+18	YQAGTAPIHSVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halorubraceae archaeon YAN]	28.2	17
+19	QAGSTPSNGLEFD	QAGSTPCNGVEGFN	hypothetical protein PFL1_02147 [Anthracocystis flocculosa PF-1]	28.2	17
+20	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	17
+21	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	17
+22	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	17
+23	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	17
+24	EADSTPCDGVE	QAGSTPCNGVE	MULTISPECIES: DUF1311 domain-containing protein [Pseudomonas]	27.8	17
+25	GATPCNGVFN	GSTPCNGVEGFN	NAD(P)H-binding protein [Rheinheimera sp. EpRS3]	27.8	17
+26	GSTPCNATVPGFN	GSTPCNGVEGFN	C-X-C chemokine receptor type 1-like [Archocentrus centrarchus]	27.8	17
+27	YQAGAAPLNSVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Salinimonas chungwhensis]	27.8	17
+28	GSTPCNGV	GSTPCNGV	hypothetical protein [Tenacibaculum mesophilum]	27.8	17
+29	EAGSSNCNGVEG	QAGSTPCNGVEG	hypothetical protein [Aliiglaciecola sp. M165]	27.8	17
+30	GATPPPEDPYMMCNGVEGF	GSTPCNGVEGF	AGAP007368-PA [Anopheles gambiae str. PEST]	27.8	17
+31	QAGSTPCSG	QAGSTPCNG	hypothetical protein [Phytohabitans rumicis]	27.4	17
+32	YQAGSSPCGV	YQAGSTPCNGV	NtaA/DmoA family FMN-dependent monooxygenase [Mycolicibacterium smegmatis]	27.4	17
+33	AGSTPCNG	AGSTPCNG	pollen receptor-like kinase 4 [Phoenix dactylifera]	27.4	17
+34	AGSTPCSGV	AGSTPCNGV	T-cell surface glycoprotein CD5-like [Scleropages formosus]	26.9	17
+35	QAGSYPCNGID	QAGSTPCNGVE	choice-of-anchor B family protein [Gilvibacter sp. SZ-19]	26.9	17
+36	CNGVDGFN	CNGVEGFN	adenosine deaminase [Legionella geestiana]	26.9	17
+37	YEAGEAPINSVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halolamina rubra]	26.9	17
+38	YKAGNAPINSVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Thioclava sp. F36-6]	26.9	17
+39	YKAGNAPINSVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Thioclava sp. DLFJ4-1]	26.9	17
+40	YQAGKSQCDGVE	YQAGSTPCNGVE	MULTISPECIES: DUF3612 domain-containing protein [Shewanella]	26.9	17
+41	YQAGKSQCDGVE	YQAGSTPCNGVE	MULTISPECIES: DUF3612 domain-containing protein [unclassified Shewanella]	26.9	17
+42	YQAGKSQCDGVE	YQAGSTPCNGVE	DUF3612 domain-containing protein [Shewanella sp. DNRA4]	26.9	17
+43	QAGSTPIHGVE	QAGSTPCNGVE	CYTH and CHAD domain-containing protein [Caballeronia terrestris]	26.9	17
+44	YEAGEAPINSVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Erythrobacter sp. QSSC1-22B]	26.9	17
+45	YHAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas meridiana]	26.9	17
+46	YHAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas sp. NBT06E8]	26.9	17
+47	YHAGKAPINAVEGF	YQAGSTPCNGVEGF	cryptochrome/photolyase family protein [Halomonas sp. BL6]	26.9	17
+48	STACNGVEG	STPCNGVEG	probable ion channel SYM8 isoform X4 [Dendrobium catenatum]	26.9	17
+49	STACNGVEG	STPCNGVEG	probable ion channel POLLUX isoform X3 [Dendrobium catenatum]	26.9	17
+0	PCNGVNGFN	PCNGVEGFN	hypothetical protein CRE_24724 [Caenorhabditis remanei]	28.6	18
+1	STPCNAVALPTVLEGFN	STPCNGVEGFN	fibronectin type III domain-containing protein [Flavobacterium kingsejongi]	28.6	18
+2	TPCEGVEGF	TPCNGVEGF	DUF1326 domain-containing protein [Halofilum ochraceum]	28.2	18
+3	AGSTNCTGSNAVKGFNC	AGSTPCNGVEGFNC	TonB-dependent receptor [Paucibacter toxinivorans]	28.2	18
+4	QAGSTPSNGLEFD	QAGSTPCNGVEGFN	hypothetical protein PFL1_02147 [Anthracocystis flocculosa PF-1]	28.2	18
+5	STPCNGVSGTNSCFKC	STPCNGVEGFNC	SICA antigen [Plasmodium knowlesi strain H]	28.2	18
+6	PCSGSEGFNC	PCNGVEGFNC	hypothetical protein, partial [Vibrio vulnificus]	28.2	18
+7	QANECGSTPCRNGGTCIDFVNGYNC	QAGSTPCNGVEGFNC	protein eyes shut homolog [Anneissia japonica]	28.2	18
+8	PCSGSEGFNC	PCNGVEGFNC	hypothetical protein, partial [Vibrio vulnificus]	28.2	18
+9	PCSGSEGFNC	PCNGVEGFNC	tandem large repeat [Vibrio vulnificus]	28.2	18
+10	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	18
+11	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	18
+12	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	18
+13	EADSTPCDGVE	QAGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.8	18
+14	EADSTPCDGVE	QAGSTPCNGVE	MULTISPECIES: DUF1311 domain-containing protein [Pseudomonas]	27.8	18
+15	GATPCNGVFN	GSTPCNGVEGFN	NAD(P)H-binding protein [Rheinheimera sp. EpRS3]	27.8	18
+16	GSTPCNATVPGFN	GSTPCNGVEGFN	C-X-C chemokine receptor type 1-like [Archocentrus centrarchus]	27.8	18
+17	GSTPCNGV	GSTPCNGV	hypothetical protein [Tenacibaculum mesophilum]	27.8	18
+18	EAGSSNCNGVEG	QAGSTPCNGVEG	hypothetical protein [Aliiglaciecola sp. M165]	27.8	18
+19	GATPPPEDPYMMCNGVEGF	GSTPCNGVEGF	AGAP007368-PA [Anopheles gambiae str. PEST]	27.8	18
+20	QAGSTPCSG	QAGSTPCNG	hypothetical protein [Phytohabitans rumicis]	27.4	18
+21	CEGIEGFNC	CNGVEGFNC	non-structural protein 7b [Feline infectious peritonitis virus]	27.4	18
+22	TACNGQEGFDC	TPCNGVEGFNC	response regulator [Stappia indica]	27.4	18
+23	CNGAEGFDC	CNGVEGFNC	MFS transporter [Erwiniaceae bacterium PD-1]	27.4	18
+24	QAPCAGIEGFSC	QAGSTPCNGVEGFNC	alpha/beta fold hydrolase [Luteipulveratus mongoliensis]	27.4	18
+25	AGSTPCNG	AGSTPCNG	pollen receptor-like kinase 4 [Phoenix dactylifera]	27.4	18
+26	NGVEGFDC	NGVEGFNC	uncharacterized protein LOC117564982 [Drosophila albomicans]	26.9	18
+27	AGSTPCSGV	AGSTPCNGV	T-cell surface glycoprotein CD5-like [Scleropages formosus]	26.9	18
+28	QAGSYPCNGID	QAGSTPCNGVE	choice-of-anchor B family protein [Gilvibacter sp. SZ-19]	26.9	18
+29	STPCNGPGGLNC	STPCNGVEGFNC	TIR domain-containing protein [Sphingomonas sp. CGMCC 1.13654]	26.9	18
+30	CNGVDGFN	CNGVEGFN	adenosine deaminase [Legionella geestiana]	26.9	18
+31	PCGVEGFDC	PCNGVEGFNC	alpha/beta fold hydrolase [Streptomyces sp. SLBN-118]	26.9	18
+32	QAGSTPIHGVE	QAGSTPCNGVE	CYTH and CHAD domain-containing protein [Caballeronia terrestris]	26.9	18
+33	STACNGVEG	STPCNGVEG	probable ion channel SYM8 isoform X4 [Dendrobium catenatum]	26.9	18
+34	STACNGVEG	STPCNGVEG	probable ion channel POLLUX isoform X3 [Dendrobium catenatum]	26.9	18
+35	STACNGVEG	STPCNGVEG	ion channel DMI1 isoform X2 [Dendrobium catenatum]	26.9	18
+36	STACNGVEG	STPCNGVEG	ion channel DMI1 isoform X1 [Dendrobium catenatum]	26.9	18
+37	GSTPCHSVEG	GSTPCNGVEG	cysteine protease, putative [Plasmodium knowlesi strain H]	26.9	18
+38	GSTPCDGIE	GSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas sp. L13]	26.5	18
+39	TPVLASKCSGVEGFN	TPCNGVEGFN	nicotianamine synthase [Cajanus cajan]	26.5	18
+40	AGSAPVNSVEGF	AGSTPCNGVEGF	cryptochrome/photolyase family protein [Streptomyces sp. HGB0020]	26.5	18
+41	TPCNGIENF	TPCNGVEGF	helix-turn-helix domain-containing protein [Clostridia bacterium]	26.5	18
+42	QAASTPCNEPTGSGAEG	QAGSTPCNGVEG	cystine/glutamate transporter [Erpetoichthys calabaricus]	26.5	18
+43	GSTPPSDGADGFNC	GSTPCNGVEGFNC	hypothetical protein [endosymbiont of unidentified scaly snail isolate Monju]	26.5	18
+44	PCENGGTCINDVEGFNC	PCNGVEGFNC	uncharacterized protein LOC576643 isoform X2 [Strongylocentrotus purpuratus]	26.5	18
+45	PCENGGTCINDVEGFNC	PCNGVEGFNC	fibropellin-1 isoform X1 [Strongylocentrotus purpuratus]	26.5	18
+46	AGSTDECNSDTGRCICKDNVEGFNC	AGSTPCNGVEGFNC	laminin subunit gamma-1 [Geotrypetes seraphini]	26.5	18
+0	CNGMEGFTCY	CNGVEGFNCY	TrmB family transcriptional regulator [Ruminiclostridium papyrosolvens]	30.3	19
+1	GVEGFNCY	GVEGFNCY	hypothetical protein HELRODRAFT_74022, partial [Helobdella robusta]	30.3	19
+2	CNGVECGFKCY	CNGVEGFNCY	4Fe-4S binding protein [Methanococcus maripaludis]	29.9	19
+3	GATPPPEDPYMMCNGVEGFGLVRHPNFCY	GSTPCNGVEGFNCY	AGAP007368-PA [Anopheles gambiae str. PEST]	29.1	19
+4	AGSGVEAFNCY	AGSTPCNGVEGFNCY	amino acid adenylation domain-containing protein [Rhodococcus sp. BL-253-APC-6A1W]	29.1	19
+5	AGSGVEAFNCY	AGSTPCNGVEGFNCY	amino acid adenylation domain-containing protein [Rhodococcus sp. 105337]	29.1	19
+6	CDGVDGFTNCY	CNGVEGFNCY	hypothetical protein [Algoriphagus litoralis]	28.6	19
+7	PCNGVNGFN	PCNGVEGFN	hypothetical protein CRE_24724 [Caenorhabditis remanei]	28.6	19
+8	STPCNAVALPTVLEGFN	STPCNGVEGFN	fibronectin type III domain-containing protein [Flavobacterium kingsejongi]	28.6	19
+9	SNPCLNGAECEDQPRGFNCY	STPCNGVEGFNCY	fibrillin-3-like isoform X2 [Asterias rubens]	28.6	19
+10	SNPCLNGAECEDQPRGFNCY	STPCNGVEGFNCY	fibrillin-3-like isoform X1 [Asterias rubens]	28.6	19
+11	TPCEGVEGF	TPCNGVEGF	DUF1326 domain-containing protein [Halofilum ochraceum]	28.2	19
+12	AGSTNCTGSNAVKGFNC	AGSTPCNGVEGFNC	TonB-dependent receptor [Paucibacter toxinivorans]	28.2	19
+13	PCNGVEQFCY	PCNGVEGFNCY	LuxR family transcriptional regulator [Bacteroides cellulosilyticus]	28.2	19
+14	STPCNGVSGTNSCFKC	STPCNGVEGFNC	SICA antigen [Plasmodium knowlesi strain H]	28.2	19
+15	PCSGSEGFNC	PCNGVEGFNC	hypothetical protein, partial [Vibrio vulnificus]	28.2	19
+16	PCSGSEGFNC	PCNGVEGFNC	hypothetical protein, partial [Vibrio vulnificus]	28.2	19
+17	PCSGSEGFNC	PCNGVEGFNC	tandem large repeat [Vibrio vulnificus]	28.2	19
+18	GATPCNGVFN	GSTPCNGVEGFN	NAD(P)H-binding protein [Rheinheimera sp. EpRS3]	27.8	19
+19	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	19
+20	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	19
+21	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	19
+22	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	19
+23	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	19
+24	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	19
+25	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	19
+26	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	19
+27	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	19
+28	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	19
+29	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	19
+30	GSTPCNATVPGFN	GSTPCNGVEGFN	C-X-C chemokine receptor type 1-like [Archocentrus centrarchus]	27.8	19
+31	GSTPCNGV	GSTPCNGV	hypothetical protein [Tenacibaculum mesophilum]	27.8	19
+32	VEGFNCY	VEGFNCY	uncharacterized protein C5L36_0C10800 [Pichia kudriavzevii]	27.8	19
+33	ADSTPCDGVE	AGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.4	19
+34	ADSTPCDGVE	AGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.4	19
+35	ADSTPCDGVE	AGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.4	19
+36	ADSTPCDGVE	AGSTPCNGVE	DUF1311 domain-containing protein [Pseudomonas protegens]	27.4	19
+37	ADSTPCDGVE	AGSTPCNGVE	MULTISPECIES: DUF1311 domain-containing protein [Pseudomonas]	27.4	19
+38	CEGIEGFNC	CNGVEGFNC	non-structural protein 7b [Feline infectious peritonitis virus]	27.4	19
+39	TACNGQEGFDC	TPCNGVEGFNC	response regulator [Stappia indica]	27.4	19
+40	CNGAEGFDC	CNGVEGFNC	MFS transporter [Erwiniaceae bacterium PD-1]	27.4	19
+41	AGSTPCNG	AGSTPCNG	pollen receptor-like kinase 4 [Phoenix dactylifera]	27.4	19
+42	AGSSNCNGVEG	AGSTPCNGVEG	hypothetical protein [Aliiglaciecola sp. M165]	27.4	19
+43	GSTPCRNGGTCIDFVNGYNC	GSTPCNGVEGFNC	protein eyes shut homolog [Anneissia japonica]	27.4	19
+44	NGVEGFDC	NGVEGFNC	uncharacterized protein LOC117564982 [Drosophila albomicans]	26.9	19
+45	AGSTPCSGV	AGSTPCNGV	T-cell surface glycoprotein CD5-like [Scleropages formosus]	26.9	19
+46	GVEGFNCF	GVEGFNCY	LysR family transcriptional regulator [Rhizobium sp. NXC24]	26.9	19
+47	STPCNGPGGLNC	STPCNGVEGFNC	TIR domain-containing protein [Sphingomonas sp. CGMCC 1.13654]	26.9	19
+48	CNGVDGFN	CNGVEGFN	adenosine deaminase [Legionella geestiana]	26.9	19
+0	CNGMEGFTCY	CNGVEGFNCY	TrmB family transcriptional regulator [Ruminiclostridium papyrosolvens]	30.3	20
+1	GVEGFNCY	GVEGFNCY	hypothetical protein HELRODRAFT_74022, partial [Helobdella robusta]	30.3	20
+2	CNQVESYNCYF	CNGVEGFNCYF	PREDICTED: APC membrane recruitment protein 3-like [Xenopus laevis]	29.9	20
+3	CNGVECGFKCY	CNGVEGFNCY	4Fe-4S binding protein [Methanococcus maripaludis]	29.9	20
+4	CDAVKEGFDCYF	CNGVEGFNCYF	bifunctional nicotinamidase/pyrazinamidase [Algibacter amylolyticus]	29.1	20
+5	CDAVKEGFDCYF	CNGVEGFNCYF	bifunctional nicotinamidase/pyrazinamidase [Algibacter pectinivorans]	29.1	20
+6	GATPPPEDPYMMCNGVEGFGLVRHPNFCY	GSTPCNGVEGFNCY	AGAP007368-PA [Anopheles gambiae str. PEST]	29.1	20
+7	CDGVDGFTNCY	CNGVEGFNCY	hypothetical protein [Algoriphagus litoralis]	28.6	20
+8	EGFNCYF	EGFNCYF	bifunctional nicotinamidase/pyrazinamidase [Ulvibacter litoralis]	28.6	20
+9	PCNGVNGFN	PCNGVEGFN	hypothetical protein CRE_24724 [Caenorhabditis remanei]	28.6	20
+10	NGIEEFDCYF	NGVEGFNCYF	hypothetical protein [Petrimonas mucosa]	28.6	20
+11	PSTGVNGFDCYF	PCNGVEGFNCYF	SGNH/GDSL hydrolase family protein [Paenibacillus agaridevorans]	28.6	20
+12	PCLLINGIAGFACYF	PCNGVEGFNCYF	MFS transporter [Methanosalsum zhilinae]	28.6	20
+13	EGFNCYF	EGFNCYF	hypothetical protein [[Flexibacter] sp. ATCC 35208]	28.6	20
+14	EGFNCYF	EGFNCYF	NADH-quinone oxidoreductase subunit L [Campylobacter peloridis]	28.6	20
+15	STPCNAVALPTVLEGFN	STPCNGVEGFN	fibronectin type III domain-containing protein [Flavobacterium kingsejongi]	28.6	20
+16	SNPCLNGAECEDQPRGFNCY	STPCNGVEGFNCY	fibrillin-3-like isoform X2 [Asterias rubens]	28.6	20
+17	SNPCLNGAECEDQPRGFNCY	STPCNGVEGFNCY	fibrillin-3-like isoform X1 [Asterias rubens]	28.6	20
+18	NGEWVEGFYANCYF	NGVEGFNCYF	hypothetical protein [Lachnospiraceae bacterium]	28.2	20
+19	PCMQGFNCYF	PCNGVEGFNCYF	hypothetical protein [Siphonobacter aquaeclarae]	28.2	20
+20	TPCEGVEGF	TPCNGVEGF	DUF1326 domain-containing protein [Halofilum ochraceum]	28.2	20
+21	PCNGVEQFCY	PCNGVEGFNCY	LuxR family transcriptional regulator [Bacteroides cellulosilyticus]	28.2	20
+22	STPCNGVSGTNSCFKC	STPCNGVEGFNC	SICA antigen [Plasmodium knowlesi strain H]	28.2	20
+23	PCSGSEGFNC	PCNGVEGFNC	hypothetical protein, partial [Vibrio vulnificus]	28.2	20
+24	PCSGSEGFNC	PCNGVEGFNC	hypothetical protein, partial [Vibrio vulnificus]	28.2	20
+25	PCSGSEGFNC	PCNGVEGFNC	tandem large repeat [Vibrio vulnificus]	28.2	20
+26	GATPCNGVFN	GSTPCNGVEGFN	NAD(P)H-binding protein [Rheinheimera sp. EpRS3]	27.8	20
+27	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	20
+28	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	20
+29	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	20
+30	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	20
+31	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	20
+32	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	20
+33	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	20
+34	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	20
+35	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	20
+36	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	20
+37	NGVVGFNCY	NGVEGFNCY	membrane dipeptidase [Brachyspira pilosicoli]	27.8	20
+38	PSTGVSGFDCYF	PCNGVEGFNCYF	SGNH/GDSL hydrolase family protein [Paenibacillus sp. PAMC21692]	27.8	20
+39	GSTPCNATVPGFN	GSTPCNGVEGFN	C-X-C chemokine receptor type 1-like [Archocentrus centrarchus]	27.8	20
+40	STPCEAVDWDGNCYF	STPCNGVEGFNCYF	sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1-like [Lingula anatina]	27.8	20
+41	GSTPCNGV	GSTPCNGV	hypothetical protein [Tenacibaculum mesophilum]	27.8	20
+42	VEGFNCY	VEGFNCY	uncharacterized protein C5L36_0C10800 [Pichia kudriavzevii]	27.8	20
+43	GVEGFNCFY	GVEGFNCYF	MULTISPECIES: response regulator [Bacteroides]	27.8	20
+44	GVEGFNCFY	GVEGFNCYF	MULTISPECIES: response regulator [Bacteroides]	27.8	20
+45	GVEGFNCFY	GVEGFNCYF	response regulator [Bacteroides finegoldii]	27.8	20
+46	TPCFNCYF	TPCNGVEGFNCYF	uncharacterized protein LOC105219126 [Zeugodacus cucurbitae]	27.4	20
+47	SSSCNAIEGLEGMDETGFFNCYY	STPCNGVEGFNCYF	uncharacterized protein LOC107438663 [Parasteatoda tepidariorum]	27.4	20
+48	CEGIEGFNC	CNGVEGFNC	non-structural protein 7b [Feline infectious peritonitis virus]	27.4	20
+49	TACNGQEGFDC	TPCNGVEGFNC	response regulator [Stappia indica]	27.4	20
+0	NGEWVEGFYANCYFP	NGVEGFNCYFP	hypothetical protein [Lachnospiraceae bacterium]	31.6	21
+1	GVEGFNCFYP	GVEGFNCYFP	MULTISPECIES: response regulator [Bacteroides]	31.2	21
+2	GVEGFNCFYP	GVEGFNCYFP	MULTISPECIES: response regulator [Bacteroides]	31.2	21
+3	GVEGFNCFYP	GVEGFNCYFP	response regulator [Bacteroides finegoldii]	31.2	21
+4	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	21
+5	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	21
+6	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	21
+7	CNGMEGFTCY	CNGVEGFNCY	TrmB family transcriptional regulator [Ruminiclostridium papyrosolvens]	30.3	21
+8	GVEGFNCY	GVEGFNCY	hypothetical protein HELRODRAFT_74022, partial [Helobdella robusta]	30.3	21
+9	CNQVESYNCYF	CNGVEGFNCYF	PREDICTED: APC membrane recruitment protein 3-like [Xenopus laevis]	29.9	21
+10	CNGVECGFKCY	CNGVEGFNCY	4Fe-4S binding protein [Methanococcus maripaludis]	29.9	21
+11	CDAVKEGFDCYF	CNGVEGFNCYF	bifunctional nicotinamidase/pyrazinamidase [Algibacter amylolyticus]	29.1	21
+12	CDAVKEGFDCYF	CNGVEGFNCYF	bifunctional nicotinamidase/pyrazinamidase [Algibacter pectinivorans]	29.1	21
+13	CDGVDGFTNCY	CNGVEGFNCY	hypothetical protein [Algoriphagus litoralis]	28.6	21
+14	TPCEAVQTQGFCYFP	TPCNGVEGFNCYFP	hypothetical protein [Pontibacter diazotrophicus]	28.6	21
+15	TPCEAVQTQGFCYFP	TPCNGVEGFNCYFP	hypothetical protein [Pontibacter sp. TRT317]	28.6	21
+16	EGFNCYF	EGFNCYF	bifunctional nicotinamidase/pyrazinamidase [Ulvibacter litoralis]	28.6	21
+17	PCNGVNGFN	PCNGVEGFN	hypothetical protein CRE_24724 [Caenorhabditis remanei]	28.6	21
+18	NGIEEFDCYF	NGVEGFNCYF	hypothetical protein [Petrimonas mucosa]	28.6	21
+19	GFNCYFP	GFNCYFP	hypothetical protein [Spirosoma sp. CJU-R4]	28.6	21
+20	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Paenibacillus sp. DMB5]	28.6	21
+21	CNGIEDYCYFP	CNGVEGFNCYFP	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD [Buchnera aphidicola]	28.6	21
+22	CNGIEDYCYFP	CNGVEGFNCYFP	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD [Buchnera aphidicola]	28.6	21
+23	PSTGVNGFDCYF	PCNGVEGFNCYF	SGNH/GDSL hydrolase family protein [Paenibacillus agaridevorans]	28.6	21
+24	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Pseudothermotoga hypogea]	28.6	21
+25	GFNCYFP	GFNCYFP	hypothetical protein [Spirosoma fluviale]	28.6	21
+26	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Halococcus sp. IIIV-5B]	28.6	21
+27	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Halococcus morrhuae]	28.6	21
+28	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Paenibacillus piri]	28.6	21
+29	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Haloferax gibbonsii]	28.6	21
+30	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Mesobacillus foraminis]	28.6	21
+31	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Paenibacillus sp. URB8-2]	28.6	21
+32	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Clostridia bacterium]	28.6	21
+33	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Clostridia bacterium]	28.6	21
+34	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Clostridia bacterium]	28.6	21
+35	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Eisenbergiella massiliensis]	28.6	21
+36	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Lachnospiraceae bacterium]	28.6	21
+37	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Paenibacillus sonchi]	28.6	21
+38	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Paenibacillus helianthi]	28.6	21
+39	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Paenibacillus ihuae]	28.6	21
+40	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Eubacteriaceae bacterium CHKCI004]	28.6	21
+41	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Eubacterium sp. An3]	28.6	21
+42	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Clostridiaceae bacterium]	28.6	21
+43	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Clostridiaceae bacterium]	28.6	21
+44	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Anaerocolumna xylanovorans]	28.6	21
+45	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Eubacterium sp. An11]	28.6	21
+46	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Lachnospiraceae bacterium]	28.6	21
+47	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Blautia sp. M29]	28.6	21
+48	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Lachnospiraceae bacterium]	28.6	21
+49	GFNCYFP	GFNCYFP	DUF2961 domain-containing protein [Blautia wexlerae]	28.6	21
+0	NGEWVEGFYANCYFP	NGVEGFNCYFP	hypothetical protein [Lachnospiraceae bacterium]	31.6	22
+1	GVEGFNCFYP	GVEGFNCYFP	MULTISPECIES: response regulator [Bacteroides]	31.2	22
+2	GVEGFNCFYP	GVEGFNCYFP	MULTISPECIES: response regulator [Bacteroides]	31.2	22
+3	GVEGFNCFYP	GVEGFNCYFP	response regulator [Bacteroides finegoldii]	31.2	22
+4	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	22
+5	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	22
+6	TVCNNVDGCYFPL	TPCNGVEGFNCYFPL	PREDICTED: uncharacterized protein LOC106806660 [Priapulus caudatus]	30.3	22
+7	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	22
+8	CNGMEGFTCY	CNGVEGFNCY	TrmB family transcriptional regulator [Ruminiclostridium papyrosolvens]	30.3	22
+9	GVEGFNCY	GVEGFNCY	hypothetical protein HELRODRAFT_74022, partial [Helobdella robusta]	30.3	22
+10	CNQVESYNCYF	CNGVEGFNCYF	PREDICTED: APC membrane recruitment protein 3-like [Xenopus laevis]	29.9	22
+11	CNGVECGFKCY	CNGVEGFNCY	4Fe-4S binding protein [Methanococcus maripaludis]	29.9	22
+12	GVENCYFPL	GVEGFNCYFPL	predicted protein [Micromonas pusilla CCMP1545]	29.5	22
+13	GVENCYFPL	GVEGFNCYFPL	prolyl-tRNA synthetase [Saitoella complicata NRRL Y-17804]	29.5	22
+14	GVENCYFPL	GVEGFNCYFPL	Putative proline--tRNA ligase C19C7.06 [Wallemia ichthyophaga EXF-994]	29.5	22
+15	GVENCYFPL	GVEGFNCYFPL	proline-tRNA ligase [Wallemia mellicola CBS 633.66]	29.5	22
+16	GVENCYFPL	GVEGFNCYFPL	prolyl-tRNA synthetase [Babesia microti strain RI]	29.5	22
+17	GVENCYFPL	GVEGFNCYFPL	bifunctional aminoacyl-tRNA synthetase [Micromonas commoda]	29.5	22
+18	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium malaysiense]	29.5	22
+19	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	22
+20	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus sp. GY_G]	29.5	22
+21	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium acidiphilum]	29.5	22
+22	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. NDB2Meth1]	29.5	22
+23	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sediminis]	29.5	22
+24	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium fuchskuhlense]	29.5	22
+25	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. AAP93]	29.5	22
+26	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. MD-1]	29.5	22
+27	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. LASN5T]	29.5	22
+28	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ERN07]	29.5	22
+29	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. B1]	29.5	22
+30	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. THN1]	29.5	22
+31	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ABRDHK2]	29.5	22
+32	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. SG906]	29.5	22
+33	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ERW19]	29.5	22
+34	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. AAP83]	29.5	22
+35	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. TW-4]	29.5	22
+36	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. SYSU G00007]	29.5	22
+37	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [Novosphingobium]	29.5	22
+38	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	22
+39	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [Novosphingobium]	29.5	22
+40	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	22
+41	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	22
+42	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium hassiacum]	29.5	22
+43	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium taihuense]	29.5	22
+44	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Altererythrobacter rigui]	29.5	22
+45	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingobium sp. B12D2A]	29.5	22
+46	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Sphingobium]	29.5	22
+47	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus rigui]	29.5	22
+48	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus wooponensis]	29.5	22
+49	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingomonas sp. CSW-10]	29.5	22
+0	NGEWVEGFYANCYFP	NGVEGFNCYFP	hypothetical protein [Lachnospiraceae bacterium]	31.6	23
+1	GVEGFNCFYP	GVEGFNCYFP	MULTISPECIES: response regulator [Bacteroides]	31.2	23
+2	GVEGFNCFYP	GVEGFNCYFP	MULTISPECIES: response regulator [Bacteroides]	31.2	23
+3	GVEGFNCFYP	GVEGFNCYFP	response regulator [Bacteroides finegoldii]	31.2	23
+4	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	23
+5	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	23
+6	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	23
+7	CNGMEGFTCY	CNGVEGFNCY	TrmB family transcriptional regulator [Ruminiclostridium papyrosolvens]	30.3	23
+8	GVEGFNCY	GVEGFNCY	hypothetical protein HELRODRAFT_74022, partial [Helobdella robusta]	30.3	23
+9	CNQVESYNCYF	CNGVEGFNCYF	PREDICTED: APC membrane recruitment protein 3-like [Xenopus laevis]	29.9	23
+10	CNNVDGCYFPL	CNGVEGFNCYFPL	PREDICTED: uncharacterized protein LOC106806660 [Priapulus caudatus]	29.9	23
+11	CNGVECGFKCY	CNGVEGFNCY	4Fe-4S binding protein [Methanococcus maripaludis]	29.9	23
+12	VEVFDCLTYFPLQ	VEGFNCYFPLQ	hypothetical protein [Methylocucumis oryzae]	29.5	23
+13	GVENCYFPL	GVEGFNCYFPL	predicted protein [Micromonas pusilla CCMP1545]	29.5	23
+14	GVENCYFPL	GVEGFNCYFPL	prolyl-tRNA synthetase [Saitoella complicata NRRL Y-17804]	29.5	23
+15	GVENCYFPL	GVEGFNCYFPL	Putative proline--tRNA ligase C19C7.06 [Wallemia ichthyophaga EXF-994]	29.5	23
+16	GVENCYFPL	GVEGFNCYFPL	proline-tRNA ligase [Wallemia mellicola CBS 633.66]	29.5	23
+17	GVENCYFPL	GVEGFNCYFPL	prolyl-tRNA synthetase [Babesia microti strain RI]	29.5	23
+18	GVENCYFPL	GVEGFNCYFPL	bifunctional aminoacyl-tRNA synthetase [Micromonas commoda]	29.5	23
+19	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium malaysiense]	29.5	23
+20	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	23
+21	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus sp. GY_G]	29.5	23
+22	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium acidiphilum]	29.5	23
+23	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. NDB2Meth1]	29.5	23
+24	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sediminis]	29.5	23
+25	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium fuchskuhlense]	29.5	23
+26	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. AAP93]	29.5	23
+27	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. MD-1]	29.5	23
+28	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. LASN5T]	29.5	23
+29	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ERN07]	29.5	23
+30	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. B1]	29.5	23
+31	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. THN1]	29.5	23
+32	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ABRDHK2]	29.5	23
+33	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. SG906]	29.5	23
+34	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ERW19]	29.5	23
+35	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. AAP83]	29.5	23
+36	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. TW-4]	29.5	23
+37	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. SYSU G00007]	29.5	23
+38	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	23
+39	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [Novosphingobium]	29.5	23
+40	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	23
+41	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	23
+42	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium hassiacum]	29.5	23
+43	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium taihuense]	29.5	23
+44	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Altererythrobacter rigui]	29.5	23
+45	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingobium sp. B12D2A]	29.5	23
+46	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Sphingobium]	29.5	23
+47	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus rigui]	29.5	23
+48	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus wooponensis]	29.5	23
+49	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingomonas sp. CSW-10]	29.5	23
+0	VDGFNCYSPLHS	VEGFNCYFPLQS	phage portal protein [Brochothrix thermosphacta]	32.0	24
+1	VDGFNCYSPLHS	VEGFNCYFPLQS	phage portal protein, partial [Brochothrix thermosphacta]	32.0	24
+2	NGEWVEGFYANCYFP	NGVEGFNCYFP	hypothetical protein [Lachnospiraceae bacterium]	31.6	24
+3	GVEGFNCFYP	GVEGFNCYFP	MULTISPECIES: response regulator [Bacteroides]	31.2	24
+4	GVEGFNCFYP	GVEGFNCYFP	MULTISPECIES: response regulator [Bacteroides]	31.2	24
+5	GVEGFNCFYP	GVEGFNCYFP	response regulator [Bacteroides finegoldii]	31.2	24
+6	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	24
+7	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	24
+8	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	24
+9	CNGMEGFTCY	CNGVEGFNCY	TrmB family transcriptional regulator [Ruminiclostridium papyrosolvens]	30.3	24
+10	GVEGFNCY	GVEGFNCY	hypothetical protein HELRODRAFT_74022, partial [Helobdella robusta]	30.3	24
+11	CNGVEGIYFPSLHS	CNGVEGFNCYFPLQS	histone-lysine N-methyltransferase ATX5 [Prunus persica]	29.9	24
+12	CNGVEGIYFPSLHS	CNGVEGFNCYFPLQS	histone-lysine N-methyltransferase ATX5 [Prunus dulcis]	29.9	24
+13	CNGVEGIYFPSLHS	CNGVEGFNCYFPLQS	PREDICTED: histone-lysine N-methyltransferase ATX5 [Prunus mume]	29.9	24
+14	CNGVEGIYFPSLHS	CNGVEGFNCYFPLQS	histone-lysine N-methyltransferase ATX5 [Prunus avium]	29.9	24
+15	CNGVEGIYFPSLHS	CNGVEGFNCYFPLQS	PREDICTED: histone-lysine N-methyltransferase ATX5 [Fragaria vesca subsp. vesca]	29.9	24
+16	CNGVEGIYFPSLHS	CNGVEGFNCYFPLQS	histone-lysine N-methyltransferase ATX5 [Cajanus cajan]	29.9	24
+17	CNQVESYNCYF	CNGVEGFNCYF	PREDICTED: APC membrane recruitment protein 3-like [Xenopus laevis]	29.9	24
+18	CNNVDGCYFPL	CNGVEGFNCYFPL	PREDICTED: uncharacterized protein LOC106806660 [Priapulus caudatus]	29.9	24
+19	IDGFNCYSPLHS	VEGFNCYFPLQS	phage portal protein [Brochothrix thermosphacta]	29.9	24
+20	CNGVECGFKCY	CNGVEGFNCY	4Fe-4S binding protein [Methanococcus maripaludis]	29.9	24
+21	VEVFDCLTYFPLQ	VEGFNCYFPLQ	hypothetical protein [Methylocucumis oryzae]	29.5	24
+22	GVENCYFPL	GVEGFNCYFPL	predicted protein [Micromonas pusilla CCMP1545]	29.5	24
+23	GVENCYFPL	GVEGFNCYFPL	prolyl-tRNA synthetase [Saitoella complicata NRRL Y-17804]	29.5	24
+24	GVENCYFPL	GVEGFNCYFPL	Putative proline--tRNA ligase C19C7.06 [Wallemia ichthyophaga EXF-994]	29.5	24
+25	GVENCYFPL	GVEGFNCYFPL	proline-tRNA ligase [Wallemia mellicola CBS 633.66]	29.5	24
+26	GVENCYFPL	GVEGFNCYFPL	prolyl-tRNA synthetase [Babesia microti strain RI]	29.5	24
+27	GVENCYFPL	GVEGFNCYFPL	bifunctional aminoacyl-tRNA synthetase [Micromonas commoda]	29.5	24
+28	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium malaysiense]	29.5	24
+29	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	24
+30	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. NDB2Meth1]	29.5	24
+31	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sediminis]	29.5	24
+32	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium fuchskuhlense]	29.5	24
+33	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. MD-1]	29.5	24
+34	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. LASN5T]	29.5	24
+35	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ERN07]	29.5	24
+36	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. THN1]	29.5	24
+37	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ABRDHK2]	29.5	24
+38	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. SG906]	29.5	24
+39	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ERW19]	29.5	24
+40	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	24
+41	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	24
+42	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium hassiacum]	29.5	24
+43	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium taihuense]	29.5	24
+44	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Altererythrobacter rigui]	29.5	24
+45	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Sphingobium]	29.5	24
+46	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus rigui]	29.5	24
+47	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus wooponensis]	29.5	24
+0	VDGFNCYSPLHS	VEGFNCYFPLQS	phage portal protein [Brochothrix thermosphacta]	32.0	25
+1	VDGFNCYSPLHS	VEGFNCYFPLQS	phage portal protein, partial [Brochothrix thermosphacta]	32.0	25
+2	NGIESIGFDSYFPLSY	NGVEGFNCYFPLQSY	LCCL domain-containing protein [Eremomyces bilateralis CBS 781.70]	31.6	25
+3	NGEWVEGFYANCYFP	NGVEGFNCYFP	hypothetical protein [Lachnospiraceae bacterium]	31.6	25
+4	GVEGFNCFYP	GVEGFNCYFP	MULTISPECIES: response regulator [Bacteroides]	31.2	25
+5	GVEGFNCFYP	GVEGFNCYFP	MULTISPECIES: response regulator [Bacteroides]	31.2	25
+6	GVEGFNCFYP	GVEGFNCYFP	response regulator [Bacteroides finegoldii]	31.2	25
+7	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	25
+8	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	25
+9	EGFNCYFSY	EGFNCYFPLQSY	NADH-quinone oxidoreductase subunit L [Campylobacter peloridis]	30.3	25
+10	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	25
+11	NGVEDFQIYYPLSSY	NGVEGFNCYFPLQSY	hypothetical protein [Calothrix sp. NIES-2098]	30.3	25
+12	GVEGFNCY	GVEGFNCY	hypothetical protein HELRODRAFT_74022, partial [Helobdella robusta]	30.3	25
+13	IDGFNCYSPLHS	VEGFNCYFPLQS	phage portal protein [Brochothrix thermosphacta]	29.9	25
+14	VEVFDCLTYFPLQ	VEGFNCYFPLQ	hypothetical protein [Methylocucumis oryzae]	29.5	25
+15	GVENCYFPL	GVEGFNCYFPL	predicted protein [Micromonas pusilla CCMP1545]	29.5	25
+16	GVENCYFPL	GVEGFNCYFPL	prolyl-tRNA synthetase [Saitoella complicata NRRL Y-17804]	29.5	25
+17	GVENCYFPL	GVEGFNCYFPL	Putative proline--tRNA ligase C19C7.06 [Wallemia ichthyophaga EXF-994]	29.5	25
+18	GVENCYFPL	GVEGFNCYFPL	proline-tRNA ligase [Wallemia mellicola CBS 633.66]	29.5	25
+19	GVENCYFPL	GVEGFNCYFPL	prolyl-tRNA synthetase [Babesia microti strain RI]	29.5	25
+20	GVENCYFPL	GVEGFNCYFPL	bifunctional aminoacyl-tRNA synthetase [Micromonas commoda]	29.5	25
+21	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium malaysiense]	29.5	25
+22	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	25
+23	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus sp. GY_G]	29.5	25
+24	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium acidiphilum]	29.5	25
+25	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. NDB2Meth1]	29.5	25
+26	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sediminis]	29.5	25
+27	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium fuchskuhlense]	29.5	25
+28	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. AAP93]	29.5	25
+29	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. MD-1]	29.5	25
+30	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. LASN5T]	29.5	25
+31	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ERN07]	29.5	25
+32	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. B1]	29.5	25
+33	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. THN1]	29.5	25
+34	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ABRDHK2]	29.5	25
+35	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. SG906]	29.5	25
+36	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ERW19]	29.5	25
+37	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. AAP83]	29.5	25
+38	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. SYSU G00007]	29.5	25
+39	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	25
+40	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	25
+41	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	25
+42	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium hassiacum]	29.5	25
+43	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium taihuense]	29.5	25
+44	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Altererythrobacter rigui]	29.5	25
+45	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Sphingobium]	29.5	25
+46	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus rigui]	29.5	25
+47	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus wooponensis]	29.5	25
+48	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingomonas sp. CSW-10]	29.5	25
+0	VDGFNCYSPLHS	VEGFNCYFPLQS	phage portal protein, partial [Brochothrix thermosphacta]	32.0	0
+1	GVEGFNCFYP	GVEGFNCYFP	response regulator [Bacteroides finegoldii]	31.2	0
+2	YFPLQSYG	YFPLQSYG	MULTISPECIES: choice-of-anchor I family protein [unclassified Rhodopirellula]	30.3	0
+3	YFPLQSYG	YFPLQSYG	signal peptide containing protein [Cryptosporidium parvum Iowa II]	30.3	0
+4	YFPLQSYG	YFPLQSYG	hypothetical protein [Cryptosporidium hominis TU502]	30.3	0
+5	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	0
+6	EGFNCYFSY	EGFNCYFPLQSY	NADH-quinone oxidoreductase subunit L [Campylobacter peloridis]	30.3	0
+7	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	0
+8	GVEGFNCY	GVEGFNCY	hypothetical protein HELRODRAFT_74022, partial [Helobdella robusta]	30.3	0
+9	IDGFNCYSPLHS	VEGFNCYFPLQS	phage portal protein [Brochothrix thermosphacta]	29.9	0
+10	GVENCYFPL	GVEGFNCYFPL	predicted protein [Micromonas pusilla CCMP1545]	29.5	0
+11	GVENCYFPL	GVEGFNCYFPL	prolyl-tRNA synthetase [Saitoella complicata NRRL Y-17804]	29.5	0
+12	GVENCYFPL	GVEGFNCYFPL	Putative proline--tRNA ligase C19C7.06 [Wallemia ichthyophaga EXF-994]	29.5	0
+13	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X1 [Geotrypetes seraphini]	29.5	0
+14	GVENCYFPL	GVEGFNCYFPL	bifunctional aminoacyl-tRNA synthetase [Micromonas commoda]	29.5	0
+15	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X2 [Geotrypetes seraphini]	29.5	0
+16	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium malaysiense]	29.5	0
+17	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	0
+18	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium acidiphilum]	29.5	0
+19	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. NDB2Meth1]	29.5	0
+20	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sediminis]	29.5	0
+21	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. MD-1]	29.5	0
+22	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ERN07]	29.5	0
+23	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. B1]	29.5	0
+24	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ABRDHK2]	29.5	0
+25	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium sp. ERW19]	29.5	0
+26	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Novosphingobium]	29.5	0
+27	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Novosphingobium taihuense]	29.5	0
+28	GVENCYFPL	GVEGFNCYFPL	MULTISPECIES: proline--tRNA ligase [unclassified Sphingobium]	29.5	0
+29	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus rigui]	29.5	0
+30	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingorhabdus wooponensis]	29.5	0
+31	GVENCYFPL	GVEGFNCYFPL	proline--tRNA ligase [Sphingomonas sp. CSW-10]	29.5	0
+0	YFPLQSYGF	YFPLQSYGF	signal peptide containing protein [Cryptosporidium parvum Iowa II]	34.1	1
+1	YFPLQSYGF	YFPLQSYGF	hypothetical protein [Cryptosporidium hominis TU502]	34.1	1
+2	VDGFNCYSPLHS	VEGFNCYFPLQS	phage portal protein, partial [Brochothrix thermosphacta]	32.0	1
+3	YFPLESYGF	YFPLQSYGF	gamma-glutamyltransferase [Echinicola pacifica]	31.2	1
+4	IEDFNAEDRPPLQQVFCYLPLRSYGF	VEGFNCYFPLQSYGF	hypothetical protein PPTG_15087 [Phytophthora parasitica INRA-310]	30.8	1
+5	VEGFNLLQSYGF	VEGFNCYFPLQSYGF	ribosomal protein L5 [Heterosigma akashiwo]	30.8	1
+6	YFPLQSYG	YFPLQSYG	MULTISPECIES: choice-of-anchor I family protein [unclassified Rhodopirellula]	30.3	1
+7	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	1
+8	EGFNCYFSY	EGFNCYFPLQSY	NADH-quinone oxidoreductase subunit L [Campylobacter peloridis]	30.3	1
+9	VEVFNCYFP	VEGFNCYFP	site-specific DNA-methyltransferase [Helicobacter pylori]	30.3	1
+10	YFPFQSYGF	YFPLQSYGF	uncharacterized protein cubi_02813 [Cryptosporidium ubiquitum]	29.9	1
+11	IDGFNCYSPLHS	VEGFNCYFPLQS	phage portal protein [Brochothrix thermosphacta]	29.9	1
+12	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X1 [Geotrypetes seraphini]	29.5	1
+13	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X2 [Geotrypetes seraphini]	29.5	1
+14	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X5 [Geotrypetes seraphini]	29.5	1
+15	NYYYPLQSFGF	NCYFPLQSYGF	hypothetical protein [Cuniculiplasma divulgatum]	29.5	1
+16	FYCYFELHNYGF	FNCYFPLQSYGF	hypothetical protein [Rummeliibacillus pycnus]	29.5	1
+17	VEAFNSPACYFPL	VEGFNCYFPL	DUF3445 domain-containing protein [Nostoc sp. NIES-4103]	29.5	1
+18	YFPLQFYGF	YFPLQSYGF	nicotinamide mononucleotide transporter [Bacilliculturomica massiliensis]	29.1	1
+19	GFSCYFPLEYWQS	GFNCYFPLQS	class I SAM-dependent methyltransferase [Sphaerospermopsis kisseleviana]	29.1	1
+20	GFSCYFPLEYWQS	GFNCYFPLQS	class I SAM-dependent methyltransferase [Cuspidothrix issatschenkoi]	29.1	1
+21	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Paenibacillus sp. DMB5]	29.1	1
+22	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Halococcus sp. IIIV-5B]	29.1	1
+23	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Paenibacillus piri]	29.1	1
+24	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Haloferax gibbonsii]	29.1	1
+25	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Mesobacillus foraminis]	29.1	1
+26	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Paenibacillus sp. URB8-2]	29.1	1
+27	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Clostridia bacterium]	29.1	1
+0	YFPLQSYGFQ	YFPLQSYGFQ	signal peptide containing protein [Cryptosporidium parvum Iowa II]	37.5	2
+1	YFPLQSYGFQ	YFPLQSYGFQ	hypothetical protein [Cryptosporidium hominis TU502]	37.5	2
+2	YFPFQSYGFQ	YFPLQSYGFQ	uncharacterized protein cubi_02813 [Cryptosporidium ubiquitum]	33.3	2
+3	YFPLESYGFH	YFPLQSYGFQ	gamma-glutamyltransferase [Echinicola pacifica]	31.6	2
+4	YFPLQSYG	YFPLQSYG	MULTISPECIES: choice-of-anchor I family protein [unclassified Rhodopirellula]	30.3	2
+5	EGFNCYFSY	EGFNCYFPLQSY	NADH-quinone oxidoreductase subunit L [Campylobacter peloridis]	30.3	2
+6	EDFNAEDRPPLQQVFCYLPLRSYGF	EGFNCYFPLQSYGF	hypothetical protein PPTG_15087 [Phytophthora parasitica INRA-310]	29.9	2
+7	GFNCYFPMPFQ	GFNCYFPLQSYGFQ	DUF2961 domain-containing protein [Clostridia bacterium]	29.9	2
+8	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X1 [Geotrypetes seraphini]	29.5	2
+9	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X2 [Geotrypetes seraphini]	29.5	2
+10	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X5 [Geotrypetes seraphini]	29.5	2
+11	NYYYPLQSFGF	NCYFPLQSYGF	hypothetical protein [Cuniculiplasma divulgatum]	29.5	2
+12	FYCYFELHNYGF	FNCYFPLQSYGF	hypothetical protein [Rummeliibacillus pycnus]	29.5	2
+13	YFPLHSYGLQ	YFPLQSYGFQ	uncharacterized protein LOC108906431 [Anoplophora glabripennis]	29.5	2
+14	YFPLQFYGF	YFPLQSYGF	nicotinamide mononucleotide transporter [Bacilliculturomica massiliensis]	29.1	2
+15	GFSCYFPLEYWQS	GFNCYFPLQS	class I SAM-dependent methyltransferase [Sphaerospermopsis kisseleviana]	29.1	2
+16	GFSCYFPLEYWQS	GFNCYFPLQS	class I SAM-dependent methyltransferase [Cuspidothrix issatschenkoi]	29.1	2
+17	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Paenibacillus sp. DMB5]	29.1	2
+18	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Halococcus sp. IIIV-5B]	29.1	2
+19	DGFNCYSPLHS	EGFNCYFPLQS	phage portal protein, partial [Brochothrix thermosphacta]	29.1	2
+20	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Paenibacillus piri]	29.1	2
+21	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Haloferax gibbonsii]	29.1	2
+22	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Mesobacillus foraminis]	29.1	2
+23	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Paenibacillus sp. URB8-2]	29.1	2
+24	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Anaerocolumna xylanovorans]	29.1	2
+25	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Ruminococcus sp. AF42-9BH]	29.1	2
+26	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Ruminococcus sp. AF20-12LB]	29.1	2
+27	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Ruminococcus sp. AM28-41]	29.1	2
+28	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Ruminococcus sp. AM41-10BH]	29.1	2
+29	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Bacillus sp. Y1]	29.1	2
+0	YFPLQSYGFQ	YFPLQSYGFQ	signal peptide containing protein [Cryptosporidium parvum Iowa II]	37.5	3
+1	YFPLQSYGFQ	YFPLQSYGFQ	hypothetical protein [Cryptosporidium hominis TU502]	37.5	3
+2	YFPFQSYGFQ	YFPLQSYGFQ	uncharacterized protein cubi_02813 [Cryptosporidium ubiquitum]	33.3	3
+3	YFPLESYGFH	YFPLQSYGFQ	gamma-glutamyltransferase [Echinicola pacifica]	31.6	3
+4	FKCYLGFGVQGYGFQP	FNCYFPLQSYGFQP	hypothetical protein [Bacteroides fragilis]	30.8	3
+5	YFPLQSYG	YFPLQSYG	MULTISPECIES: choice-of-anchor I family protein [unclassified Rhodopirellula]	30.3	3
+6	GFNCYFPMPFQ	GFNCYFPLQSYGFQ	DUF2961 domain-containing protein [Clostridia bacterium]	29.9	3
+7	LQSYGFQP	LQSYGFQP	hypothetical protein Kpol_1016p5 [Vanderwaltozyma polyspora DSM 70294]	29.5	3
+8	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X1 [Geotrypetes seraphini]	29.5	3
+9	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X2 [Geotrypetes seraphini]	29.5	3
+10	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X5 [Geotrypetes seraphini]	29.5	3
+11	NYYYPLQSFGF	NCYFPLQSYGF	hypothetical protein [Cuniculiplasma divulgatum]	29.5	3
+12	FYCYFELHNYGF	FNCYFPLQSYGF	hypothetical protein [Rummeliibacillus pycnus]	29.5	3
+13	YFPLHSYGLQ	YFPLQSYGFQ	uncharacterized protein LOC108906431 [Anoplophora glabripennis]	29.5	3
+14	YFPLQFYGF	YFPLQSYGF	nicotinamide mononucleotide transporter [Bacilliculturomica massiliensis]	29.1	3
+15	NCYFPLKVYGDYTFPP	NCYFPLQSYGFQP	stage II sporulation protein R [Herbinix luporum]	29.1	3
+16	GFSCYFPLEYWQS	GFNCYFPLQS	class I SAM-dependent methyltransferase [Sphaerospermopsis kisseleviana]	29.1	3
+17	GFSCYFPLEYWQS	GFNCYFPLQS	class I SAM-dependent methyltransferase [Cuspidothrix issatschenkoi]	29.1	3
+18	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Paenibacillus sp. DMB5]	29.1	3
+19	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Halococcus sp. IIIV-5B]	29.1	3
+20	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Paenibacillus piri]	29.1	3
+21	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Haloferax gibbonsii]	29.1	3
+22	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Mesobacillus foraminis]	29.1	3
+23	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Paenibacillus sp. URB8-2]	29.1	3
+24	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Ruminococcus sp. AF42-9BH]	29.1	3
+25	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Ruminococcus sp. AF20-12LB]	29.1	3
+26	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Ruminococcus sp. AM28-41]	29.1	3
+27	GFNCYFPM	GFNCYFPL	DUF2961 domain-containing protein [Ruminococcus sp. AM41-10BH]	29.1	3
+0	YFPLQSYGFQ	YFPLQSYGFQ	signal peptide containing protein [Cryptosporidium parvum Iowa II]	37.5	4
+1	YFPLQSYGFQ	YFPLQSYGFQ	hypothetical protein [Cryptosporidium hominis TU502]	37.5	4
+2	YFPFQSYGFQ	YFPLQSYGFQ	uncharacterized protein cubi_02813 [Cryptosporidium ubiquitum]	33.3	4
+3	LQSYGFQPT	LQSYGFQPT	hypothetical protein Kpol_1016p5 [Vanderwaltozyma polyspora DSM 70294]	32.5	4
+4	YFPLESYGFH	YFPLQSYGFQ	gamma-glutamyltransferase [Echinicola pacifica]	31.6	4
+5	FKCYLGFGVQGYGFQP	FNCYFPLQSYGFQP	hypothetical protein [Bacteroides fragilis]	30.8	4
+6	YFPLQSYG	YFPLQSYG	MULTISPECIES: choice-of-anchor I family protein [unclassified Rhodopirellula]	30.3	4
+7	YFPLESYEEELGVEGFDPT	YFPLQSYGFQPT	copper amine oxidase N-terminal domain-containing protein [Paenibacillus sp. FSL H7-0357]	29.9	4
+8	YFPLESYEEEFGVEGFDPT	YFPLQSYGFQPT	copper amine oxidase N-terminal domain-containing protein [Paenibacillus borealis]	29.9	4
+9	YFPLQSSLGFEPT	YFPLQSYGFQPT	aminopeptidase [Aureibaculum marinum]	29.5	4
+10	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X1 [Geotrypetes seraphini]	29.5	4
+11	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X2 [Geotrypetes seraphini]	29.5	4
+12	FSCYFLLQTYG	FNCYFPLQSYG	transmembrane protein 62 isoform X5 [Geotrypetes seraphini]	29.5	4
+13	NYYYPLQSFGF	NCYFPLQSYGF	hypothetical protein [Cuniculiplasma divulgatum]	29.5	4
+14	FYCYFELHNYGF	FNCYFPLQSYGF	hypothetical protein [Rummeliibacillus pycnus]	29.5	4
+15	QSYGFQPT	QSYGFQPT	GNAT family N-acetyltransferase [Vibrio metschnikovii]	29.5	4
+16	QSYGFQPT	QSYGFQPT	MULTISPECIES: GNAT family N-acetyltransferase [Vibrio]	29.5	4
+17	YFPLHSYGLQ	YFPLQSYGFQ	uncharacterized protein LOC108906431 [Anoplophora glabripennis]	29.5	4
+18	YFPLQFYGF	YFPLQSYGF	nicotinamide mononucleotide transporter [Bacilliculturomica massiliensis]	29.1	4
+19	NCYFPLKVYGDYTFPP	NCYFPLQSYGFQP	stage II sporulation protein R [Herbinix luporum]	29.1	4
+20	LQSYSFQPT	LQSYGFQPT	DNA recombination protein RmuC [Arsenicitalea aurantiaca]	29.1	4
+21	YFSLQSYGIFGPT	YFPLQSYGFQPT	oligopeptide transporter 5 [Medicago truncatula]	29.1	4
+22	CYFPYGAHLQSYDF	CYFPLQSYGF	NAN1 U3 snoRNP protein [Ogataea parapolymorpha DL-1]	29.1	4
+23	NYYFPLQYGF	NCYFPLQSYGF	4-hydroxyphenylacetate decarboxylase large subunit [Clostridium gasigenes]	29.1	4
+24	YFLPLHSYVFQP	YFPLQSYGFQP	Pho87 phosphate permease [Candida orthopsilosis Co 90-125]	29.1	4
+25	YLPLQSYGF	YFPLQSYGF	hypothetical protein SDRG_11186 [Saprolegnia diclina VS20]	29.1	4
+26	CYLPLRSYGF	CYFPLQSYGF	hypothetical protein PPTG_15087 [Phytophthora parasitica INRA-310]	29.1	4
+27	CYLPLRSYGF	CYFPLQSYGF	phosphoserine aminotransferase [Plasmopara halstedii]	29.1	4
+28	CYLPLRSYGF	CYFPLQSYGF	phosphoserine aminotransferase, putative [Phytophthora infestans T30-4]	29.1	4
+0	YFPLQSYGFQ	YFPLQSYGFQ	signal peptide containing protein [Cryptosporidium parvum Iowa II]	37.5	5
+1	YFPLQSYGFQ	YFPLQSYGFQ	hypothetical protein [Cryptosporidium hominis TU502]	37.5	5
+2	YFPFQSYGFQ	YFPLQSYGFQ	uncharacterized protein cubi_02813 [Cryptosporidium ubiquitum]	33.3	5
+3	LQSYGFQPT	LQSYGFQPT	hypothetical protein Kpol_1016p5 [Vanderwaltozyma polyspora DSM 70294]	32.5	5
+4	YFPLESYGFH	YFPLQSYGFQ	gamma-glutamyltransferase [Echinicola pacifica]	31.6	5
+5	YFPLQSYG	YFPLQSYG	MULTISPECIES: choice-of-anchor I family protein [unclassified Rhodopirellula]	30.3	5
+6	YFPLESYEEELGVEGFDPT	YFPLQSYGFQPT	copper amine oxidase N-terminal domain-containing protein [Paenibacillus sp. FSL H7-0357]	29.9	5
+7	YFPLESYEEEFGVEGFDPT	YFPLQSYGFQPT	copper amine oxidase N-terminal domain-containing protein [Paenibacillus borealis]	29.9	5
+8	YFNPQSYGYEPTN	YFPLQSYGFQPTN	hypothetical protein [Bacillus paranthracis]	29.9	5
+9	YFNPQSYGYEPTN	YFPLQSYGFQPTN	hypothetical protein [Bacillus paranthracis]	29.9	5
+10	YFPLQSSLGFEPT	YFPLQSYGFQPT	aminopeptidase [Aureibaculum marinum]	29.5	5
+11	NYYYPLQSFGF	NCYFPLQSYGF	hypothetical protein [Cuniculiplasma divulgatum]	29.5	5
+12	QSYGFQPT	QSYGFQPT	GNAT family N-acetyltransferase [Vibrio metschnikovii]	29.5	5
+13	QSYGFQPT	QSYGFQPT	MULTISPECIES: GNAT family N-acetyltransferase [Vibrio]	29.5	5
+14	YFPLHSYGLQ	YFPLQSYGFQ	uncharacterized protein LOC108906431 [Anoplophora glabripennis]	29.5	5
+15	YFPLQFYGF	YFPLQSYGF	nicotinamide mononucleotide transporter [Bacilliculturomica massiliensis]	29.1	5
+16	LQSYFQPTN	LQSYGFQPTN	hypothetical protein [Maritalea mobilis]	29.1	5
+17	NCYFPLKVYGDYTFPP	NCYFPLQSYGFQP	stage II sporulation protein R [Herbinix luporum]	29.1	5
+18	LQSYSFQPT	LQSYGFQPT	DNA recombination protein RmuC [Arsenicitalea aurantiaca]	29.1	5
+19	YFSLQSYGIFGPT	YFPLQSYGFQPT	oligopeptide transporter 5 [Medicago truncatula]	29.1	5
+20	CYFPYGAHLQSYDF	CYFPLQSYGF	NAN1 U3 snoRNP protein [Ogataea parapolymorpha DL-1]	29.1	5
+21	NYYFPLQYGF	NCYFPLQSYGF	4-hydroxyphenylacetate decarboxylase large subunit [Clostridium gasigenes]	29.1	5
+22	YFLPLHSYVFQP	YFPLQSYGFQP	Pho87 phosphate permease [Candida orthopsilosis Co 90-125]	29.1	5
+23	YLPLQSYGF	YFPLQSYGF	hypothetical protein SDRG_11186 [Saprolegnia diclina VS20]	29.1	5
+24	CYLPLRSYGF	CYFPLQSYGF	hypothetical protein PPTG_15087 [Phytophthora parasitica INRA-310]	29.1	5
+25	CYLPLRSYGF	CYFPLQSYGF	phosphoserine aminotransferase [Plasmopara halstedii]	29.1	5
+26	CYLPLRSYGF	CYFPLQSYGF	phosphoserine aminotransferase, putative [Phytophthora infestans T30-4]	29.1	5
+27	CYFPLESY	CYFPLQSY	uncharacterized protein AK88_00961 [Plasmodium fragile]	29.1	5
+28	CYFPLESY	CYFPLQSY	hypothetical protein C922_03024 [Plasmodium inui San Antonio 1]	29.1	5
+0	YFPLQSYGFQ	YFPLQSYGFQ	signal peptide containing protein [Cryptosporidium parvum Iowa II]	37.5	6
+1	YFPLQSYGFQ	YFPLQSYGFQ	hypothetical protein [Cryptosporidium hominis TU502]	37.5	6
+2	YFPFQSYGFQ	YFPLQSYGFQ	uncharacterized protein cubi_02813 [Cryptosporidium ubiquitum]	33.3	6
+3	LQSYGFQPT	LQSYGFQPT	hypothetical protein Kpol_1016p5 [Vanderwaltozyma polyspora DSM 70294]	32.5	6
+4	YFPLESYGFH	YFPLQSYGFQ	gamma-glutamyltransferase [Echinicola pacifica]	31.6	6
+5	YFPLQSYG	YFPLQSYG	MULTISPECIES: choice-of-anchor I family protein [unclassified Rhodopirellula]	30.3	6
+6	LQSYSFQPTLSNG	LQSYGFQPTNG	DNA recombination protein RmuC [Arsenicitalea aurantiaca]	30.3	6
+7	YFVLESYFQPNNG	YFPLQSYGFQPTNG	porin [Caballeronia cordobensis]	30.3	6
+8	YFVLESYFQPNNG	YFPLQSYGFQPTNG	porin [Burkholderia sp. YI23]	30.3	6
+9	YFPLESYEEELGVEGFDPT	YFPLQSYGFQPT	copper amine oxidase N-terminal domain-containing protein [Paenibacillus sp. FSL H7-0357]	29.9	6
+10	YFPLESYEEEFGVEGFDPT	YFPLQSYGFQPT	copper amine oxidase N-terminal domain-containing protein [Paenibacillus borealis]	29.9	6
+11	YFNPQSYGYEPTN	YFPLQSYGFQPTN	hypothetical protein [Bacillus paranthracis]	29.9	6
+12	YFNPQSYGYEPTN	YFPLQSYGFQPTN	hypothetical protein [Bacillus paranthracis]	29.9	6
+13	YFPLQSSLGFEPT	YFPLQSYGFQPT	aminopeptidase [Aureibaculum marinum]	29.5	6
+14	YGFQPTNG	YGFQPTNG	PREDICTED: G-type lectin S-receptor-like serine/threonine-protein kinase CES101 [Gossypium hirsutum]	29.5	6
+15	YFQGQNYGYQPSNG	YFPLQSYGFQPTNG	ATP-dependent RNA helicase glh-2-like [Frankliniella occidentalis]	29.5	6
+16	QSYGFQPT	QSYGFQPT	GNAT family N-acetyltransferase [Vibrio metschnikovii]	29.5	6
+17	QSYGFQPT	QSYGFQPT	MULTISPECIES: GNAT family N-acetyltransferase [Vibrio]	29.5	6
+18	YFPLHSYGLQ	YFPLQSYGFQ	uncharacterized protein LOC108906431 [Anoplophora glabripennis]	29.5	6
+19	YFPLQFYGF	YFPLQSYGF	nicotinamide mononucleotide transporter [Bacilliculturomica massiliensis]	29.1	6
+20	LQSYFQPTN	LQSYGFQPTN	hypothetical protein [Maritalea mobilis]	29.1	6
+21	YFSLQSYGIFGPT	YFPLQSYGFQPT	oligopeptide transporter 5 [Medicago truncatula]	29.1	6
+22	CYFPYGAHLQSYDF	CYFPLQSYGF	NAN1 U3 snoRNP protein [Ogataea parapolymorpha DL-1]	29.1	6
+23	YFLPLHSYVFQP	YFPLQSYGFQP	Pho87 phosphate permease [Candida orthopsilosis Co 90-125]	29.1	6
+24	YLPLQSYGF	YFPLQSYGF	hypothetical protein SDRG_11186 [Saprolegnia diclina VS20]	29.1	6
+25	CYLPLRSYGF	CYFPLQSYGF	hypothetical protein PPTG_15087 [Phytophthora parasitica INRA-310]	29.1	6
+26	CYLPLRSYGF	CYFPLQSYGF	phosphoserine aminotransferase [Plasmopara halstedii]	29.1	6
+27	CYLPLRSYGF	CYFPLQSYGF	phosphoserine aminotransferase, putative [Phytophthora infestans T30-4]	29.1	6
+28	CYFPLESY	CYFPLQSY	uncharacterized protein AK88_00961 [Plasmodium fragile]	29.1	6
+29	CYFPLESY	CYFPLQSY	hypothetical protein C922_03024 [Plasmodium inui San Antonio 1]	29.1	6
+0	YFPLQSYGFQ	YFPLQSYGFQ	signal peptide containing protein [Cryptosporidium parvum Iowa II]	37.5	7
+1	YFPLQSYGFQ	YFPLQSYGFQ	hypothetical protein [Cryptosporidium hominis TU502]	37.5	7
+2	YFPFQSYGFQ	YFPLQSYGFQ	uncharacterized protein cubi_02813 [Cryptosporidium ubiquitum]	33.3	7
+3	LQSYGFQPT	LQSYGFQPT	hypothetical protein Kpol_1016p5 [Vanderwaltozyma polyspora DSM 70294]	32.5	7
+4	YFPLESYGFH	YFPLQSYGFQ	gamma-glutamyltransferase [Echinicola pacifica]	31.6	7
+5	QSYGFQPTSAV	QSYGFQPTNGV	GNAT family N-acetyltransferase [Vibrio metschnikovii]	31.6	7
+6	QSYGFQPTSAV	QSYGFQPTNGV	MULTISPECIES: GNAT family N-acetyltransferase [Vibrio]	31.6	7
+7	YFNPQSYGYEPTNEV	YFPLQSYGFQPTNGV	hypothetical protein [Bacillus paranthracis]	31.2	7
+8	YFNPQSYGYEPTNEV	YFPLQSYGFQPTNGV	hypothetical protein [Bacillus paranthracis]	31.2	7
+9	YFPLQSYG	YFPLQSYG	MULTISPECIES: choice-of-anchor I family protein [unclassified Rhodopirellula]	30.3	7
+10	LQSYSFQPTLSNG	LQSYGFQPTNG	DNA recombination protein RmuC [Arsenicitalea aurantiaca]	30.3	7
+11	YFVLESYFQPNNG	YFPLQSYGFQPTNG	porin [Caballeronia cordobensis]	30.3	7
+12	YFVLESYFQPNNG	YFPLQSYGFQPTNG	porin [Burkholderia sp. YI23]	30.3	7
+13	FFPNQSNAFQSTNGV	YFPLQSYGFQPTNGV	PREDICTED: uncharacterized protein LOC104607192 isoform X1 [Nelumbo nucifera]	29.9	7
+14	FFPNQSNAFQSTNGV	YFPLQSYGFQPTNGV	PREDICTED: uncharacterized protein LOC104607192 isoform X3 [Nelumbo nucifera]	29.9	7
+15	YFPLESYEEELGVEGFDPT	YFPLQSYGFQPT	copper amine oxidase N-terminal domain-containing protein [Paenibacillus sp. FSL H7-0357]	29.9	7
+16	YFPLESYEEEFGVEGFDPT	YFPLQSYGFQPT	copper amine oxidase N-terminal domain-containing protein [Paenibacillus borealis]	29.9	7
+17	YYPQNYGYEPTNEV	YFPLQSYGFQPTNGV	MULTISPECIES: hypothetical protein [Bacillus]	29.9	7
+18	YFPLQSSLGFEPT	YFPLQSYGFQPT	aminopeptidase [Aureibaculum marinum]	29.5	7
+19	YGFQPTNG	YGFQPTNG	PREDICTED: G-type lectin S-receptor-like serine/threonine-protein kinase CES101 [Gossypium hirsutum]	29.5	7
+20	YFQGQNYGYQPSNG	YFPLQSYGFQPTNG	ATP-dependent RNA helicase glh-2-like [Frankliniella occidentalis]	29.5	7
+21	YFPLHSYGLQ	YFPLQSYGFQ	uncharacterized protein LOC108906431 [Anoplophora glabripennis]	29.5	7
+22	YFPLQFYGF	YFPLQSYGF	nicotinamide mononucleotide transporter [Bacilliculturomica massiliensis]	29.1	7
+23	LQSYFQPTN	LQSYGFQPTN	hypothetical protein [Maritalea mobilis]	29.1	7
+24	LRSYGFQPLNGI	LQSYGFQPTNGV	Gldg family protein [Clostridia bacterium]	29.1	7
+25	YFSLQSYGIFGPT	YFPLQSYGFQPT	oligopeptide transporter 5 [Medicago truncatula]	29.1	7
+26	YFLPLHSYVFQP	YFPLQSYGFQP	Pho87 phosphate permease [Candida orthopsilosis Co 90-125]	29.1	7
+27	YLPLQSYGF	YFPLQSYGF	hypothetical protein SDRG_11186 [Saprolegnia diclina VS20]	29.1	7
+28	YFDSCGFQPTNG	YFPLQSYGFQPTNG	GNAT family N-acetyltransferase [Saccharothrix sp. ALI-22-I]	28.6	7
+29	YFPMPLQEGYGFQP	YFPLQSYGFQP	hypothetical protein [Raoultella terrigena]	28.6	7
+30	YFPLQNYPTKG	YFPLQSYGFQPTNG	hypothetical protein [Verrucomicrobium sp. BvORR034]	28.6	7
+0	FPLQSYGFQ	FPLQSYGFQ	signal peptide containing protein [Cryptosporidium parvum Iowa II]	33.3	8
+1	FPLQSYGFQ	FPLQSYGFQ	hypothetical protein [Cryptosporidium hominis TU502]	33.3	8
+2	LQSYGFQPT	LQSYGFQPT	hypothetical protein Kpol_1016p5 [Vanderwaltozyma polyspora DSM 70294]	32.5	8
+3	QSYGFQPTSAV	QSYGFQPTNGV	GNAT family N-acetyltransferase [Vibrio metschnikovii]	31.6	8
+4	QSYGFQPTSAV	QSYGFQPTNGV	MULTISPECIES: GNAT family N-acetyltransferase [Vibrio]	31.6	8
+5	LQSYSFQPTLSNG	LQSYGFQPTNG	DNA recombination protein RmuC [Arsenicitalea aurantiaca]	30.3	8
+6	YGFQPTNG	YGFQPTNG	PREDICTED: G-type lectin S-receptor-like serine/threonine-protein kinase CES101 [Gossypium hirsutum]	29.5	8
+7	QKYGFQPTFGVG	QSYGFQPTNGVG	uncharacterized protein TRIREDRAFT_122641 [Trichoderma reesei QM6a]	29.5	8
+8	QKYGFQPTFGVG	QSYGFQPTNGVG	nicotinate phosphoribosyltransferase [Trichoderma citrinoviride]	29.5	8
+9	QKYGFQPTFGVG	QSYGFQPTNGVG	hypothetical protein TRIVIDRAFT_33285 [Trichoderma virens Gv29-8]	29.5	8
+10	LQSYFQPTN	LQSYGFQPTN	hypothetical protein [Maritalea mobilis]	29.1	8
+11	LRSYGFQPLNGI	LQSYGFQPTNGV	Gldg family protein [Clostridia bacterium]	29.1	8
+12	FPFQSYGFQ	FPLQSYGFQ	uncharacterized protein cubi_02813 [Cryptosporidium ubiquitum]	29.1	8
+13	FPNQSNAFQSTNGV	FPLQSYGFQPTNGV	PREDICTED: uncharacterized protein LOC104607192 isoform X3 [Nelumbo nucifera]	29.1	8
+14	FPNQSNAFQSTNGV	FPLQSYGFQPTNGV	PREDICTED: uncharacterized protein LOC104607192 isoform X1 [Nelumbo nucifera]	29.1	8
+15	QSYGFQSTLTTPNGV	QSYGFQPTNGV	uncharacterized protein TRUGW13939_00869 [Talaromyces rugulosus]	28.6	8
+16	PVQSYAFQPT	PLQSYGFQPT	hypothetical protein M441DRAFT_126607 [Trichoderma asperellum CBS 433.97]	28.6	8
+17	QSYGYEPTNEV	QSYGFQPTNGV	hypothetical protein [Bacillus paranthracis]	28.2	8
+18	QSYGYEPTNEV	QSYGFQPTNGV	hypothetical protein [Bacillus paranthracis]	28.2	8
+19	LQGYGFQPKN	LQSYGFQPTN	hypothetical protein [Pseudomonas reactans]	28.2	8
+20	SYFQPTNGV	SYGFQPTNGV	hypothetical protein [Neisseria mucosa]	28.2	8
+21	GFQPTNGV	GFQPTNGV	hypothetical protein, partial [Sulfitobacter sp. HI0054]	28.2	8
+22	FPLQSYAFMP	FPLQSYGFQP	GNAT family N-acetyltransferase [Actinoplanes sp. TBRC 11911]	28.2	8
+23	FPLQSYAFMP	FPLQSYGFQP	GNAT family N-acetyltransferase [Actinoplanes brasiliensis]	28.2	8
+24	FPLQSYAFMP	FPLQSYGFQP	GNAT family N-acetyltransferase [Actinoplanes digitatis]	28.2	8
+25	GFQPTNGV	GFQPTNGV	MULTISPECIES: SPOR domain-containing protein [unclassified Sulfitobacter]	28.2	8
+26	FPLDSSSAPTFHYGFQPSHG	FPLQSYGFQPTNG	transcription factor bHLH62-like isoform X2 [Punica granatum]	28.2	8
+27	FPLDSSSAPTFHYGFQPSHG	FPLQSYGFQPTNG	transcription factor bHLH62-like isoform X1 [Punica granatum]	28.2	8
+0	LQSYGFQPT	LQSYGFQPT	hypothetical protein Kpol_1016p5 [Vanderwaltozyma polyspora DSM 70294]	32.5	9
+1	QSYGFQPTSAV	QSYGFQPTNGV	GNAT family N-acetyltransferase [Vibrio metschnikovii]	31.6	9
+2	QSYGFQPTSAV	QSYGFQPTNGV	MULTISPECIES: GNAT family N-acetyltransferase [Vibrio]	31.6	9
+3	LQAYFSPTNGIGY	LQSYGFQPTNGVGY	glycoside hydrolase family 30 protein [Hymenobacter sp. 9PBR-2]	31.2	9
+4	LQSYSFQPTLSNG	LQSYGFQPTNG	DNA recombination protein RmuC [Arsenicitalea aurantiaca]	30.3	9
+5	YGFQPTNG	YGFQPTNG	PREDICTED: G-type lectin S-receptor-like serine/threonine-protein kinase CES101 [Gossypium hirsutum]	29.5	9
+6	PLQSYGFQ	PLQSYGFQ	signal peptide containing protein [Cryptosporidium parvum Iowa II]	29.5	9
+7	PLQSYGFQ	PLQSYGFQ	hypothetical protein [Cryptosporidium hominis TU502]	29.5	9
+8	QKYGFQPTFGVG	QSYGFQPTNGVG	uncharacterized protein TRIREDRAFT_122641 [Trichoderma reesei QM6a]	29.5	9
+9	QKYGFQPTFGVG	QSYGFQPTNGVG	nicotinate phosphoribosyltransferase [Trichoderma citrinoviride]	29.5	9
+10	QKYGFQPTFGVG	QSYGFQPTNGVG	hypothetical protein TRIVIDRAFT_33285 [Trichoderma virens Gv29-8]	29.5	9
+11	LQSYFQPTN	LQSYGFQPTN	hypothetical protein [Maritalea mobilis]	29.1	9
+12	FGFQMTNGVGY	YGFQPTNGVGY	ABC transporter permease [Mycobacterium marseillense]	29.1	9
+13	LRSYGFQPLNGI	LQSYGFQPTNGV	Gldg family protein [Clostridia bacterium]	29.1	9
+14	QSYGFQSTLTTPNGV	QSYGFQPTNGV	uncharacterized protein TRUGW13939_00869 [Talaromyces rugulosus]	28.6	9
+15	PVQSYAFQPT	PLQSYGFQPT	hypothetical protein M441DRAFT_126607 [Trichoderma asperellum CBS 433.97]	28.6	9
+16	QSYGYEPTNEV	QSYGFQPTNGV	hypothetical protein [Bacillus paranthracis]	28.2	9
+17	QSYGYEPTNEV	QSYGFQPTNGV	hypothetical protein [Bacillus paranthracis]	28.2	9
+18	LQGYGFQPKN	LQSYGFQPTN	hypothetical protein [Pseudomonas reactans]	28.2	9
+19	SYFQPTNGV	SYGFQPTNGV	hypothetical protein [Neisseria mucosa]	28.2	9
+20	GFQPTNGV	GFQPTNGV	hypothetical protein, partial [Sulfitobacter sp. HI0054]	28.2	9
+21	LQAYYSPTNGIGY	LQSYGFQPTNGVGY	glycoside hydrolase family 30 protein [Hymenobacter perfusus]	28.2	9
+22	GFQPTNGV	GFQPTNGV	MULTISPECIES: SPOR domain-containing protein [unclassified Sulfitobacter]	28.2	9
+23	LQSYGFQQPT	LQSYGFQPT	probable ATP-dependent RNA helicase DDX52, partial [Drosophila willistoni]	28.2	9
+0	LQSYGFQPT	LQSYGFQPT	hypothetical protein Kpol_1016p5 [Vanderwaltozyma polyspora DSM 70294]	32.5	10
+1	QSYGFQPTSAV	QSYGFQPTNGV	GNAT family N-acetyltransferase [Vibrio metschnikovii]	31.6	10
+2	QSYGFQPTSAV	QSYGFQPTNGV	MULTISPECIES: GNAT family N-acetyltransferase [Vibrio]	31.6	10
+3	LQAYFSPTNGIGY	LQSYGFQPTNGVGY	glycoside hydrolase family 30 protein [Hymenobacter sp. 9PBR-2]	31.2	10
+4	YGLQPPNGIGYQ	YGFQPTNGVGYQ	carboxypeptidase regulatory-like domain-containing protein [Acidipila sp. EB88]	30.8	10
+5	QSYDFQPTGTLQCANGYVAYQ	QSYGFQPTNGVGYQ	LysR family transcriptional regulator [Catenovulum agarivorans]	30.8	10
+6	LQSYSFQPTLSNG	LQSYGFQPTNG	DNA recombination protein RmuC [Arsenicitalea aurantiaca]	30.3	10
+7	QSYGFQPAYGYQ	QSYGFQPTNGVGYQ	hypothetical protein CYBJADRAFT_184575 [Cyberlindnera jadinii NRRL Y-1542]	29.9	10
+8	LQSYGYEVDFHPTNYQ	LQSYGFQPTNGVGYQ	MULTISPECIES: uroporphyrinogen-III synthase [unclassified Paraliobacillus]	29.9	10
+9	YGFQPTNG	YGFQPTNG	PREDICTED: G-type lectin S-receptor-like serine/threonine-protein kinase CES101 [Gossypium hirsutum]	29.5	10
+10	QKYGFQPTFGVG	QSYGFQPTNGVG	uncharacterized protein TRIREDRAFT_122641 [Trichoderma reesei QM6a]	29.5	10
+11	QKYGFQPTFGVG	QSYGFQPTNGVG	nicotinate phosphoribosyltransferase [Trichoderma citrinoviride]	29.5	10
+12	QKYGFQPTFGVG	QSYGFQPTNGVG	hypothetical protein TRIVIDRAFT_33285 [Trichoderma virens Gv29-8]	29.5	10
+13	YSFEPTSGVAYQ	YGFQPTNGVGYQ	uncharacterized protein FIESC28_09154 [Fusarium coffeatum]	29.5	10
+14	SYGFEPDENGVGFQ	SYGFQPTNGVGYQ	hypothetical protein [Devosia sp. PTEAB7WZ]	29.5	10
+15	LQSYFQPTN	LQSYGFQPTN	hypothetical protein [Maritalea mobilis]	29.1	10
+16	FGFQMTNGVGY	YGFQPTNGVGY	ABC transporter permease [Mycobacterium marseillense]	29.1	10
+17	LRSYGFQPLNGI	LQSYGFQPTNGV	Gldg family protein [Clostridia bacterium]	29.1	10
+18	QSYGFQSTLTTPNGV	QSYGFQPTNGV	uncharacterized protein TRUGW13939_00869 [Talaromyces rugulosus]	28.6	10
+19	QSYGYEPTNEV	QSYGFQPTNGV	hypothetical protein [Bacillus paranthracis]	28.2	10
+20	QSYGYEPTNEV	QSYGFQPTNGV	hypothetical protein [Bacillus paranthracis]	28.2	10
+21	LQGYGFQPKN	LQSYGFQPTN	hypothetical protein [Pseudomonas reactans]	28.2	10
+22	SYFQPTNGV	SYGFQPTNGV	hypothetical protein [Neisseria mucosa]	28.2	10
+23	GFQPTNGV	GFQPTNGV	hypothetical protein, partial [Sulfitobacter sp. HI0054]	28.2	10
+0	SYFQPTNGVIYEP	SYGFQPTNGVGYQP	hypothetical protein [Neisseria mucosa]	31.6	11
+1	QSYGFQPTSAV	QSYGFQPTNGV	GNAT family N-acetyltransferase [Vibrio metschnikovii]	31.6	11
+2	QSYGFQPTSAV	QSYGFQPTNGV	MULTISPECIES: GNAT family N-acetyltransferase [Vibrio]	31.6	11
+3	YGLQPPNGIGYQ	YGFQPTNGVGYQ	carboxypeptidase regulatory-like domain-containing protein [Acidipila sp. EB88]	30.8	11
+4	QSYDFQPTGTLQCANGYVAYQ	QSYGFQPTNGVGYQ	LysR family transcriptional regulator [Catenovulum agarivorans]	30.8	11
+5	GYQPVTGVGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	30.3	11
+6	GYQPVTGGAGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	26.1	11
+7	QPGGGVGYQP	QPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	25.2	11
+8	GVGYQP	GVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	22.3	11
+9	GYQPVTGVGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	30.3	11
+10	GYQPVTGGAGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	26.1	11
+11	QPGGGVGYQP	QPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	25.2	11
+12	GVGYQP	GVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	22.3	11
+13	QSYGFQPAYGYQ	QSYGFQPTNGVGYQ	hypothetical protein CYBJADRAFT_184575 [Cyberlindnera jadinii NRRL Y-1542]	29.9	11
+14	FGFQPDGVGYHP	YGFQPTNGVGYQP	GNAT family N-acetyltransferase [Achromobacter sp. AONIH1]	29.9	11
+15	QSYGFQPT	QSYGFQPT	hypothetical protein Kpol_1016p5 [Vanderwaltozyma polyspora DSM 70294]	29.5	11
+16	YGFQPTNG	YGFQPTNG	PREDICTED: G-type lectin S-receptor-like serine/threonine-protein kinase CES101 [Gossypium hirsutum]	29.5	11
+17	QSYGFQSTLTTPNGVANFPQQQQQGVANGFQP	QSYGFQPTNGVGYQP	uncharacterized protein TRUGW13939_00869 [Talaromyces rugulosus]	29.5	11
+18	QKYGFQPTFGVG	QSYGFQPTNGVG	uncharacterized protein TRIREDRAFT_122641 [Trichoderma reesei QM6a]	29.5	11
+19	QKYGFQPTFGVG	QSYGFQPTNGVG	nicotinate phosphoribosyltransferase [Trichoderma citrinoviride]	29.5	11
+20	QKYGFQPTFGVG	QSYGFQPTNGVG	hypothetical protein TRIVIDRAFT_33285 [Trichoderma virens Gv29-8]	29.5	11
+21	YSFEPTSGVAYQ	YGFQPTNGVGYQ	uncharacterized protein FIESC28_09154 [Fusarium coffeatum]	29.5	11
+22	YGYQPANGYQP	YGFQPTNGVGYQP	PREDICTED: claudin-8-like [Sinocyclocheilus grahami]	29.5	11
+23	SYGFEPDENGVGFQ	SYGFQPTNGVGYQ	hypothetical protein [Devosia sp. PTEAB7WZ]	29.5	11
+24	FGFQMTNGVGY	YGFQPTNGVGY	ABC transporter permease [Mycobacterium marseillense]	29.1	11
+25	GYQQPPTNPVGYQP	GFQPTNGVGYQP	dual specificity mitogen-activated protein kinase kinase 5-like [Mizuhopecten yessoensis]	29.1	11
+26	GFELTNGVAYQP	GFQPTNGVGYQP	PREDICTED: uncharacterized protein LOC108038016 [Drosophila rhopaloa]	29.1	11
+27	SYATSFEPVNGVGYGGQP	SYGFQPTNGVGYQP	TonB-dependent siderophore receptor [Achromobacter arsenitoxydans]	28.6	11
+28	QSYGYEPTNEV	QSYGFQPTNGV	hypothetical protein [Bacillus paranthracis]	28.2	11
+29	QSYGYEPTNEV	QSYGFQPTNGV	hypothetical protein [Bacillus paranthracis]	28.2	11
+30	GFQPTNGV	GFQPTNGV	hypothetical protein, partial [Sulfitobacter sp. HI0054]	28.2	11
+31	QAYFSPTNGIGY	QSYGFQPTNGVGY	glycoside hydrolase family 30 protein [Hymenobacter sp. 9PBR-2]	28.2	11
+0	GFQPTDGVQPY	GFQPTNGVGYQPY	ABC transporter ATP-binding protein [Faecalicatena fissicatena]	32.0	12
+1	GFQPTDGVQPY	GFQPTNGVGYQPY	ABC transporter ATP-binding protein [Clostridium sp. D5]	32.0	12
+2	SYFQPTNGVIYEP	SYGFQPTNGVGYQP	hypothetical protein [Neisseria mucosa]	31.6	12
+3	GYQVAPTNGIAYMGYQPY	GFQPTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate isoform X6 [Sinocyclocheilus rhinocerous]	31.2	12
+4	YGFLPLDGIGYHPY	YGFQPTNGVGYQPY	hypothetical protein [Candidatus Oscillochloris fontis]	31.2	12
+5	GYQVAPTNGIAYMGYQPY	GFQPTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X2 [Sinocyclocheilus grahami]	31.2	12
+6	YGLQPPNGIGYQ	YGFQPTNGVGYQ	carboxypeptidase regulatory-like domain-containing protein [Acidipila sp. EB88]	30.8	12
+7	GYQPVTGVGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	30.3	12
+8	GYQPVTGGAGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	26.1	12
+9	QPGGGVGYQP	QPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	25.2	12
+10	GVGYQP	GVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	22.3	12
+11	GYQPVTGVGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	30.3	12
+12	GYQPVTGGAGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	26.1	12
+13	QPGGGVGYQP	QPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	25.2	12
+14	GVGYQP	GVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	22.3	12
+15	YSFQAANAVAPTIQGYQPY	YGFQPTNGVGYQPY	hypothetical protein TRIATDRAFT_291656 [Trichoderma atroviride IMI 206040]	29.9	12
+16	NGVGYQPY	NGVGYQPY	PREDICTED: pumilio homolog 12 [Theobroma cacao]	29.9	12
+17	SYGYYPLDGVGYHPY	SYGFQPTNGVGYQPY	hypothetical protein [Chloroflexia bacterium SDU3-3]	29.9	12
+18	FNPTNPGVQPGYQPY	FQPTNGVGYQPY	hypothetical protein [Lactobacillus bombi]	29.9	12
+19	FGFQPDGVGYHP	YGFQPTNGVGYQP	GNAT family N-acetyltransferase [Achromobacter sp. AONIH1]	29.9	12
+20	SYATSFEPVNGVGYGGQPF	SYGFQPTNGVGYQPY	TonB-dependent siderophore receptor [Achromobacter arsenitoxydans]	29.5	12
+21	YGFQPTNG	YGFQPTNG	PREDICTED: G-type lectin S-receptor-like serine/threonine-protein kinase CES101 [Gossypium hirsutum]	29.5	12
+22	YSFEPTSGVAYQ	YGFQPTNGVGYQ	uncharacterized protein FIESC28_09154 [Fusarium coffeatum]	29.5	12
+23	YGYQPANGYQP	YGFQPTNGVGYQP	PREDICTED: claudin-8-like [Sinocyclocheilus grahami]	29.5	12
+24	SYGFEPDENGVGFQ	SYGFQPTNGVGYQ	hypothetical protein [Devosia sp. PTEAB7WZ]	29.5	12
+25	PTNGIAYMGYQPY	PTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X1 [Sinocyclocheilus grahami]	29.1	12
+26	FGFQMTNGVGY	YGFQPTNGVGY	ABC transporter permease [Mycobacterium marseillense]	29.1	12
+27	GYQQPPTNPVGYQP	GFQPTNGVGYQP	dual specificity mitogen-activated protein kinase kinase 5-like [Mizuhopecten yessoensis]	29.1	12
+28	GFQGNPTNGGGSQPY	GFQPTNGVGYQPY	putative HMG box protein [Aspergillus bombycis]	29.1	12
+29	GFELTNGVAYQP	GFQPTNGVGYQP	PREDICTED: uncharacterized protein LOC108038016 [Drosophila rhopaloa]	29.1	12
+30	PTNGIAYMGYQPY	PTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like [Sinocyclocheilus rhinocerous]	29.1	12
+31	PTNGIAYMGYQPY	PTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X5 [Sinocyclocheilus anshuiensis]	29.1	12
+32	PTNGIAYMGYQPY	PTNGVGYQPY	hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X5 [Carassius auratus]	29.1	12
+33	PTNGIAYMGYQPY	PTNGVGYQPY	hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X6 [Carassius auratus]	29.1	12
+34	PTNGIAYMGYQPY	PTNGVGYQPY	hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X3 [Carassius auratus]	29.1	12
+35	PTNGMGYIGYQPY	PTNGVGYQPY	hepatocyte growth factor-regulated tyrosine kinase substrate isoform X2 [Morone saxatilis]	29.1	12
+36	PTNGIAYMGYQPY	PTNGVGYQPY	hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X3 [Carassius auratus]	29.1	12
+0	GFQPTDGVQPY	GFQPTNGVGYQPY	ABC transporter ATP-binding protein [Faecalicatena fissicatena]	32.0	13
+1	GFQPTDGVQPY	GFQPTNGVGYQPY	ABC transporter ATP-binding protein [Clostridium sp. D5]	32.0	13
+2	GYQVAPTNGIAYMGYQPY	GFQPTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate isoform X6 [Sinocyclocheilus rhinocerous]	31.2	13
+3	YGFLPLDGIGYHPY	YGFQPTNGVGYQPY	hypothetical protein [Candidatus Oscillochloris fontis]	31.2	13
+4	GYQVAPTNGIAYMGYQPY	GFQPTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X2 [Sinocyclocheilus grahami]	31.2	13
+5	YGLQPPNGIGYQ	YGFQPTNGVGYQ	carboxypeptidase regulatory-like domain-containing protein [Acidipila sp. EB88]	30.8	13
+6	GYQPVTGVGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	30.3	13
+7	GYQPVTGGAGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	26.1	13
+8	QPGGGVGYQP	QPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	25.2	13
+9	GVGYQP	GVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	22.3	13
+10	GYQPVTGVGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	30.3	13
+11	GYQPVTGGAGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	26.1	13
+12	QPGGGVGYQP	QPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	25.2	13
+13	GVGYQP	GVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	22.3	13
+14	TNGVGYQIFCANPYR	TNGVGYQPYR	Holliday junction branch migration protein RuvA [Bacillus sp. JCM 19041]	30.3	13
+15	YSFQAANAVAPTIQGYQPY	YGFQPTNGVGYQPY	hypothetical protein TRIATDRAFT_291656 [Trichoderma atroviride IMI 206040]	29.9	13
+16	TNGVGYTVVPSAQPYR	TNGVGYQPYR	fimbria/pilus outer membrane usher protein [Pseudomonas sp. S35]	29.9	13
+17	TNGVGYTVVPSAQPYR	TNGVGYQPYR	MULTISPECIES: fimbria/pilus outer membrane usher protein [unclassified Pseudomonas]	29.9	13
+18	NGVGYQPY	NGVGYQPY	PREDICTED: pumilio homolog 12 [Theobroma cacao]	29.9	13
+19	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus xanthus]	29.9	13
+20	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus sp. AB056]	29.9	13
+21	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus sp. AM009]	29.9	13
+22	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus fulvus]	29.9	13
+23	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus xanthus]	29.9	13
+24	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus xanthus]	29.9	13
+25	FPPISGVPYQPYR	FQPTNGVGYQPYR	MULTISPECIES: hypothetical protein [unclassified Myxococcus]	29.9	13
+26	FPPISGVPYQPYR	FQPTNGVGYQPYR	MULTISPECIES: hypothetical protein [Myxococcus]	29.9	13
+27	FPPISGVPYQPYR	FQPTNGVGYQPYR	MULTISPECIES: hypothetical protein [unclassified Myxococcus]	29.9	13
+28	FNPTNPGVQPGYQPY	FQPTNGVGYQPY	hypothetical protein [Lactobacillus bombi]	29.9	13
+29	FGFQPDGVGYHP	YGFQPTNGVGYQP	GNAT family N-acetyltransferase [Achromobacter sp. AONIH1]	29.9	13
+30	YGFQPTNG	YGFQPTNG	PREDICTED: G-type lectin S-receptor-like serine/threonine-protein kinase CES101 [Gossypium hirsutum]	29.5	13
+31	YSFEPTSGVAYQ	YGFQPTNGVGYQ	uncharacterized protein FIESC28_09154 [Fusarium coffeatum]	29.5	13
+32	YGYQPANGYQP	YGFQPTNGVGYQP	PREDICTED: claudin-8-like [Sinocyclocheilus grahami]	29.5	13
+33	PTNGIAYMGYQPY	PTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X1 [Sinocyclocheilus grahami]	29.1	13
+34	FGFQMTNGVGY	YGFQPTNGVGY	ABC transporter permease [Mycobacterium marseillense]	29.1	13
+35	FQPTNGVIYEP	FQPTNGVGYQP	hypothetical protein [Neisseria mucosa]	29.1	13
+0	GFQPTDGVQPY	GFQPTNGVGYQPY	ABC transporter ATP-binding protein [Faecalicatena fissicatena]	32.0	14
+1	GFQPTDGVQPY	GFQPTNGVGYQPY	ABC transporter ATP-binding protein [Clostridium sp. D5]	32.0	14
+2	TNGIGSASGYQPYRV	TNGVGYQPYRV	multicopper oxidase domain-containing protein [Methylovulum psychrotolerans]	31.6	14
+3	TNGIGSASGYQPYRV	TNGVGYQPYRV	multicopper oxidase domain-containing protein [Methylovulum psychrotolerans]	31.6	14
+4	GYQVAPTNGIAYMGYQPY	GFQPTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate isoform X6 [Sinocyclocheilus rhinocerous]	31.2	14
+5	GYQVAPTNGIAYMGYQPY	GFQPTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X2 [Sinocyclocheilus grahami]	31.2	14
+6	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobiales bacterium]	30.8	14
+7	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobium sp. Leaf311]	30.8	14
+8	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobiales bacterium]	30.8	14
+9	GYQPVTGVGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	30.3	14
+10	GYQPVTGGAGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	26.1	14
+11	QPGGGVGYQP	QPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	25.2	14
+12	GVGYQP	GVGYQP	PREDICTED: fibroin heavy chain isoform X2 [Musca domestica]	22.3	14
+13	GYQPVTGVGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	30.3	14
+14	GYQPVTGGAGYQP	GFQPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	26.1	14
+15	QPGGGVGYQP	QPTNGVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	25.2	14
+16	GVGYQP	GVGYQP	PREDICTED: fibroin heavy chain isoform X3 [Musca domestica]	22.3	14
+17	TNGVGYQIFCANPYR	TNGVGYQPYR	Holliday junction branch migration protein RuvA [Bacillus sp. JCM 19041]	30.3	14
+18	TNGVGYTVVPSAQPYR	TNGVGYQPYR	fimbria/pilus outer membrane usher protein [Pseudomonas sp. S35]	29.9	14
+19	TNGVGYTVVPSAQPYR	TNGVGYQPYR	MULTISPECIES: fimbria/pilus outer membrane usher protein [unclassified Pseudomonas]	29.9	14
+20	NGVGYQPY	NGVGYQPY	PREDICTED: pumilio homolog 12 [Theobroma cacao]	29.9	14
+21	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus xanthus]	29.9	14
+22	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus sp. AB056]	29.9	14
+23	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus sp. AM009]	29.9	14
+24	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus fulvus]	29.9	14
+25	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus xanthus]	29.9	14
+26	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus xanthus]	29.9	14
+27	FPPISGVPYQPYR	FQPTNGVGYQPYR	MULTISPECIES: hypothetical protein [unclassified Myxococcus]	29.9	14
+28	FPPISGVPYQPYR	FQPTNGVGYQPYR	MULTISPECIES: hypothetical protein [Myxococcus]	29.9	14
+29	FPPISGVPYQPYR	FQPTNGVGYQPYR	MULTISPECIES: hypothetical protein [unclassified Myxococcus]	29.9	14
+30	FNPTNPGVQPGYQPY	FQPTNGVGYQPY	hypothetical protein [Lactobacillus bombi]	29.9	14
+31	DGVGYRPYRV	NGVGYQPYRV	glycoside hydrolase/phage tail family protein [Cognatiyoonia koreensis]	29.5	14
+32	TNVGYEPYRV	TNGVGYQPYRV	TonB-dependent receptor [Sphingobacterium faecium]	29.5	14
+33	GFQPDGVGYHP	GFQPTNGVGYQP	GNAT family N-acetyltransferase [Achromobacter sp. AONIH1]	29.1	14
+34	PTNGIAYMGYQPY	PTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X1 [Sinocyclocheilus grahami]	29.1	14
+0	TNGIGSASGYQPYRV	TNGVGYQPYRV	multicopper oxidase domain-containing protein [Methylovulum psychrotolerans]	31.6	15
+1	TNGIGSASGYQPYRV	TNGVGYQPYRV	multicopper oxidase domain-containing protein [Methylovulum psychrotolerans]	31.6	15
+2	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobiales bacterium]	30.8	15
+3	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobium sp. Leaf311]	30.8	15
+4	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobiales bacterium]	30.8	15
+5	GYQPYRVV	GYQPYRVV	PEGA domain-containing protein [Thermus antranikianii]	30.3	15
+6	GYEPYR	GYQPYR	PEGA domain-containing protein [Thermus antranikianii]	21.4	15
+7	GYEPYR	GYQPYR	PEGA domain-containing protein [Thermus antranikianii]	21.4	15
+8	GYQPYRVV	GYQPYRVV	ABC transporter substrate-binding protein [Granulicella sp. S190]	30.3	15
+9	TNGVGYQIFCANPYR	TNGVGYQPYR	Holliday junction branch migration protein RuvA [Bacillus sp. JCM 19041]	30.3	15
+10	TNGVGYTVVPSAQPYR	TNGVGYQPYR	fimbria/pilus outer membrane usher protein [Pseudomonas sp. S35]	29.9	15
+11	TNGVGYTVVPSAQPYR	TNGVGYQPYR	MULTISPECIES: fimbria/pilus outer membrane usher protein [unclassified Pseudomonas]	29.9	15
+12	NGVGYQPY	NGVGYQPY	PREDICTED: pumilio homolog 12 [Theobroma cacao]	29.9	15
+13	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus xanthus]	29.9	15
+14	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus sp. AB056]	29.9	15
+15	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus sp. AM009]	29.9	15
+16	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus fulvus]	29.9	15
+17	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus xanthus]	29.9	15
+18	FPPISGVPYQPYR	FQPTNGVGYQPYR	hypothetical protein [Myxococcus xanthus]	29.9	15
+19	FPPISGVPYQPYR	FQPTNGVGYQPYR	MULTISPECIES: hypothetical protein [unclassified Myxococcus]	29.9	15
+20	FPPISGVPYQPYR	FQPTNGVGYQPYR	MULTISPECIES: hypothetical protein [Myxococcus]	29.9	15
+21	FPPISGVPYQPYR	FQPTNGVGYQPYR	MULTISPECIES: hypothetical protein [unclassified Myxococcus]	29.9	15
+22	FNPTNPGVQPGYQPY	FQPTNGVGYQPY	hypothetical protein [Lactobacillus bombi]	29.9	15
+23	DGVGYRPYRV	NGVGYQPYRV	glycoside hydrolase/phage tail family protein [Cognatiyoonia koreensis]	29.5	15
+24	TNVGYEPYRV	TNGVGYQPYRV	TonB-dependent receptor [Sphingobacterium faecium]	29.5	15
+25	NSTGYQPYRVI	NGVGYQPYRVV	ABC transporter substrate-binding protein [Granulicella sibirica]	29.5	15
+26	FQPTDGVQPY	FQPTNGVGYQPY	ABC transporter ATP-binding protein [Faecalicatena fissicatena]	29.5	15
+27	FQPTDGVQPY	FQPTNGVGYQPY	ABC transporter ATP-binding protein [Clostridium sp. D5]	29.5	15
+28	PTNGIAYMGYQPY	PTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X2 [Sinocyclocheilus grahami]	29.1	15
+29	PTNGIAYMGYQPY	PTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X1 [Sinocyclocheilus grahami]	29.1	15
+30	FQPTNGVIYEP	FQPTNGVGYQP	hypothetical protein [Neisseria mucosa]	29.1	15
+31	FQPSRSVQPYRVV	FQPTNGVGYQPYRVV	lipid A deacylase LpxR family protein [Acidiphilium cryptum]	29.1	15
+0	GYQPYRVVV	GYQPYRVVV	PEGA domain-containing protein [Thermus antranikianii]	33.3	16
+1	TNGIGSASGYQPYRV	TNGVGYQPYRV	multicopper oxidase domain-containing protein [Methylovulum psychrotolerans]	31.6	16
+2	TNGIGSASGYQPYRV	TNGVGYQPYRV	multicopper oxidase domain-containing protein [Methylovulum psychrotolerans]	31.6	16
+3	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobiales bacterium]	30.8	16
+4	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobium sp. Leaf311]	30.8	16
+5	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobiales bacterium]	30.8	16
+6	GYQPYRVV	GYQPYRVV	ABC transporter substrate-binding protein [Granulicella sp. S190]	30.3	16
+7	TNGVGYQIFCANPYR	TNGVGYQPYR	Holliday junction branch migration protein RuvA [Bacillus sp. JCM 19041]	30.3	16
+8	TNGVGYTVVPSAQPYR	TNGVGYQPYR	fimbria/pilus outer membrane usher protein [Pseudomonas sp. S35]	29.9	16
+9	TNGVGYTVVPSAQPYR	TNGVGYQPYR	MULTISPECIES: fimbria/pilus outer membrane usher protein [unclassified Pseudomonas]	29.9	16
+10	NGVGYQPY	NGVGYQPY	PREDICTED: pumilio homolog 12 [Theobroma cacao]	29.9	16
+11	DGVGYRPYRV	NGVGYQPYRV	glycoside hydrolase/phage tail family protein [Cognatiyoonia koreensis]	29.5	16
+12	TNVGYEPYRV	TNGVGYQPYRV	TonB-dependent receptor [Sphingobacterium faecium]	29.5	16
+13	PKNTVGYEPIRVVV	PTNGVGYQPYRVVV	proteoglycan 4-like isoform X1 [Paramormyrops kingsleyae]	29.5	16
+14	PKNTVGYEPIRVVV	PTNGVGYQPYRVVV	proteoglycan 4-like isoform X2 [Paramormyrops kingsleyae]	29.5	16
+15	NSTGYQPYRVI	NGVGYQPYRVV	ABC transporter substrate-binding protein [Granulicella sibirica]	29.5	16
+16	GVGYQPHRLVV	GVGYQPYRVVV	lipopolysaccharide A protein [Psychromonas sp. RZ5]	29.5	16
+17	PTNGIAYMGYQPY	PTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X2 [Sinocyclocheilus grahami]	29.1	16
+18	PTNGIAYMGYQPY	PTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X1 [Sinocyclocheilus grahami]	29.1	16
+19	GYQPYRVTV	GYQPYRVVV	PEGA domain-containing protein [Thermus arciformis]	29.1	16
+20	GYQSYRVVV	GYQPYRVVV	PEGA domain-containing protein [Thermus igniterrae]	29.1	16
+21	VGYEPYRATV	VGYQPYRVVV	PEGA domain-containing protein [Thermus igniterrae]	25.2	16
+22	GYQPYRVTV	GYQPYRVVV	PEGA domain-containing protein [Thermus scotoductus]	29.1	16
+23	GYEPYRATV	GYQPYRVVV	PEGA domain-containing protein [Thermus scotoductus]	22.3	16
+24	GYQPYRVTV	GYQPYRVVV	PEGA domain-containing protein [Thermus caldifontis]	29.1	16
+25	GYEPYRAAV	GYQPYRVVV	PEGA domain-containing protein [Thermus caldifontis]	22.7	16
+26	GYEPYRATV	GYQPYRVVV	PEGA domain-containing protein [Thermus caldifontis]	22.3	16
+27	GYQPYRVTV	GYQPYRVVV	PEGA domain-containing protein [Thermus scotoductus]	29.1	16
+28	GYEPYRATV	GYQPYRVVV	PEGA domain-containing protein [Thermus scotoductus]	22.3	16
+29	GYQPYRVTV	GYQPYRVVV	PEGA domain-containing protein [Thermus thermophilus]	29.1	16
+0	GYQPYRVVV	GYQPYRVVV	PEGA domain-containing protein [Thermus antranikianii]	33.3	17
+1	TNGIGSASGYQPYRV	TNGVGYQPYRV	multicopper oxidase domain-containing protein [Methylovulum psychrotolerans]	31.6	17
+2	TNGIGSASGYQPYRV	TNGVGYQPYRV	multicopper oxidase domain-containing protein [Methylovulum psychrotolerans]	31.6	17
+3	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. SYW-8]	31.6	17
+4	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Fastidiosibacter lacustris]	31.6	17
+5	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. JM-1]	31.6	17
+6	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Caedibacter taeniospiralis]	31.6	17
+7	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobiales bacterium]	30.8	17
+8	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobium sp. Leaf311]	30.8	17
+9	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobiales bacterium]	30.8	17
+10	GVGYNNQPFRVVML	GVGYQPYRVVVL	ATP-dependent zinc metalloprotease FtsH [Saccharophagus degradans]	30.3	17
+11	GYQPYRVV	GYQPYRVV	ABC transporter substrate-binding protein [Granulicella sp. S190]	30.3	17
+12	TNGVGYQIFCANPYR	TNGVGYQPYR	Holliday junction branch migration protein RuvA [Bacillus sp. JCM 19041]	30.3	17
+13	TDGVGYAPFRVGIL	TNGVGYQPYRVVVL	MULTISPECIES: LuxR family transcriptional regulator [unclassified Leifsonia]	29.9	17
+14	TNGVGYTVVPSAQPYR	TNGVGYQPYR	fimbria/pilus outer membrane usher protein [Pseudomonas sp. S35]	29.9	17
+15	TNGVGYTVVPSAQPYR	TNGVGYQPYR	MULTISPECIES: fimbria/pilus outer membrane usher protein [unclassified Pseudomonas]	29.9	17
+16	NGVGYQPY	NGVGYQPY	PREDICTED: pumilio homolog 12 [Theobroma cacao]	29.9	17
+17	DGVGYRPYRV	NGVGYQPYRV	glycoside hydrolase/phage tail family protein [Cognatiyoonia koreensis]	29.5	17
+18	TNVGYEPYRV	TNGVGYQPYRV	TonB-dependent receptor [Sphingobacterium faecium]	29.5	17
+19	PKNTVGYEPIRVVV	PTNGVGYQPYRVVV	proteoglycan 4-like isoform X1 [Paramormyrops kingsleyae]	29.5	17
+20	PKNTVGYEPIRVVV	PTNGVGYQPYRVVV	proteoglycan 4-like isoform X2 [Paramormyrops kingsleyae]	29.5	17
+21	QPYRVVVL	QPYRVVVL	coumaroyl-CoA:anthocyanidin 3-O-glucoside-6''-O-coumaroyltransferase 1-like [Juglans regia]	29.5	17
+22	NSTGYQPYRVI	NGVGYQPYRVV	ABC transporter substrate-binding protein [Granulicella sibirica]	29.5	17
+23	GVGYQPHRLVV	GVGYQPYRVVV	lipopolysaccharide A protein [Psychromonas sp. RZ5]	29.5	17
+24	QPYRVVVL	QPYRVVVL	hypothetical protein [Coprococcus sp. AF21-14LB]	29.5	17
+25	GYEPYRIVIL	GYQPYRVVVL	gp86 [Mycobacterium phage PLot]	29.1	17
+26	PTNGIAYMGYQPY	PTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X2 [Sinocyclocheilus grahami]	29.1	17
+27	PTNGIAYMGYQPY	PTNGVGYQPY	PREDICTED: hepatocyte growth factor-regulated tyrosine kinase substrate-like isoform X1 [Sinocyclocheilus grahami]	29.1	17
+0	GYQPYRVVV	GYQPYRVVV	PEGA domain-containing protein [Thermus antranikianii]	33.3	18
+1	TNGIGSASGYQPYRV	TNGVGYQPYRV	multicopper oxidase domain-containing protein [Methylovulum psychrotolerans]	31.6	18
+2	TNGIGSASGYQPYRV	TNGVGYQPYRV	multicopper oxidase domain-containing protein [Methylovulum psychrotolerans]	31.6	18
+3	VGYQPLGNKVNFFRVVVLS	VGYQPYRVVVLS	cysteine sulfinic acid decarboxylase isoform X2 [Epinephelus lanceolatus]	31.6	18
+4	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. SYW-8]	31.6	18
+5	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Fastidiosibacter lacustris]	31.6	18
+6	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. JM-1]	31.6	18
+7	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Caedibacter taeniospiralis]	31.6	18
+8	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobiales bacterium]	30.8	18
+9	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobium sp. Leaf311]	30.8	18
+10	TNGVGQPYRV	TNGVGYQPYRV	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Rhizobiales bacterium]	30.8	18
+11	YQKLGIPYRVVVLS	YQPYRVVVLS	serine--tRNA ligase [Marine Group I thaumarchaeote]	30.8	18
+12	GVGYNNQPFRVVML	GVGYQPYRVVVL	ATP-dependent zinc metalloprotease FtsH [Saccharophagus degradans]	30.3	18
+13	GYQPYRVV	GYQPYRVV	ABC transporter substrate-binding protein [Granulicella sp. S190]	30.3	18
+14	GVGTPYRVVVLS	GVGYQPYRVVVLS	MULTISPECIES: DJ-1/PfpI family protein [Achromobacter]	30.3	18
+15	TNGVGYQIFCANPYR	TNGVGYQPYR	Holliday junction branch migration protein RuvA [Bacillus sp. JCM 19041]	30.3	18
+16	TDGVGYAPFRVGIL	TNGVGYQPYRVVVL	MULTISPECIES: LuxR family transcriptional regulator [unclassified Leifsonia]	29.9	18
+17	TNGVGYTVVPSAQPYR	TNGVGYQPYR	fimbria/pilus outer membrane usher protein [Pseudomonas sp. S35]	29.9	18
+18	TNGVGYTVVPSAQPYR	TNGVGYQPYR	MULTISPECIES: fimbria/pilus outer membrane usher protein [unclassified Pseudomonas]	29.9	18
+19	NGVGYQPY	NGVGYQPY	PREDICTED: pumilio homolog 12 [Theobroma cacao]	29.9	18
+20	DGVGYRPYRV	NGVGYQPYRV	glycoside hydrolase/phage tail family protein [Cognatiyoonia koreensis]	29.5	18
+21	TNVGYEPYRV	TNGVGYQPYRV	TonB-dependent receptor [Sphingobacterium faecium]	29.5	18
+22	QPYRVVVL	QPYRVVVL	coumaroyl-CoA:anthocyanidin 3-O-glucoside-6''-O-coumaroyltransferase 1-like [Juglans regia]	29.5	18
+23	NSTGYQPYRVI	NGVGYQPYRVV	ABC transporter substrate-binding protein [Granulicella sibirica]	29.5	18
+24	GVGYQPHRLVV	GVGYQPYRVVV	lipopolysaccharide A protein [Psychromonas sp. RZ5]	29.5	18
+25	QPYRVVVL	QPYRVVVL	hypothetical protein [Coprococcus sp. AF21-14LB]	29.5	18
+26	GYEPYRIVIL	GYQPYRVVVL	gp86 [Mycobacterium phage PLot]	29.1	18
+0	GYQPYRVVV	GYQPYRVVV	PEGA domain-containing protein [Thermus antranikianii]	33.3	19
+1	VGYQPLGNKVNFFRVVVLS	VGYQPYRVVVLS	cysteine sulfinic acid decarboxylase isoform X2 [Epinephelus lanceolatus]	31.6	19
+2	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. SYW-8]	31.6	19
+3	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Fastidiosibacter lacustris]	31.6	19
+4	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. JM-1]	31.6	19
+5	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Caedibacter taeniospiralis]	31.6	19
+6	YQKLGIPYRVVVLS	YQPYRVVVLS	serine--tRNA ligase [Marine Group I thaumarchaeote]	30.8	19
+7	GVGYNNQPFRVVML	GVGYQPYRVVVL	ATP-dependent zinc metalloprotease FtsH [Saccharophagus degradans]	30.3	19
+8	GYQPYRVV	GYQPYRVV	ABC transporter substrate-binding protein [Granulicella sp. S190]	30.3	19
+9	GVGTPYRVVVLS	GVGYQPYRVVVLS	MULTISPECIES: DJ-1/PfpI family protein [Achromobacter]	30.3	19
+10	NGVGYQPY	NGVGYQPY	PREDICTED: pumilio homolog 12 [Theobroma cacao]	29.9	19
+11	DGVGYRPYRV	NGVGYQPYRV	glycoside hydrolase/phage tail family protein [Cognatiyoonia koreensis]	29.5	19
+12	DGVSYEPLNRTANYRVVTMSF	NGVGYQPYRVVVLSF	AGAP011971-PA [Anopheles gambiae str. PEST]	29.5	19
+13	QPYRVVVL	QPYRVVVL	coumaroyl-CoA:anthocyanidin 3-O-glucoside-6''-O-coumaroyltransferase 1-like [Juglans regia]	29.5	19
+14	NSTGYQPYRVI	NGVGYQPYRVV	ABC transporter substrate-binding protein [Granulicella sibirica]	29.5	19
+15	HPFRVVVLSF	QPYRVVVLSF	transporter substrate-binding domain-containing protein [Desulfohalobium retbaense]	29.5	19
+16	GVGYQPHRLVV	GVGYQPYRVVV	lipopolysaccharide A protein [Psychromonas sp. RZ5]	29.5	19
+17	QPYRVVVL	QPYRVVVL	hypothetical protein [Coprococcus sp. AF21-14LB]	29.5	19
+18	GYQPYVVPLSF	GYQPYRVVVLSF	pyridoxamine 5'-phosphate oxidase family protein [Geobacter daltonii]	29.5	19
+19	QPYRFVVILSF	QPYRVVVLSF	NUDIX domain-containing protein [Clostridia bacterium]	29.5	19
+20	GYEPYRIVIL	GYQPYRVVVL	gp86 [Mycobacterium phage PLot]	29.1	19
+21	GYEPYRIVIL	GYQPYRVVVL	gp79 [Mycobacterium phage PBI1]	29.1	19
+22	GYQPYRVTV	GYQPYRVVV	PEGA domain-containing protein [Thermus arciformis]	29.1	19
+23	GYQSYRVVV	GYQPYRVVV	PEGA domain-containing protein [Thermus igniterrae]	29.1	19
+24	VGYEPYRATV	VGYQPYRVVV	PEGA domain-containing protein [Thermus igniterrae]	25.2	19
+25	GYQPYRVTV	GYQPYRVVV	PEGA domain-containing protein [Thermus scotoductus]	29.1	19
+26	GYEPYRATV	GYQPYRVVV	PEGA domain-containing protein [Thermus scotoductus]	22.3	19
+27	GYQPYRVTV	GYQPYRVVV	PEGA domain-containing protein [Thermus caldifontis]	29.1	19
+28	GYEPYRAAV	GYQPYRVVV	PEGA domain-containing protein [Thermus caldifontis]	22.7	19
+29	GYEPYRATV	GYQPYRVVV	PEGA domain-containing protein [Thermus caldifontis]	22.3	19
+30	GYQPYRVTV	GYQPYRVVV	PEGA domain-containing protein [Thermus scotoductus]	29.1	19
+31	GYEPYRATV	GYQPYRVVV	PEGA domain-containing protein [Thermus scotoductus]	22.3	19
+0	GYQPYRVVV	GYQPYRVVV	PEGA domain-containing protein [Thermus antranikianii]	33.3	20
+1	GYLEPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus lactis]	32.0	20
+2	VGYQPLGNKVNFFRVVVLS	VGYQPYRVVVLS	cysteine sulfinic acid decarboxylase isoform X2 [Epinephelus lanceolatus]	31.6	20
+3	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. SYW-8]	31.6	20
+4	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Fastidiosibacter lacustris]	31.6	20
+5	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. JM-1]	31.6	20
+6	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Caedibacter taeniospiralis]	31.6	20
+7	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	MULTISPECIES: 9-O-acetylesterase [Bacteroides]	30.8	20
+8	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides sp. 2_2_4]	30.8	20
+9	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides ovatus]	30.8	20
+10	YQTYRVKGDKVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides caecimuris]	30.8	20
+11	YQTYRVKGDKVILSFE	YQPYRVVVLSFE	MULTISPECIES: 9-O-acetylesterase [Bacteroides]	30.8	20
+12	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides ovatus]	30.8	20
+13	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides sp. KFT8]	30.8	20
+14	YQTYRVKGDKVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides xylanisolvens]	30.8	20
+15	YQKLGIPYRVVVLS	YQPYRVVVLS	serine--tRNA ligase [Marine Group I thaumarchaeote]	30.8	20
+16	GVGYNNQPFRVVML	GVGYQPYRVVVL	ATP-dependent zinc metalloprotease FtsH [Saccharophagus degradans]	30.3	20
+17	GYQPYRVV	GYQPYRVV	ABC transporter substrate-binding protein [Granulicella sp. S190]	30.3	20
+18	GVGTPYRVVVLS	GVGYQPYRVVVLS	MULTISPECIES: DJ-1/PfpI family protein [Achromobacter]	30.3	20
+19	GYLAPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus sp. EZ-K15]	29.9	20
+20	GYLAPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus lautus]	29.9	20
+21	GYLAPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus sp. cl141a]	29.9	20
+22	GYLAPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus lautus]	29.9	20
+23	GYLAPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus lautus]	29.9	20
+24	GYLAPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus sp. Y412MC10]	29.9	20
+25	GYLAPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus sp. HGF5]	29.9	20
+26	GYLAPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus ihbetae]	29.9	20
+0	GYQPYRVVV	GYQPYRVVV	PEGA domain-containing protein [Thermus antranikianii]	33.3	21
+1	GYLEPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus lactis]	32.0	21
+2	YQPHRVVVLALDGLLPFEL	YQPYRVVVLSFEL	helix-turn-helix domain-containing protein [Streptomyces sp. TRM66268-LWL]	32.0	21
+3	VGYQPLGNKVNFFRVVVLS	VGYQPYRVVVLS	cysteine sulfinic acid decarboxylase isoform X2 [Epinephelus lanceolatus]	31.6	21
+4	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. SYW-8]	31.6	21
+5	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Fastidiosibacter lacustris]	31.6	21
+6	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. JM-1]	31.6	21
+7	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Caedibacter taeniospiralis]	31.6	21
+8	GYQPYVMVLNFNL	GYQPYRVVVLSFEL	ABC transporter substrate-binding protein [Streptomyces sp. JV178]	31.2	21
+9	GYQPYVMVLNFNL	GYQPYRVVVLSFEL	ABC transporter substrate-binding protein [Streptomyces torulosus]	31.2	21
+10	GYQPYVMVLNFNL	GYQPYRVVVLSFEL	ABC transporter substrate-binding protein [Streptomyces neyagawaensis]	31.2	21
+11	GYQPYVMVLAFNL	GYQPYRVVVLSFEL	ABC transporter substrate-binding protein [Streptomyces fulvoviolaceus]	31.2	21
+12	GYQPYVMVLNFNL	GYQPYRVVVLSFEL	ABC transporter substrate-binding protein [Streptomyces scabiei]	31.2	21
+13	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	MULTISPECIES: 9-O-acetylesterase [Bacteroides]	30.8	21
+14	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides sp. 2_2_4]	30.8	21
+15	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides ovatus]	30.8	21
+16	YQTYRVKGDKVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides caecimuris]	30.8	21
+17	YQTYRVKGDKVILSFE	YQPYRVVVLSFE	MULTISPECIES: 9-O-acetylesterase [Bacteroides]	30.8	21
+18	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides ovatus]	30.8	21
+19	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides sp. KFT8]	30.8	21
+20	YQTYRVKGDKVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides xylanisolvens]	30.8	21
+21	YQKLGIPYRVVVLS	YQPYRVVVLS	serine--tRNA ligase [Marine Group I thaumarchaeote]	30.8	21
+22	QSYRSVILSFEL	QPYRVVVLSFEL	AAA-like domain-containing protein [Nostoc sp. 106C]	30.3	21
+23	GYQPYRVV	GYQPYRVV	ABC transporter substrate-binding protein [Granulicella sp. S190]	30.3	21
+24	GYLAPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus sp. EZ-K15]	29.9	21
+25	GYLAPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus lautus]	29.9	21
+26	GYLAPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus lautus]	29.9	21
+27	GYLAPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus ihbetae]	29.9	21
+0	GYQPYRVVV	GYQPYRVVV	PEGA domain-containing protein [Thermus antranikianii]	33.3	22
+1	YEGYRWLATIVVLSFELL	YQPYRVVVLSFELL	protein tweety homolog 1-B isoform X1 [Lingula anatina]	32.9	22
+2	YEGYRWLATIVVLSFELL	YQPYRVVVLSFELL	protein tweety homolog 1-B isoform X3 [Lingula anatina]	32.9	22
+3	GYLEPYRVLVLSYE	GYQPYRVVVLSFE	hypothetical protein [Paenibacillus lactis]	32.0	22
+4	YQPHRVVVLALDGLLPFEL	YQPYRVVVLSFEL	helix-turn-helix domain-containing protein [Streptomyces sp. TRM66268-LWL]	32.0	22
+5	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. SYW-8]	31.6	22
+6	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Fastidiosibacter lacustris]	31.6	22
+7	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. JM-1]	31.6	22
+8	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Caedibacter taeniospiralis]	31.6	22
+9	GYQPYVMVLNFNL	GYQPYRVVVLSFEL	ABC transporter substrate-binding protein [Streptomyces sp. JV178]	31.2	22
+10	GYQPYVMVLNFNL	GYQPYRVVVLSFEL	ABC transporter substrate-binding protein [Streptomyces torulosus]	31.2	22
+11	GYQPYVMVLNFNL	GYQPYRVVVLSFEL	ABC transporter substrate-binding protein [Streptomyces neyagawaensis]	31.2	22
+12	GYQPYVMVLAFNL	GYQPYRVVVLSFEL	ABC transporter substrate-binding protein [Streptomyces fulvoviolaceus]	31.2	22
+13	GYQPYVMVLNFNL	GYQPYRVVVLSFEL	ABC transporter substrate-binding protein [Streptomyces scabiei]	31.2	22
+14	GFLPYRVVVSSEAPVSELSLELL	GYQPYRVVVLSFELL	PREDICTED: E3 ubiquitin-protein ligase MARCH6-like, partial [Biomphalaria glabrata]	30.8	22
+15	YRVGGVVLSYELL	YRVVVLSFELL	glycogen debranching enzyme N-terminal domain-containing protein [Breznakibacter xylanolyticus]	30.8	22
+16	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	MULTISPECIES: 9-O-acetylesterase [Bacteroides]	30.8	22
+17	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides sp. 2_2_4]	30.8	22
+18	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides ovatus]	30.8	22
+19	YQTYRVKGDKVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides caecimuris]	30.8	22
+20	YQTYRVKGDKVILSFE	YQPYRVVVLSFE	MULTISPECIES: 9-O-acetylesterase [Bacteroides]	30.8	22
+21	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides ovatus]	30.8	22
+22	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides sp. KFT8]	30.8	22
+23	YQTYRVKGDKVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides xylanisolvens]	30.8	22
+24	YQKLGIPYRVVVLS	YQPYRVVVLS	serine--tRNA ligase [Marine Group I thaumarchaeote]	30.8	22
+25	RLVVLSFELL	RVVVLSFELL	hypothetical protein HELRODRAFT_170769 [Helobdella robusta]	30.3	22
+26	QSYRSVILSFEL	QPYRVVVLSFEL	AAA-like domain-containing protein [Nostoc sp. 106C]	30.3	22
+27	GYQPYRVV	GYQPYRVV	ABC transporter substrate-binding protein [Granulicella sp. S190]	30.3	22
+28	YRVPVLSFQLL	YRVVVLSFELL	PREDICTED: E3 ubiquitin-protein ligase rnf213-beta-like [Sinocyclocheilus grahami]	29.9	22
+0	RLVVLSFELLH	RVVVLSFELLH	hypothetical protein HELRODRAFT_170769 [Helobdella robusta]	34.1	23
+1	YEGYRWLATIVVLSFELL	YQPYRVVVLSFELL	protein tweety homolog 1-B isoform X1 [Lingula anatina]	32.9	23
+2	YEGYRWLATIVVLSFELL	YQPYRVVVLSFELL	protein tweety homolog 1-B isoform X3 [Lingula anatina]	32.9	23
+3	YQPHRVVVLALDGLLPFEL	YQPYRVVVLSFEL	helix-turn-helix domain-containing protein [Streptomyces sp. TRM66268-LWL]	32.0	23
+4	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. SYW-8]	31.6	23
+5	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Fastidiosibacter lacustris]	31.6	23
+6	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Cysteiniphilum sp. JM-1]	31.6	23
+7	YQPYRIVVL	YQPYRVVVL	hypothetical protein [Caedibacter taeniospiralis]	31.6	23
+8	YRVGGVVLSYELL	YRVVVLSFELL	glycogen debranching enzyme N-terminal domain-containing protein [Breznakibacter xylanolyticus]	30.8	23
+9	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	MULTISPECIES: 9-O-acetylesterase [Bacteroides]	30.8	23
+10	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides sp. 2_2_4]	30.8	23
+11	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides ovatus]	30.8	23
+12	YQTYRVKGDKVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides caecimuris]	30.8	23
+13	YQTYRVKGDKVILSFE	YQPYRVVVLSFE	MULTISPECIES: 9-O-acetylesterase [Bacteroides]	30.8	23
+14	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides ovatus]	30.8	23
+15	YQTYRVKGDRVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides sp. KFT8]	30.8	23
+16	YQTYRVKGDKVILSFE	YQPYRVVVLSFE	9-O-acetylesterase [Bacteroides xylanisolvens]	30.8	23
+17	YQPYRVVV	YQPYRVVV	PEGA domain-containing protein [Thermus antranikianii]	30.8	23
+18	YQKLGIPYRVVVLS	YQPYRVVVLS	serine--tRNA ligase [Marine Group I thaumarchaeote]	30.8	23
+19	QSYRSVILSFEL	QPYRVVVLSFEL	AAA-like domain-containing protein [Nostoc sp. 106C]	30.3	23
+20	YRVPVLSFQLL	YRVVVLSFELL	PREDICTED: E3 ubiquitin-protein ligase rnf213-beta-like [Sinocyclocheilus grahami]	29.9	23
+21	QPYVSRMFTLMRVVDWLHVLNFEVLH	QPYRVVVLSFELLH	methyltransferase domain-containing protein [Enterobacillus tribolii]	29.9	23
+22	EPYRVLVLSYE	QPYRVVVLSFE	hypothetical protein [Paenibacillus lactis]	29.5	23
+23	PYRVVVSSEAPVSELSLELL	PYRVVVLSFELL	PREDICTED: E3 ubiquitin-protein ligase MARCH6-like, partial [Biomphalaria glabrata]	29.5	23
+24	QPLVLSFELLH	QPYRVVVLSFELLH	C4-dicarboxylic acid transporter DauA [Pseudomonas sp. Q2-TVG4-2]	29.5	23
+25	QPYRVVVL	QPYRVVVL	coumaroyl-CoA:anthocyanidin 3-O-glucoside-6''-O-coumaroyltransferase 1-like [Juglans regia]	29.5	23
+26	PYRLVVHLSFALL	PYRVVVLSFELL	COX15/CtaA family protein [Granulibacter bethesdensis]	29.5	23
+27	PYRLVVHLSFALL	PYRVVVLSFELL	COX15/CtaA family protein [Granulibacter bethesdensis]	29.5	23
